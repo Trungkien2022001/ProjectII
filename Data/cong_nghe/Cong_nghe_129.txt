@@ -1,0 +1,11 @@
+'Độ' cổng Lightning cho điện thoại Android
+Chiếc Samsung Galaxy A51 được kỹ sư Ken Pillonel gắn cổng Lightning của Apple, cho phép thiết bị có thể sạc và truyền dữ liệu.
+Ken Pillonel cũng là kỹ sư từng lắp thành công cổng USB-C lên chiếc iPhone X và bán được 86 nghìn USD. Trong dự án mới nhất, anh thực hiện ý tưởng ngược lại là gắn cổng Lightning lên điện thoại Galaxy A51 - vốn được trang bị cổng USB-C.
+Trong video đăng trên kênh YouTube hôm 1/4, Pillonel chia sẻ nhanh quy trình lắp đặt, gồm nhiều bước, từ nghiên cứu, thiết kế lại các cổng kết nối đến những thao tác thực tế trên bảng mạch. Thiết bị có thể được sạc và truyền dữ liệu bằng cổng kết nối mới.
+Kỹ sư này cho biết đây là một thay đổi phức tạp. Thách thức lớn nhất là làm cho các bộ phận được sinh ra với những mục đích khác nhau có thể hoạt động cùng nhau, gồm cả cổng và cáp Lightning, vốn được Apple kiểm soát rất kỹ.
+"Cáp Lightning thực sự không đơn giản. Chúng chỉ sạc cho thiết bị Apple, vì vậy tôi phải tìm cách lừa sợi cáp này tưởng rằng chúng đang được cắm vào một thiết bị đúng của hãng", Pillonel nói. Ngoài ra, việc đưa tất cả các linh kiện nằm gọn bên trong thân máy của điện thoại ban đầu cũng là một thách thức.
+Chia sẻ với Engadget, Pillonel cho biết anh có thể thực hiện nhanh một phần nhờ kinh nghiệm với iPhone gắn cổng USB-C trước đây. Ngoài ra, thiết bị được "độ" với mục đích vui vẻ, không đặt nặng vấn đề chất lượng hoàn thiện như những chiếc máy trước.
+Video được chia sẻ vào ngày 1/4 khiến nhiều người cho rằng đây có thể là trò đùa. Ngoài ra, trang bị cổng Lightning vào máy Android được đánh giá sự hạ cấp về tính năng so với cổng USB-C gốc. Tuy nhiên, trao đổi với Engadget, Pillonel cho biết anh hoàn toàn nghiêm túc với dự án. Việc đăng vào ngày nói dối là ý đồ của anh về một dự án vui nhộn, cân bằng với những "sự hỗn loạn" mà anh từng tạo ra trên chiếc iPhone dùng cổng USB-C năm ngoái.
+"Tôi không kỳ vọng bán chiếc điện thoại này. Tôi muốn tập trung vào các dự án kỹ thuật của mình và chỉ muốn xem liệu mình có thể làm được hay không", anh nói.
+Trước đó, kỹ sư này là người đầu tiên lắp thành công cổng USB-C hoạt động được trên iPhone X. Thiết bị này sau đó đã được trả giá 100.000 USD trên eBay, trước khi chốt giá cuối 86.000 USD vào tháng 11/2021.
+Lưu Quý (theo Engadget)

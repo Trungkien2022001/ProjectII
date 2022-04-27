@@ -1,0 +1,8 @@
+Tỉnh nào duy nhất có ba mặt giáp biển?
+Tỉnh này có địa điểm duy nhất trên đất liền ở Việt Nam có thể ngắm Mặt Trời mọc lên từ mặt biển Đông vào buổi sáng và lặn xuống mặt biển vào buổi chiều.
+Việt Nam hiện có 28 tỉnh, thành ven biển, trải dọc theo bờ biển dài hơn 3.260 km, từ Quảng Ninh đến Kiên Giang. Từ Bắc vào Nam, các tỉnh thành có biển lần lượt là: Quảng Ninh, Hải Phòng, Thái Bình, Nam Định, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa Thiên Huế, Đà Nẵng, Quảng Nam, Quảng Ngãi, Bình Định, Phú Yên, Khánh Hòa, Ninh Thuận, Bình Thuận, Bà Rịa - Vũng Tàu, TP HCM, Tiền Giang, Bến Tre, Trà Vinh, Sóc Trăng, Bạc Liêu, Cà Mau và Kiên Giang.
+Câu 1: Tỉnh duy nhất có ba mặt đất liền giáp biển?
+a. Khánh Hòa
+b. Kiên Giang
+c. Cà Mau
+Lê Nam (tổng hợp)

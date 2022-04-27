@@ -1,0 +1,9 @@
+Bảng khuyến mãi các dòng ôtô đang bán tại Việt Nam
+VnExpress cập nhật thêm tính năng tổng hợp mức khuyến mãi vào bảng giá của các dòng ôtô đang bán tại Việt Nam.
+Khi mua xe, bên cạnh giá niêm yết, các mức khuyến mãi cũng là thứ khiến khách hàng cân nhắc sẽ mẫu xe này hay mẫu xe khác. Để giúp độc giả có thể cập nhật những mức khuyến mãi mà các đại lý, hãng xe đang áp dụng, từ đó tìm ra mẫu xe hợp lý với nhu cầu và túi tiền, Xe-VnExpress giới thiệu thêm chức năng "Khuyến mãi" trong bảng giá xe trên V-Car.
+Trên giao diện trang chủ của Hệ thống dữ liệu ôtô V-Car, độc giả kéo xuống giữa trang sẽ gặp Bảng giá xe, ở đó có đầy đủ giá niêm yết và các mức khuyến mãi và cả giá kênh, mức "bia kèm lạc" (nếu có). Mức ưu đãi này sẽ được cập nhật liên tục khi có thay đổi từ đại lý hoặc hãng.
+Ví dụ ở bảng trên, dòng City đang có khuyến mãi 10-30 triệu tiền mặt tuỳ phiên bản và 15-25 triệu đồng phụ kiện tùy đại lý. Tuy vậy, Civic hay HR-V lại đang không được áp dụng ưu đãi nào.
+V-Car là hệ thống dữ liệu ô tô lớn nhất Việt Nam, với 30 hãng xe, gần 160 dòng xe và gần 500 phiên bản. Độc giả có thể tra cứu theo hãng xe, theo phân khúc, theo loại xe , hoặc có thể nhập tên xe vào ô tìm kiếm rồi bấm chọn theo gợi ý.
+Với mỗi hãng xe sẽ có tất cả sản phẩm hãng đang bán tại Việt Nam. Mỗi sản phẩm đều có giá bán lẻ đề xuất cũng như dự tính chi phí lăn bánh, bảng thông số kỹ thuật và những mô tả, đánh giá chi tiết. Ngoài ra là sự so sánh với các đối thủ khác tại thị trường Việt Nam, video trải nghiệm và những tin tức mới nhất.
+Cũng tại V-Car, độc giả có thể xem được top xe bán chạy của tháng gần nhất, danh sách các xe mới ra mắt để có thể tìm hiểu kỹ hơn và đưa ra quyết định tiêu dùng phù hợp.
+Xe - VnExpress

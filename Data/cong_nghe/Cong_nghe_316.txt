@@ -1,0 +1,11 @@
+Lý do chưa triển khai hộ chiếu vaccine
+Việc triển khai chức năng ký số đến các địa phương còn gặp khó khăn, khiến chưa thể thí điểm hộ chiếu vaccine tại Việt Nam.
+Cục Công nghệ thông tin - Bộ Y tế cho biết đã làm việc với các cơ quan của Bộ Thông tin và Truyền thông, đơn vị cung cấp dịch vụ để cùng đánh giá chức năng ký số. "Hiện chức năng chưa đáp ứng yêu cầu nên chưa thể triển khai thử nghiệm", Cục kết luận ngày 22/2.
+Ký số là một trong những khâu quan trọng trong quy trình cấp hộ chiếu vaccine của Việt Nam. "Ký số xong mới có mã QR chứng nhận tiêm đạt tiêu chuẩn châu Âu" ông Nguyễn Trường Nam, Phó Cục trưởng Công nghệ thông tin - Bộ Y tế, giải thích.
+Theo Bộ Y tế, giải pháp ký số được đưa ra xem xét còn tồn tại một số vấn đề, như chức năng ký số phải ký được cả dữ liệu định dạng json, trong khi hiện mới ký được định dạng tệp pdf. Quy trình ký số cần cho phép tỉnh thành trực thuộc Trung ương chỉ định đơn vị ký tập trung (Sở Y tế hoặc Trung tâm Kiểm soát bệnh tật tỉnh) hoặc các cơ sở tiêm chủng ký tùy theo khả năng, tình hình thực tế ở mỗi địa phương. Ngoài ra, chữ ký số phải sử dụng được các dịch vụ của nhà cung cấp khác nhau.
+Bộ Y tế cũng đề nghị bổ sung chức năng hiển thị hộ chiếu vaccine trên ứng dụng PC-Covid, trên cơ sở kết nối dữ liệu với Hệ thống cấp hộ chiếu vaccine của Bộ Y tế.
+Biểu mẫu và quy trình cấp hộ chiếu vaccine được đưa ra từ ngày 20/12/2021, nhưng sau hơn hai tháng vẫn chưa thể triển khai.
+Một quy trình cấp hộ chiếu vaccine gồm ba bước. Đầu tiên, cơ sở tiêm chủng rà soát, xác minh, xác thực thông tin người tiêm chủng vaccine Covid-19. Bước hai, cơ sở tiêm chủng thực hiện ký số trên nền tảng quản lý tiêm chủng Covid-19. Nền tảng được kết nối, chia sẻ dữ liệu với Hệ thống quản lý cấp chứng nhận tiêm chủng vaccine Covid-19. Bước ba, Cục Y tế dự phòng - Bộ Y tế thực hiện ký số giấy xác nhận tiêm chủng vaccine Covid-19. Chứng nhận được cấp sử dụng định dạng mã QR theo tiêu chuẩn của EU.
+Đại diện Bộ Y tế cho biết, sắp tới việc triển khai Hộ chiếu vaccine sẽ được thí điểm trước tại ba bệnh viện.
+Chữ ký số là một dạng chữ ký điện tử, có thể thay thế chữ ký tay trong các tài liệu trên môi trường số. Theo yêu cầu kỹ thuật của Bộ Y tế, ký số trong quy trình tạo QR của hộ chiếu vaccine sử dụng thuật toán ký số RSA 2048 bits cùng thuật toán băm SHA-256.
+Lưu Quý

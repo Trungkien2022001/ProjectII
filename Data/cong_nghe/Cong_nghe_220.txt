@@ -1,0 +1,9 @@
+Bán nhầm NFT triệu USD với giá chưa đầy một xu
+Nhà sưu tập Dino Dealer đặt nhầm lệnh bán NFT với giá chưa đầy một cent, khiến khối tài sản hơn một triệu USD biến mất trong nháy mắt.
+Dữ liệu blockchain cho thấy nhà sưu tập có biệt danh Dino Dealer đã rao bán bộ sưu tập NFT EtherRock với giá 444 wei (chưa đầy một cent), thay vì 444 ETH (hơn một triệu USD), và lập tức có người mua hàng thông qua phần mềm tự động.
+"Chỉ với một cú nhấp chuột, toàn bộ khối tài sản hơn một triệu USD của tôi đã biến mất. Liệu còn hy vọng nào không? Tôi có thể làm gì? Liệu người mua có thể nhân từ với tôi không", Dino Dealer viết trên Twitter hôm 10/3, đồng thời tìm cách liên lạc để xin trả lại tác phẩm.
+Chủ sở hữu hiện tại của NFT Etherrock đang rao bán nó với giá 234 ETH, tương đương 600.000 USD. Phần lớn người theo dõi bày tỏ ngỡ ngàng với sự nhầm lẫn của Dino Dealer, trong khi một số người cũng trêu chọc nhà sưu tập này.
+EtherRock là dự án NFT được triển khai từ bốn năm trước nhưng mới trở nên nổi tiếng hồi năm ngoái và liên tục tăng giá. Nó gồm 100 bức ảnh về một hòn đá vẽ theo phong cách hoạt họa, mỗi bức có tông màu khác nhau và được chuyển thành NFT. Trong cuộc đấu giá hồi tháng 10/2021, một nhà sưu tập đã trả giá 900 ETH (hơn 3,5 triệu USD) cho một bức ảnh trong số này.
+Mua hàng thông qua phần mềm (bot) đang trở nên phổ biến tại các chợ NFT, đến mức nhiều website chào bán bot riêng để cạnh tranh từng tích tắc.
+Thành công của EtherRock đã tạo ra hàng loạt bản sao trong thế giới NFT, nhưng không ai giải thích được lý do nó có giá trị cao như vậy hay tại sao có người sẵn sàng chi hàng nghìn USD để mua bot giành giật nó. Những người nắm giữ EtherRock khẳng định rằng "họ thích những hòn đá".
+Điệp Anh (theo Vice)

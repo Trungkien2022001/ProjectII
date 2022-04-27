@@ -1,0 +1,5 @@
+Bài toán bảy tam giác đều
+Trong 5 phút, bạn có thể tìm được đáp số đúng cho bài toán bảy tam giác đều dành cho học sinh lớp 6 tham dự kỳ thi Toán học trẻ quốc tế IIMC 2021?
+Đề bài:
+Cho 7 tam giác đều xếp liên tiếp nhau tạo thành một hình thang cân như hình vẽ dưới đây. Đường chéo của hình thang cân cắt 3 tam giác đều có 3 phần tô màu đỏ. Biết diện tích mỗi tam giác đều là 2022. Tính tổng diện tích 3 phần tô đỏ.
+Trần Phương

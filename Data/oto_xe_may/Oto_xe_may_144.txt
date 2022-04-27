@@ -1,0 +1,12 @@
+Chuyện gì xảy ra khi xe tự lái bị cảnh sát dừng
+MỹKhông bật đèn pha khi chạy trên phố giữa trời tối, chiếc Cruise không có tài xế bị cảnh sát San Francisco dừng lại, hôm 1/4.
+"Hôm 1/4, khoảng 22h, các sĩ quan cảnh sát thấy một chiếc xe chạy trên đường mà không bật đèn pha tại điểm giao cắt giữa phố Clement và đại lộ số 8", Robert Rueca, cảnh sát San Franciscso trả lời truyền thông trong thư điện tử. Ngay sau đó, cảnh sát dừng chiếc ôtô trên và phát hiện ra không có tài xế cũng như bất cứ ai trên xe.
+Nhưng đột nhiên, ôtô chạy đi một đoạn rồi dừng lại. Lúc này, cảnh sát liên lạc được với người điều khiển xe từ xa. Sau đó, một đội bảo trì tới hiện trường và cử người lên trực tiếp điều khiển xe.
+Thực tế, chiếc xe bị dừng lại là một mẫu xe điện Chevrolet Bolt và đang được thử nghiệm bởi Cruise - ôtô không người lái thuộc thương hiệu con của hãng General Motors. Xe đang chạy thử tại San Francisco và không bật đèn pha.
+Từ cuối năm 2020, Cruise đã thử nghiệm xe tự lái chạy cả ngày tại San Francisco và từ đầu năm nay bắt đầu phục vụ hành khách miễn phí vào ban đêm. Tháng 3 vừa qua, hãng công bố rằng những mẫu xe này đã chạy được tổng cộng hơn 3,2 triệu km quanh thành phố.
+Alphabet, công ty mẹ của Google, cũng có thương hiệu con chuyên phát triển công nghệ xe tự lái là Waymo. Hãng đang có kế hoạch cung cấp các chuyến đi miễn phí tại San Franciscos như một chương trình chạy thử.
+Xe tự lái thường trang bị các cảm biến để nhận diện xe ưu tiên và xe cảnh sát thông qua những đặc trưng như logo, đèn và còi. Ví dụ, nếu phát hiện ra một xe ưu tiên chạy phía sau và đang nháy đèn, một chiếc Waymo được thiết kế tự động chuyển làn và dừng lại nếu thấy an toàn.
+Khi đã dừng, xe Waymo có thể tự mở khóa cửa, hạ kính, cho phép ai đó đang điều khiển xe từ xa nói chuyện với cảnh sát. Trong video, cửa kính của chiếc Cruise đã hạ, và cảnh sát ngó hẳn vào trong xe để tìm chỗ bật đèn pha.
+Nếu có hành khách trên xe, tài xế từ xa cũng có thể liên lạc với hành khách thông qua hệ thống loa và màn hình. Trong trường hợp cần thiết, nhân viên của hãng sẽ được cử ngay tới hiện trường.
+Xe tự lái cũng có khả năng nhận biết va chạm, thông qua những dấu hiệu như túi khí bung. Khi đó, xe sẽ dừng lại và lập tức gửi cảnh báo tới trung tâm.
+Mỹ Anh (theo CNBC, Washington Post)

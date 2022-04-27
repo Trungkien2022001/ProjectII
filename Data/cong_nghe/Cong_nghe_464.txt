@@ -1,0 +1,19 @@
+Kiếm 120.000 USD từ NFT hình đàn vịt trong sáu giờ
+Thorne Melcher và Mandy Musselwhite bán được hơn 10.000 NFT với tổng giá trị 120.000 USD, giúp họ không bị tịch biên tài sản và mất nhà ở.
+Thorne Melcher, sống ở Atlanta, bang Georgia (Mỹ), mất công việc kỹ sư phần mềm hồi tháng 2/2021, khiến các chi phí tiêu dùng và hóa đơn ngày càng chồng chất. Bạn gái cô là Mandy Musselwhite bán một số tác phẩm nghệ thuật để góp phần trang trải một phần chi phí.
+Năm 2019, cặp đôi chi phần lớn tiền tiết kiệm để mua ngôi nhà trị giá 300.000 USD, kèm một nông trại với 6 con vịt, hai con ngỗng và một số vật nuôi khác.
+Nỗi lo bị tịch biên tài sản thúc đẩy hai người tạo ra bộ sưu tập NFT Dastardly Ducks, gồm 10.000 hình con vịt được tạo ngẫu nhiên từ các đoạn mã với hơn 100 đặc điểm khác nhau. Họ ra mắt bộ sưu tập hôm 19/1 và bán hết trong chưa đầy 6 giờ, thu về gần 120.000 USD.
+"Chúng tôi cứu được nông trại nhờ bán tranh hoạt hình vịt. Như một giấc mơ vậy. Chúng được mua rất nhanh", Melcher, 33 tuổi, kể. "Cuộc sống của chúng tôi thay đổi chỉ sau một đêm".
+Đợt mở bán diễn ra khi hai người đang nợ thế chấp 35.587 USD và phải nộp tiền vào ngày 20/1, hoặc ra tòa sau đó một ngày. "Chúng tôi phải nghĩ tới điều gì đó. Cả hai đều không muốn mất khu nhà này. Chúng tôi và những con vật đều yêu quý nó", Musselwhite, 25 tuổi, nói.
+Trước khi ra bộ sưu tập NFT, hai người đã tiêu quá hạn mức ngân hàng. Không chỉ gặp khó khăn với hóa đơn, họ gần như không đủ tiền mua đồ ăn và ban đầu không có quỹ để trả phí triển khai hợp đồng thông minh cho Dastardly Ducks.
+May mắn là một người bạn đã giúp họ trả số tiền này.
+"Chúng tôi thực sự đã phá sản. Chỉ vài giờ sau, chúng tôi có nhiều tiền hơn bao giờ hết", Melcher nói.
+Họ bắt đầu như thế nào?
+Hai người phát triển Dastardly Ducks từ đầu tháng 1. "Cảm giác như chúng tôi đang thành lập startup và ra mắt sản phẩm đầu tiên, từ giai đoạn ý tưởng đến khi mở bán, trong chưa đầy hai tuần. Thật căng thẳng khi mọi thứ diễn ra nhanh như vậy", Melcher cho hay.
+Từng là kỹ sư phần mềm giúp cô nhanh chóng học ngôn ngữ lập trình Solidity, chuyên dùng để phát triển hợp đồng thông minh trên nền blockchain Ethereum, cùng với đó là sự hỗ trợ của nhiều người đi trước trong lĩnh vực NFT. Trong khi đó, Musselwhite là họa sĩ đồ họa và đảm nhận thiết kế từng con vịt trong bộ sưu tập.
+"Đó là sự kết hợp hoàn hảo về tài năng của chúng tôi", Melcher nói.
+Trước khi ra bộ sưu tập, hai người từng bị chỉ trích trên mạng với lý do NFT gây hại cho môi trường, vì quá trình tạo ra chúng và sử dụng blockchain đòi hỏi nguồn năng lượng lớn. Do đó, Melcher lập trình để hợp đồng thông minh được tối ưu hóa, trong đó khách hàng có thể mua và tạo bộ ảnh 12 con vịt, đòi hỏi ít năng lượng hơn so với tạo từng con.
+Mỗi hình con vịt có giá khoảng 15 USD, trong khi bộ 12 ảnh là 120 USD.
+Sau khi ra mắt Dastardly Ducks, Melcher nhận được hàng loạt đề nghị làm lập trình viên Solidity. Điều tương tự cũng diễn ra với Musselwhite. Cả hai còn nhận được tiền tác quyền khi sản phẩm được bán lại, trong đó bộ sưu tập mang về 6.354 USD trên nền tảng OpenSea.
+"Chúng tôi sẽ làm việc không ngơi nghỉ. Đây chỉ là cánh cửa dẫn đến những thứ lớn hơn. Tôi chỉ muốn chắc chắn về khả năng kinh tế và không phải lo chuyện tiền bạc. Ưu tiên lớn nhất vẫn là bảo đảm hóa đơn được thanh toán đúng hạn", Melcher nói.
+Điệp Anh (theo CNBC)

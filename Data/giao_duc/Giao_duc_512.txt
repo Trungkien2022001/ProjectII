@@ -1,0 +1,5 @@
+Đáp án bài toán tương tác 'thắp sáng bóng đèn'
+Bài toán "thắp sáng bóng đèn" thuộc dạng toán tổ hợp không biên giới có độ khó tương đương bài tổ hợp thi Olympic Toán quốc tế nhưng các yêu cầu mở rộng của nó khó hơn nhiều.
+Đề bài:
+Cho 36 bóng đèn trong 36 ô vuông ở bảng 6x6. Hai bóng đèn gọi là kề nhau nếu nó nằm trong hai ô vuông có chung cạnh. Giả sử nếu có một số bóng đèn được bật sáng thì cứ sau mỗi phút bóng đèn kề với ít nhất hai bóng đèn sáng đều được bật sáng. Hỏi ban đầu, cần bật sáng ít nhất bao nhiêu bóng đèn để chắc chắn đến một lúc nào đó tất cả 36 bóng đèn trong bảng 6x6 đều được bật sáng?
+Trần Phương

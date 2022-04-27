@@ -1,0 +1,7 @@
+Hàng loạt dịch vụ của Apple gặp sự cố
+Nhiều người dùng không thể truy cập iMessage, iCloud, Apple Music, Maps hay Apple TV trong hàng giờ.
+Trên trang Downdetector - website chuyên phản ánh sự cố của các dịch vụ Internet, 10 trên 12 dịch vụ bị báo cáo lỗi truy cập nhiều và gần nhất lúc 1h đều thuộc về Apple. Các phàn nàn của người dùng bắt đầu xuất hiện từ khoảng 23h30 ngày 21/3 và tăng mạnh nhất lúc 0h30 ngày 22/3. Nhiều bình luận phản ánh như không thể gửi hoặc nhận tin với iMessage, không đăng nhập được các dịch vụ iCloud, Apple TV hay không thể tải dữ liệu bản đồ.
+Theo The Verge, sự cố không diễn ra đồng loạt và ảnh hưởng tới mỗi người dùng cũng khác nhau. Ví dụ, tại cùng thời điểm, tin nhắn iMessage hoạt động với người này nhưng "đơ" với người khác thay vì lỗi hoàn toàn như tình trạng Facebook từng gặp phải tháng 10/2021.
+Trong khi đó, Bloomberg báo cáo tình trạng tương tự với hệ thống dành cho quản trị viên các doanh nghiệp sử dụng Apple Business Manager. Tài khoản WABetaInfo cũng khẳng định không chỉ lỗi đăng nhập, các tính năng đồng bộ, sao lưu iCloud và TestFlight cũng dừng hoạt động và có thể gây gián đoạn về dữ liệu.
+Trên trang cập nhật trạng thái hoạt động của các dịch vụ từ Apple, hai màu xanh, đỏ liên tục đổi chỗ. Tuy nhiên, trong nhiều giờ, gần một nửa dịch vụ ở trạng thái màu đỏ - không hoạt động hoặc không hoạt động ổn định. Trên phiên bản dành riêng cho nhà phát triển, đa số ở trạng thái dừng hoạt động.
+Apple chưa đưa ra phản hồi chính thức về sự việc.

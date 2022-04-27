@@ -1,0 +1,10 @@
+Hacker đe dọa tấn công vệ tinh Nga
+Nhóm NB65, một nhánh của Anonymous, cho biết đã tấn công vệ tinh giám sát của Nga, nhưng cơ quan vũ trụ Nga khẳng định vẫn hoạt động bình thường.
+Hôm 1/3, nhóm hacker có biệt danh NB65 tuyên bố đã cho ngừng hoạt động một số công cụ và máy chủ của Cơ quan vũ trụ Nga, gồm một công cụ quản trị hệ thống tên WS02, cùng với việc đảo ngược các chứng chỉ và tắt máy chủ.
+"Cơ quan vũ trụ Nga chắc hẳn yêu thích hệ thống chụp ảnh vệ tinh của mình. Nhất là hệ thống giám sát phương tiện. Chúc một ngày sửa chữa vui vẻ các công nghệ do thám của mình", NB65 viết, kèm thông điệp nhóm này sẽ không dừng lại.
+Tuyên bố của NB65 hiện chưa được giới bảo mật xác thực. Tuy nhiên, nhóm này cũng đăng một số ảnh chụp màn hình cho thấy đã đăng nhập vào hệ thống. Ngoài ra, website của Cơ quan Vũ trụ Nga Roscosmos cũng ở trong tình trạng ngoại tuyến và không thể truy cập.
+Ngày 2/3, người đứng đầu cơ quan này, ông Dmitry Rogozin bác bỏ thông tin vệ tinh bị tấn công. Phát biểu trên đài truyền hình Russia 24 TV, ông khẳng định đó là tin giả và các cuộc tấn công đã bị đẩy lùi bởi hệ thống an ninh. Trên Twitter cá nhân, ông chia sẻ lại thông tin mà nhóm hacker Anonymous đăng về NB65, và gọi đó là "thông tin của những kẻ lừa đảo nhỏ mọn".
+Người đứng đầu Roscosmos cũng cảnh báo hành động tấn công vào hệ thống vệ tinh là một tội ác, cần bị trừng trị nghiêm khắc. "Chúng tôi sẽ truy tìm những kẻ đã tổ chức việc này và gửi tài liệu cần thiết đến cơ quan điều tra", Rogozin nói.
+Về việc website ngừng hoạt động, trang Interfax dẫn lời bộ phận truyền thông của cơ quan này cho biết, website bị tấn công DDoS trên quy mô lớn từ cuối tháng 2 nên tạm thời không thể truy cập.
+NB65 là nhóm hacker ẩn danh mới xuất hiện từ cuối tháng 2, sau lời kêu gọi của Anonymous. Sở trưởng của nhóm là tấn công vào các hệ thống thông tin, cơ sở hạ tầng, thay vì DDoS. Trước đó, NB65 từng nói đã tấn công thành công vào một số hệ thống khí đốt của nước này.
+Lưu Quý

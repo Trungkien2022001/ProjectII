@@ -1,0 +1,8 @@
+Apple sẽ không sửa iPhone bị báo mất
+Những chiếc iPhone bị mất cắp hoặc thất lạc theo cơ sở dữ liệu của GSMA sẽ bị Apple từ chối sửa chữa.
+Trong bản ghi nhớ vừa được gửi tới nhân viên tại các Apple Store và cơ sở bảo hành uỷ quyền, Apple sẽ bổ sung dữ liệu của GSMA cho chính sách sửa chữa của mình.
+GSMA Device Registry là cơ sở dữ liệu toàn cầu, cho phép chủ sở hữu smartphone có thể thông báo về trạng thái thiết bị của mình nếu bị đánh mất, bị ăn cắp hoặc có đang trong gói hợp đồng với nhà mạng nào không. Thông qua số IMEI của điện thoại, các công ty có thể truy cập vào nền tảng này để tra cứu về tình trạng thiết bị.
+Với chính sách mới của Apple, trước khi tiến hành sửa iPhone, các nhân viên bảo hành sẽ kiểm tra xem máy có nằm trong danh sách của GSMA hay không. Nếu thiết bị từng được báo cáo mất tích, họ sẽ từ chối cung cấp tất cả dịch vụ sửa chữa.
+Trước đó, Apple cũng từ chối bảo hành với những sản phẩm bị báo mất thông qua tính năng Find My. Tuy nhiên, vẫn có một số lượng không nhỏ người dùng Apple không sử dụng tính năng này. Việc bổ sung danh sách của GSMA giúp ngăn chặn việc vô tình sửa hoặc đổi mới cho những chiếc iPhone bị đánh cắp, nhưng chủ nhân của chúng quên bật Find My trước đó. Ngoài ra, chính sách mới sẽ giúp giảm lượng iPhone bị đánh cắp được mang đến sửa tại Apple.
+Các chuyên gia khuyến nghị, với những thay đổi ngày càng chặt về chính sách bảo hành của Apple, người dùng nên lưu lại hoá đơn mua hàng để sử dụng khi cần. Trong trường hợp quên Apple ID, hoá đơn mua hàng sẽ giúp người dùng chứng minh tính sở hữu để được Apple hỗ trợ.
+Lưu Quý

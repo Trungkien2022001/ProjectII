@@ -1,0 +1,14 @@
+Hacker lừa tiền trong 'Thành phố Blockchain'
+CityDAO, tổ chức mua 16 hecta đất tại Wyoming để xây "Thành phố Blockchain", bị tin tặc tấn công và đánh cắp gần 100.000 USD từ các thành viên.
+"Thông báo khẩn. Tài khoản Discord của một admin CityDAO đã bị tin tặc đột nhập. Không có vụ mua bán đất nào cả. Đừng kết nối ví điện tử của các bạn", tài khoản Twitter của CityDAO đăng thông báo hôm 14/1.
+Những người sáng lập CityDAO đã mua 16,1 hecta đất tại bang Wyoming của Mỹ vào tháng 11/2021 với mục tiêu xây dựng "Thành phố Blockchain", được quản lý phi tập trung và người dân được mua đất dưới dạng NFT.
+Cộng đồng CityDAO hoạt động trên ứng dụng nhắn tin Discord, vốn phổ biến với giới game thủ nhưng đang trở thành công cụ trao đổi không thể thiếu với hệ sinh thái tiền điện tử.
+Tổ chức này thường cập nhật thông tin, trả lời câu hỏi, xây dựng cộng đồng và phát thông báo về các đợt mua bán đất được gắn NFT. CityDAO cho biết vụ tấn công nhằm vào tài khoản Discord của thành viên cốt lõi, biệt danh Lyons800.
+Đầu tiên, hacker đăng ảnh chụp màn hình đã bị chỉnh sửa, thể hiện Lyons800 trò chuyện trên một kênh Discord và thừa nhận lừa đảo các thành viên CityDAO.
+Lyons800 lập tức gọi điện cho tin tặc, đề nghị chứng minh mình vô tội. Kẻ này thuyết phục Lyons800 cho phép kiểm tra bảng điều khiển trên máy của mình, từ đó lấy được mã thông báo xác thực của Lyons800 trên Discord và chiếm quyền sử dụng tài khoản.
+Sau đó, kẻ tấn công đưa ra thông báo trên toàn kênh, dùng bot gửi link độc hại để chào bán mảnh đất giả mạo. Chỉ trong một ngày, tin tặc đã nhận được 29,67 ETH, tương đương gần 100.000 USD.
+Đây là vụ tấn công lớn thứ hai thông qua Discord trong thời gian ngắn. Cuối năm ngoái, một thanh niên 17 tuổi đã đánh cắp 88 ETH từ kênh Discord của dự án NFT mang tên CreatureToadz, nhưng trả lại toàn bộ số tiền nhằm tránh bị công khai danh tính.
+Theo Motherboard, các vụ đánh cắp, lừa đảo diễn ra đơn giản và chớp nhoáng, cho thấy việc xây dựng thành phố trên blockchain không phải lựa chọn đầu tư thông thái nếu người dùng vẫn phải sử dụng phần mềm chat trong game để làm mọi việc.
+Lyons800 cũng chỉ ra Discord là điểm yếu nhất, khi vụ tấn công bắt nguồn từ lỗ hổng giúp vượt qua mật khẩu và xác thực hai bước. Dù vậy, CityDAO và các dự án NFT vẫn phải dựa vào Discord để kết nối với các nhà đầu tư.
+Trong khi đó, Discord khẳng định coi trọng an toàn của người dùng và cộng đồng. "Có những biện pháp kiểm soát chặt chẽ đã được áp dụng, nhưng chúng tôi luôn cố gắng ngăn những việc như vậy xảy ra và liên tục đầu tư, phát triển công cụ bảo vệ người dùng", đại diện Discord cho hay.
+Điệp Anh (theo Vice)

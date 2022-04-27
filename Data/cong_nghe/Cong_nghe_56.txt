@@ -1,0 +1,28 @@
+Nhóm hacker Nga khét tiếng thế giới vận hành thế nào
+Nhóm ransomware Conti được tổ chức giống một công ty với đầy đủ bộ phận điều hành và nhân sự, thậm chí có cả "nhân viên tiêu biểu trong tháng".
+Hàng loạt tài liệu bị rò rỉ cho thấy chi tiết về quy mô, bộ máy lãnh đạo và hoạt động của nhóm tin tặc khét tiếng có biệt danh Conti, cùng tài sản giá trị nhất của họ - mã nguồn ransomware được nhóm sử dụng.
+Shmuel Gihon, nhà nghiên cứu tại công ty đánh giá rủi ro mạng Cyberint, cho biết Conti xuất hiện từ năm 2020 và nhanh chóng trở thành một trong những tổ chức ransomware lớn nhất thế giới. Nhóm được ước tính có khoảng 350 thành viên và thu lời khoảng 2,7 tỷ USD chỉ trong hai năm qua.
+Theo Báo cáo Tội phạm Internet năm 2021 của Cục Điều tra Liên bang Mỹ FBI, ransomware của Conti nằm trong nhóm ba biến thể hàng đầu nhắm tới cơ sở hạ tầng trọng yếu của Mỹ. "Conti thường xuyên nhắm đến lĩnh vực sản xuất thiết yếu, cơ sở tài chính, lương thực và nông nghiệp", FBI cho hay.
+Gihon nhận xét Conti là nhóm ransomware thành công nhất thế giới cho đến khi bị tung tài liệu nội bộ, bắt đầu từ 28/2. Cyberint nhận định đây là hành động trả đũa vì Conti thể hiện quan điểm ủng hộ chiến dịch quân sự của Nga tại Ukraine. Khi đó, tài khoản ContiLeaks xuất hiện trên Twitter, đăng hàng nghìn tin nhắn nội bộ của nhóm. Tài khoản này tắt chế độ nhắn tin trực tiếp và không thể liên lạc với người sở hữu, dù người này tuyên bố là "một nhà nghiên cứu an ninh".
+Gihon cho rằng vụ rò rỉ có tác động rất lớn với cộng đồng an ninh mạng, trong đó phần lớn đồng nghiệp của ông trên khắp thế giới đã dành ra nhiều tuần để nghiên cứu các tài liệu.
+Tổ chức theo kiểu truyền thống
+Conti hoạt động ngầm hoàn toàn và không liên hệ với truyền thông. Tuy nhiên, các tài liệu được tung lên mạng cho thấy họ được tổ chức và vận hành như một công ty công nghệ thông thường.
+Lotem Finkelstein, Giám đốc bộ phận đánh giá hiểm họa của Check Point Research, cho biết Conti có cơ cấu quản lý rõ ràng, sở hữu bộ phận tài chính và nhân sự riêng biệt, trong đó các trưởng nhóm sẽ báo cáo trực tiếp với cấp trên. Một số bằng chứng cho thấy tổ chức này có bộ phận nghiên cứu và phát triển, cũng như xây dựng doanh nghiệp.
+"Chúng tôi cho rằng đây là tổ chức khổng lồ, sở hữu nhiều văn phòng ngoài đời và nguồn lực dồi dào, có khả năng hợp tác với tình báo Nga", Finkelstein nói.
+Đại sứ quán Nga tại Anh từ chối bình luận về thông tin này. Moskva thường bác bỏ mối liên hệ tới các nhóm tin tặc và những cuộc tấn công mạng nhằm vào các quốc gia phương Tây.
+Nhân viên tiêu biểu trong tháng
+Check Point Research phát hiện Conti có nhân viên được trả lương đều đặn, một số nhận thanh toán bằng Bitcoin, có hệ thống đánh giá hiệu quả công việc và cơ hội tập huấn thường xuyên. Họ cũng biên chế các chuyên gia đàm phán với hoa hồng 0,5-1% cho những giao dịch tống tiền thành công.
+Nhóm tin tặc này cũng có chương trình giới thiệu việc làm, trong đó trao thưởng cho những người tuyển dụng được nhân sự cho công ty, cùng phần thưởng nửa tháng lương cho "nhân viên tiêu biểu trong tháng". Conti phạt tiền những người không đáp ứng chỉ tiêu công việc.
+Các nhân viên sử dụng thông tin giả để bảo vệ danh tính. Giới lãnh đạo Conti hứa hẹn về mức lương cao, công việc thú vị và khả năng phát triển sự nghiệp, nhưng đi kèm với đó là nguy cơ mất việc nếu không đáp ứng yêu cầu nhiệm vụ và thường xuyên phải làm ngoài giờ.
+Quy trình tuyển dụng
+Conti thuê người từ những nguồn hợp pháp như các công ty tuyển dụng nhân sự, kết hợp với mạng lưới tội phạm. "Quá trình này rất quan trọng vì tỷ lệ bỏ việc và kiệt sức rất cao đối với các nhân viên cấp thấp", Brian Krebs, chuyên gia an ninh mạng nổi tiếng tại Mỹ, nhận xét.
+Một số người thậm chí không phải chuyên gia về máy tính, khi Conti thuê nhân viên cho các trung tâm cuộc gọi. Họ sẽ giả dạng những doanh nghiệp nổi tiếng và tìm cách lừa đảo nạn nhân qua điện thoại.
+Nhiều nhân viên không biết bản chất của Conti
+"Chúng tôi có bằng chứng cho thấy không phải nhân viên nào của Conti cũng biết họ đang làm việc trong một nhóm tội phạm mạng. Những người này tưởng mình đang làm trong một doanh nghiệp quảng cáo, thay vì nhóm ransomware khét tiếng thế giới", Finkelstein nói.
+Các tin nhắn cho thấy quản lý Conti đã nói dối ứng viên tuyển dụng. "Mọi thứ đều ẩn danh tại đây, công việc chính là phát triển phần mềm cho những người kiểm tra xâm nhập", một tin nhắn có đoạn.
+Một lãnh đạo Conti giải thích rằng các lập trình viên không nắm được quy mô tổ chức vì mỗi người chỉ làm việc trong một module của phần mềm, thay vì biết được toàn bộ chương trình. Nếu có người phát hiện ra bản chất của Conti, họ sẽ được đề xuất tăng lương để tiếp tục làm việc.
+Khó biến mất hoàn toàn
+Conti được cho là có nhiều dấu hiệu bất ổn từ trước đó. Một lãnh đạo tổ chức biến mất suốt tháng 1, trong khi nhiều nhân viên bị nợ lương. Vài ngày trước vụ rò rỉ cuối tháng 2, một tin nhắn nội bộ cho biết có nhiều vụ bắt giữ thành viên doanh nghiệp và không có tiền để trả lương. "Tôi sẽ phải đề nghị mọi người nghỉ làm trong vài tháng", thông điệp có đoạn.
+Dù vậy, Conti vẫn hoạt động cầm chừng và có thể trỗi dậy trong tương lai. Nhóm này từng trải qua nhiều thách thức, trong đó có vụ phần mềm độc hại Trickbot bị vô hiệu hóa hồi năm 2021.
+Theo The Record, cuộc xung đột Nga - Ukraine từ lâu đã gây chia rẽ trong thế giới ngầm của tội phạm mạng. Trong khi Conti ủng hộ Nga, Anonymous ở phe đối lập, còn một nhóm khét tiếng khác là LockBit giữ quan điểm trung lập. Tin tặc Nga và Ukraine trước đây vẫn hợp tác với nhau, nhưng nay quan hệ đã trở nên căng thẳng.
+Điệp Anh (theo CNBC)

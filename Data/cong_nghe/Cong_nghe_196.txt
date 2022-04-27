@@ -1,0 +1,9 @@
+Công cụ bảo mật của Microsoft nhầm Office là mã độc
+Microsoft Defender cảnh báo bản cập nhật của Office là mã độc tống tiền và tập đoàn phần mềm sau đó phải thừa nhận công cụ đã bị lỗi code.
+Các cảnh báo bắt đầu xuất hiện từ giữa tháng 3 trên một số hệ thống sử dụng công cụ bảo mật điểm cuối Microsoft Defender, trong đó đánh dấu nhiều tệp tin hệ thống và cả bản cập nhật của Office là mã độc tống tiền.
+Cảnh báo trên gây ra các lo lắng không cần thiết, ảnh hưởng đến hoạt động của nhiều hệ thống thông tin. Nhiều chuyên viên quản trị hệ thống Windows cho biết họ nhận được "cơn mưa cảnh báo ransomware" từ Defender, dù hệ thống không có bất cứ điều gì bất thường.
+Microsoft chưa bình luận chính thức về hiện tượng này. Tuy nhiên trên diễn đàn Reddit, chuyên gia bảo mật Steve Scholz của Microsoft xác nhận về tình trạng nhầm lẫn. Theo đó, từ ngày 16/3, một số hệ thống của khách hàng của Microsoft có thể nhận cảnh báo "dương tính giả" về ransomware. Những hành vi được hệ thống đánh giá là giống với mã độc tống tiền, được phát hiện trong file hệ thống cũng như tệp tin OfficeSvcMgr.exe của Microsoft Office.
+"Microsoft đã kiểm tra sự gia tăng đột biến của các cảnh báo này và xác định đó là 'dương tính giả'", Scholz cho biết.
+Theo chuyên gia của Microsoft, điều này xảy ra do bản cập nhật Defender mới gặp sự cố về code, dẫn đến cảnh báo được kích hoạt ngay cả khi không có vấn đề gì. Hãng đã tung ra bản cập nhật code để khắc phục sự cố
+Đây không phải lần đầu Microsoft Defender for Endpoint gặp sự cố cảnh báo nhầm. Tháng 11 năm ngoái, công cụ này cũng xác định các file thực thi trong bộ ứng dụng Office là mã độc Emotet và ngăn người dùng mở. Một tháng sau đó, hệ thống quét Log4j của Defender cũng tiếp tục cảnh báo nhầm về một số file khi xác định chúng là file giả mạo.
+Lưu Quý (theo Reddit, Bleeping Computer)

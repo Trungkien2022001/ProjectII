@@ -1,0 +1,9 @@
+Bài toán tương tác 'thắp sáng bóng đèn'
+Bài toán "thắp sáng bóng đèn" thuộc Toán tương tác liệu có làm khó bạn?
+Toán tương tác là sản phẩm tinh hoa được Đại học Hoàng gia London (Vương Quốc Anh) kết hợp với Đại học Khoa học và Công nghệ Hong Kong (HKUST) sáng tạo dành cho học sinh phổ thông.
+Ngày 25/8/2008, Đại học Khoa học và Công nghệ Hong Kong (HKUST) phối hợp với Đại học Hà Nội, Trung tâm hỗ trợ phát triển tài năng tổ chức kỳ thi online Toán tương tác đầu tiên tại Việt Nam với tên gọi "World Class Arena - Đấu trường lớp học thế giới". Đây là một dạng thức thi "Game toán học" với đề thi có thể tích hợp trên máy tính bàn, laptop, sau này là Ipad và điện thoại.
+Kỳ thi "World Class Arena" đã phát hiện ra nhiều tài năng. Vì vậy sau kỳ thi, Đại học Hà Nội và Trung tâm hỗ trợ phát triển tài năng đã thành lập "Câu lạc bộ phát triển tài năng học sinh". Nơi đây đã chắp cánh cho nhiều học sinh đạt kết quả cao trong các kỳ thi quốc tế cũng như giành học bổng du học danh giá.
+Dưới đây là bài toán "Thắp sáng bóng đèn" được thầy giáo Trần Phương giới thiệu tại hội thảo năm 2008 diễn ra một ngày trước kỳ thi "World Class Arena". Năm 2017, bài toán này được hoàn thiện trên phần mềm Flash. Để cảm nhận về Toán tương tác, chúng ta sẽ cùng thử sức với bài toán đơn giản nhất trong các dạng bài "Thắp sáng bóng đèn" sau đây:
+Đề bài:
+Cho 36 bóng đèn trong 36 ô vuông ở bảng 6x6. Hai bóng đèn gọi là kề nhau nếu nó nằm trong hai ô vuông có chung cạnh. Giả sử nếu có một số bóng đèn được bật sáng thì cứ sau mỗi phút bóng đèn kề với ít nhất hai bóng đèn sáng đều được bật sáng. Hỏi ban đầu, cần bật sáng ít nhất bao nhiêu bóng đèn để chắc chắn đến một lúc nào đó tất cả 36 bóng đèn trong bảng 6x6 đều được bật sáng?
+Trần Phương

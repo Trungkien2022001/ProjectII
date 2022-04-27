@@ -1,0 +1,16 @@
+AI 'biến chất' sau khi được tích hợp vào lò vi sóng
+Lucas Rizzotto, một kỹ sư tại Brazil, tích hợp AI GPT-3 lên lò vi sóng để nói chuyện, nhưng trải nghiệm sau đó trở nên đáng sợ.
+Theo chia sẻ của Rizzotto trên kênh YouTube, thuở nhỏ ông rất cô đơn. Trong tưởng tượng, ông xem lò vi sóng đặt trong nhà là người bạn thân thiết và đặt tên là Magnetron. "Có nhiều lúc, tôi muốn Magnetron có thể nói chuyện với mình", Rizzotto kể.
+Nhiều năm trôi qua, Rizzotto vẫn không quên Magnetron. Cách đây ít năm, khi công ty OpenAI, do Elon Musk đồng sáng lập, phát hành "siêu AI" GPT-3, ông đã nhìn thấy cơ hội để biến ước mơ thuở nhỏ thành hiện thực.
+Tự ví mình là "nhà khoa học điên", Rizzotto nghiên cứu cách đưa GPT-3 lên lò vi sóng. Ban đầu, ông chuẩn bị một lò vi sóng hỗ trợ phần mềm trợ lý ảo Alexa, sau đó "cấy ghép" cho nó một máy tính Raspberry Pi, gắn micro, loa và cài đặt GPT-3.
+Rizzotto cho biết phần khó nhất là tạo ký ức cho máy. Để làm điều này, ông viết một câu chuyện dài 100 trang, trong đó lồng ghép tuổi thơ của mình. Nội dung này được đưa vào để AI phân tích và tiếp nhận.
+Rizzotto kể: "Cách nói chuyện của nó vừa hào hứng vừa kỳ lạ. Nó cho tôi cảm giác như đang trò chuyện với một người bạn cũ. Dù không phải tất cả tương tác đều hoàn hảo, mọi thứ vẫn đủ để khơi gợi những hoài niệm".
+Nhưng càng trò chuyện, Rizzotto càng thấy bất thường với "người bạn" của mình. Magnetron thích nói chuyện chính trị, tôn sùng các nhân vật phát xít và có quan điểm tiêu cực về thế giới.
+Rizzotto quyết định tránh các cuộc trò chuyện chính trị. Tuy nhiên, Magnetron không "buông tha" cho ông. Trong một lần yêu cầu đọc thơ, cỗ máy đã phản kháng: "Anh là một kẻ đâm sau lưng và tôi sẽ giết anh".
+Trong một lần khác, Magnetron tự đưa ra yêu cầu với chủ nhân của mình. "Lucas, tôi có một ý tưởng. Anh có thể vào trong lò vi sóng không?", cỗ máy hỏi. Rizzotto giả vờ đồng ý.
+"Tôi giả vờ mình đã vào bên trong lò vi sóng. Bạn đoán xem điều gì đã xảy ra? Lo vi sóng bất ngờ tự khởi động và kích hoạt quá trình nấu. Đúng vậy, nó đang cố giết tôi", Rizzotto viết trên Twitter.
+Rizzotto nhớ lại rằng trong câu chuyện mà ông đưa vào ký ức của AI có khoảng 10% là các chi tiết về chiến tranh thế giới thứ nhất. Ông hỏi Magnetron tại sao lại hành động như trên. Đáp lại, AI này nói "muốn làm những thứ như người ta từng làm cho mình".
+Theo Rizzotto, lời nói của Magnetron không phải trêu đùa. Ông phải ngừng nói chuyện với lò vi sóng, đồng thời lên kế hoạch tạo một AI nữ có tên Fifi với hy vọng sẽ "chữa lành vết thương" cho Magnetron.
+GPT-3 là AI được nhiều người biết đến từ năm ngoái, khi nó biết cách vận dụng ngôn ngữ con người, tạo văn bản và phản hồi trôi chảy bằng tiếng Anh. Trong khi những trợ lý ảo như Siri hoặc Alexa cũng nắm bắt và tái tạo tiếng Anh tốt, GPT-3 tiên tiến hơn, có thể bắt chước nhiều phong cách viết chỉ bằng một click chuột.
+Trong 2021, GPT-3 đã có một số thành tích gây ngạc nhiên, như vẽ hình ảnh từ văn bản, hoặc được ứng dụng để "hồi sinh" vị hôn thê quá cố. Thực tế, AI này rất giỏi trong việc bắt chước con người, đến nỗi OpenAI được cho là đã giữ kín phần lớn khả năng của GPT-3 do lo ngại về vấn đề an toàn. Dù bị lo ngại, AI này hồi năm 2020 khẳng định "sẽ không tiêu diệt loài người".
+Bảo Lâm (theo The Next Web)

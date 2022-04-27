@@ -1,0 +1,19 @@
+Đào tiền điện tử bằng ôtô điện, kiếm 800 USD mỗi tháng
+Siraj Raval khẳng định kiếm hàng trăm USD mỗi tháng nhờ đào Bitcoin và ETH trên Tesla Model 3 đời 2018, nhưng nhiều người tỏ ra hoài nghi.
+Theo CNBC, Raval, sống ở San Francisco, chạy phần mềm cày Bitcoin miễn phí trên máy tính Mac Mini M1 và cấp điện cho nó bằng cách cắm thiết bị biến tần vào ổ 12 volt ở bảng điều khiển ôtô, đồng thời chạy card đồ họa gắn ngoài dựa vào nguồn pin trên xe để đào ETH.
+Điều này có thể khiến xe mất bảo hành, nhưng Raval cho rằng nó xứng đáng với lợi nhuận thu được. Khi ETH đạt đỉnh đầu năm 2021, Raval nói mỗi tháng anh thu lời đến 800 USD.
+Theo Alejandro de la Torre, một thợ đào Bitcoin chuyên nghiệp, đào tiền điện tử trên xe Tesla cũng giống như kết nối thiết bị vào những nguồn năng lượng khác. "Yếu tố chính ảnh hưởng tới chi phí là tiền điện. Nếu dùng xe điện giúp giảm chi phí thì điều đó cũng rất bình thường", de la Torre nhận xét.
+Đào tiền ảo bằng xe Tesla như thế nào
+Cũng giống Raval, từ năm 2018, Chris Allessi quyết định can thiệp vào xe Tesla của mình. Anh thử nhiều cách biến chiếc Tesla Model S thành thiết bị đào. Anh từng cắm máy đào chuyên dụng Bitmain Antminer S9 vào ắc quy xe thông qua bộ biến tần, cho phép điều chỉnh điện thế từ pin sang mức phù hợp. Allessi cũng tác động vào firmware của xe để khai thác các loại tiền ngoài Bitcoin.
+Anh sử dụng máy tính và màn hình trên xe để truy cập website tự xây dựng để cày tiền điện tử Monero. "Không có gì đặc biệt. Tôi có thể chạy phần mềm khai thác ngay trong trình duyệt", Allessi mô tả quá trình này.
+Trong khi đó, Raval cho biết cách mang lại nhiều lợi nhuận nhất là kết hợp giữa truy cập máy tính của xe Tesla và cắm card đồ họa trực tiếp vào động cơ xe. "Nó là một bộ máy tính có bánh xe. Truy cập vào máy tính rất đơn giản", Raval nói. Anh sau đó kết nối 5 card đồ họa vào pin xe Tesla và chạy phần mềm đào ETH.
+Tuy nhiên, hacker Thomas Sohmers cho rằng bước tác động này không thật sự cần thiết. "Bản thân xe có thể cung cấp 100 kilowatt điện, mọi thứ cắm vào xe chỉ chiếm một phần nhỏ trong đó. Không cần làm những gì Raval mô tả, nó vô nghĩa về mặt kỹ thuật", Sohmers nhận xét.
+Có xứng đáng với công sức bỏ ra?
+Đào tiền ảo trên Tesla có mang lại lợi nhuận hay không phụ thuộc nhiều vào giai đoạn tài xế mua xe. Allessi mua trước tháng 1/2017 và được quyền sạc pin miễn phí, không giới hạn trong suốt vòng đời xe. Năm 2018, anh kiếm được 10 USD trong 60 giờ, tất cả đều được coi là lãi vì không phải trả tiền điện. Tuy nhiên, thợ đào này cho rằng điều đó không xứng đáng với những gì chủ xe phải bỏ ra.
+"Tại sao phải làm hao mòn chiếc xe có giá 40.000-100.000 USD như vậy. Khi giá Bitcoin tăng cao, độ khó cũng tăng lên. Với bằng đó thời gian và trang thiết bị giống hệt, tôi chỉ có thể thu được số Bitcoin trị giá 1-2 USD", anh nói.
+Quá trình đào tiền ảo Monero cũng cho kết quả tương tự. "Nó hoạt động không? Có. Nhưng nó có cày ra số tiền đủ mang lại lợi nhuận dưới bất kỳ hình thức nào không? Không", Allessi cho hay.
+Raval tỏ ra lạc quan hơn về triển vọng kiếm tiền trên xe Tesla. Dù phải trả tiền sạc, anh cho biết bộ pin trên xe miễn phí và mang lại nhiều lợi ích so với chi phí đầu vào.
+Xe của Raval có thể chạy hơn 500 km mỗi lần sạc với giá 10-15 USD. Nếu mỗi ngày chạy vài giờ, xe có thể hoạt động liên tục gần hai tuần sau mỗi lần sạc, với chi phí hàng tháng khoảng 30-60 USD. Raval đào tiền điện tử 20 giờ mỗi ngày và áp dụng nhiều biện pháp để bảo đảm lợi nhuận, khẳng định mỗi tháng kiếm được 400-800 USD trong năm 2021.
+Sohmers cũng hoài nghi về con số do Raval đưa ra. "Ước tính tốt nhất của tôi là chip đồ họa trên Model 3 có thể đạt tốc độ 7-10 MH/s. Lúc này, 10 MH/s chỉ có thể mang về trên dưới 13 USD mỗi tháng, chưa tính tới chi phí", anh nói.
+Allessi cho biết không bận tâm đến việc đào tiền điện tử trên xe Tesla nữa. "Độ khó cao đến mức tôi có thể kiếm nhiều tiền hơn nếu làm thêm ở các cửa hàng đồ ăn nhanh", anh nói.
+Điệp Anh (theo CNBC)

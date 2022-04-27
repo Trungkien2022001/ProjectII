@@ -1,0 +1,4 @@
+Vừa phanh vừa về số thấp có hại xe không?
+Gần đây tôi bắt đầu kết hợp lẫy chuyển số trên vô-lăng và phanh chân để xử lý các tình huống khẩn cấp. (Dong Xanh)
+Trước đó, tôi về hai số thấp bằng lẫy trên vô-lăng thì máy ì đi nhiều, nên phát hiện ra phương pháp trên trong những tình huống khẩn cấp mà nếu chỉ dùng phanh chân thì không hiệu quả bằng.
+Xin hỏi xử lý như vậy có ổn không và có hại gì cho hộp số không?

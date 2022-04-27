@@ -1,0 +1,10 @@
+Cáp quang biển lại đứt
+Tuyến cáp APG gặp sự cố trên phân đoạn S1.7, khiến việc truy cập Internet đi quốc tế của người dùng tại Việt Nam bị ảnh hưởng.
+Đại diện một nhà cung cấp dịch vụ Internet trong nước cho biết, việc kết nối mạng gặp trục trặc từ tối 15/4, nguyên nhân là lỗi đứt sợi trên tuyến cáp quang biển APG.
+Nhiều người dùng Internet tại Việt Nam cũng thông báo về hiện tượng truy cập Internet chậm trong những ngày qua, ở cả kết nối băng rộng cố định và di động. Tình trạng xảy ra khi truy cập đến nhiều dịch vụ quốc tế, đặc biệt vào thời gian cao điểm như buổi tối.
+Đây là lần đứt cáp tiếp theo của tuyến APG, sau khi được khắc phục hồi tháng 2. Hiện vẫn chưa có thông tin về kế hoạch sửa chữa, khắc phục lỗi mới.
+Trong sự cố hồi đầu năm nay với ba tuyến cáp quang biển APG, AAG và IA, đại diện Hiệp hội Internet Việt Nam (VIA) cho biết việc các tuyến cáp quang biển gặp vấn đề chắc chắn khiến dung lượng đi quốc tế của Việt Nam bị ảnh hưởng. Tuy nhiên, sự ảnh hưởng sẽ có tính chất cục bộ và diễn ra ở một số giai đoạn nhất định do các nhà mạng Việt Nam thực tế đã quen ứng phó với tình trạng này. "Họ sẽ từng bước bổ sung dung lượng qua các hướng cáp biển còn lại và các hướng cáp đất liền", đại diện VIA nói.
+Theo thống kê của Ookla Speedtest, trong giai đoạn đứt cáp và đầu năm nay, tốc độ download trên mạng di động trong nước giảm 8%, khiến thứ hạng Internet Việt Nam cũng giảm năm bậc trên bảng xếp hạng của Ookla.
+APG (Asia Pacific Gateway) là một trong bảy tuyến cáp quang biển kết nối Việt Nam đi thế giới. Tuyến cáp được vận hành từ năm 2016, với khả năng cung cấp băng thông tối đa 54 Tb/giây. Trong năm 2021, tuyến này có bốn lần gặp sự cố, trong đó sự cố gần nhất vào tháng 12/2021, mất hơn hai tháng để khắc phục.
+Với bảy tuyến cáp quang biển phục vụ hơn 97 triệu dân, trung bình một tuyến cáp phục vụ khoảng 14 triệu người tại Việt Nam. Con số này ở mức thấp so với các nước trong khu vực như Singapore, Thái Lan, trong khi nhu cầu sử dụng Internet tại Việt Nam ngày càng tăng.
+Lưu Quý

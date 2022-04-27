@@ -1,0 +1,12 @@
+Kênh YouTube bị hack để lừa tiền điện tử
+Nhiều kênh YouTube liên quan đến tiền điện tử bị hacker chiếm quyền điều khiển, sau đó đăng nội dung dụ người dùng chuyển tiền.
+Sự cố diễn ra trong hai ngày 23-24/1 với hàng loạt kênh như CoinMarketCap, Altcoin Buzz, BitBoy Crypto,Box Mining, Mayweather, The Moon... Đây đều là các kênh lớn trong lĩnh vực tiền điện tử, thu hút từ vài trăm nghìn đến gần 1,5 triệu lượt theo dõi.
+Sau khi bị khống chế, những kênh này đồng loạt đăng video giống hệt nhau, nhắc đến một loại tiền điện tử có tên One World, khuyến khích người xem đầu tư vào đồng này bằng cách gửi tiền điện tử đến một địa chỉ ví được liệt kê trong phần mô tả.
+Video được các chủ kênh phát hiện và xoá trong thời gian ngắn. Tuy nhiên, theo dữ liệu ghi lại trên blockchain, có ít nhất 9 giao dịch chuyển tiền đến địa chỉ ví. Trong nửa ngày, chủ ví này thực hiện chuyển đi ít nhất 2,2 đồng BNB (Binance coin), tương đương hơn 800 USD.
+Số tiền trên không lớn so với các vụ lừa đảo tiền điện tử, nhưng được đánh giá tiềm ẩn nguy cơ lớn với các nhà đầu tư, đặc biệt những người mới gia nhập thị trường. Những người này thường tìm đến các kênh có sức ảnh hưởng trên mạng như YouTube để tìm lời khuyên đầu tư.
+Ngoài ra, các chủ kênh nói trên cho rằng có lỗ hổng từ chính hệ thống YouTube, khiến họ bị chiếm kênh và có thể ảnh hưởng lớn đến uy tín thương hiệu. "Không rõ chuyện gì xảy ra. Chúng tôi đang trao đổi với YouTube để hiểu rõ vấn đề và tránh những vi phạm tương tự có thể xảy ra", Shash Gupta, điều hành kênh Altcoin Buzz nói.
+Michael Gu, chủ kênh Boxmining với gần 270 nghìn lượt đăng ký, cũng là nạn nhân trong cuộc tấn công hàng loạt nói trên. Gu cho biết đã rà soát và không tìm thấy virus hay lỗ hổng có thể khiến kênh bị chiếm quyền. Tuy nhiên, khi kiểm tra tài khoản Brand - một dạng tài khoản quản trị dành cho kênh lớn nhằm tách biệt với tài khoản cá nhân, Gu nhận thấy có đăng nhập lạ từ Philippines.
+"Rất có thể vấn đề nằm ở phía YouTube hoặc một nhân viên nào đó. Vì vậy kẻ xấu mới có thể chiếm được kênh của nhiều người cùng lúc", Gu nói và cho rằng YouTube sẽ phải chịu trách nhiệm về sự cố.
+YouTube sau đó đã liên hệ các chủ kênh để khắc phục vấn đề, nhưng chưa đưa ra bất cứ lời giải thích nào.
+Tình trạng hack kênh YouTube để đăng nội dung lừa tiền điện tử đã xuất hiện từ trước. Tại Việt Nam năm 2020, nhiều kênh "triệu sub" của MC Trấn Thành, ca sĩ Hồ Quang Hiếu từng bị chiếm quyền điều khiển. Kẻ tấn công sau đó thực hiện phát livestream, dụ người dùng gửi tiền điện tử để nhận thưởng.
+Lưu Quý

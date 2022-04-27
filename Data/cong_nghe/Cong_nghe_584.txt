@@ -1,0 +1,9 @@
+Trung Quốc đạt kỷ lục về tốc độ 6G
+Viện nghiên cứu Purple Mountain Laboratories (PML) thử nghiệm mạng 6G với tốc độ hơn 200 Gb/giây lớn nhất hiện nay.
+Đội ngũ nghiên cứu, do giáo sư You Xiaohu dẫn đầu, cho biết tốc độ mạng không dây mà nhóm đạt được trong môi trường phòng thí nghiệm là 206,25 gigabit mỗi giây. PML khẳng định đây là kỷ lục thế giới về truyền không dây theo thời gian thực trong dải tần Terahertz (300 GHz - 3 THz), được coi là nền tảng cho truyền thông di động 6G trong tương lai.
+PML là nhóm nghiên cứu do chính phủ Trung Quốc đứng sau, hợp tác với hãng viễn thông China Mobile và Đại học Fudan. Ông Xiaohu nhấn mạnh, tốc độ trên chỉ là kết quả bước đầu và nhóm sẽ sớm đạt được bước tiến mới hơn.
+Công nghệ 6G là sự kế thừa của 5G hiện nay. Tại một số quốc gia, gồm Mỹ và Trung Quốc, 6G đang được đầu tư nghiên cứu. Trung Quốc gần đây cũng đã phóng vệ tinh nghiên cứu 6G đầu tiên.
+Theo lý thuyết, 6G ước đạt tốc độ 1 terabit/giây. Trung bình mỗi giây, người dùng có thể tải hơn 142 giờ nội dung Netflix ở độ phân giải cao nhất. So với 5G, tốc độ lý thuyết của mạng 6G nhanh gấp 100 lần.
+Công nghệ 6G được kỳ vọng là nền tảng cho một kỷ nguyên thông minh, nơi AI và robot trở thành một phần thiết yếu của cuộc sống. Kết nối 6G trong tương lai không chỉ giúp con người tương tác với nhau mà còn giúp kết nối giữa thiết bị với thiết bị không có độ trễ nhờ khả năng truyền tải tốc độ cao. Dù vậy, đến nay, thế giới vẫn chưa thống nhất các tiêu chuẩn kỹ thuật và tần số hỗ trợ 6G. 3GPP, tổ chức thiết lập tiêu chuẩn truyền thông toàn cầu, chưa công bố lộ trình cho 6G.
+Theo dự đoán của Huawei, mạng 6G có thể được triển khai năm 2030. Trong khi đó, hãng viễn thông Ericsson cho rằng các tiêu chuẩn đầu tiên về mạng di động thế hệ thứ sáu sẽ có vào 2027.
+Bảo Lâm (theo SCMP)

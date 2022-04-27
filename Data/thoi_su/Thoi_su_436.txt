@@ -1,0 +1,11 @@
+Xây dựng cơ sở dữ liệu quốc gia về kiểm soát tài sản
+Sau năm 2025, cả nước chuyển đổi số 100% công tác kiểm soát tài sản, thu nhập bằng việc sử dụng công nghệ, dữ liệu số.
+Đề án xây dựng cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập được Thủ tướng phê duyệt ngày 28/3. Một trong những mục tiêu của đề án nhằm hệ thống, cập nhật, lưu trữ, bảo vệ an toàn; cung cấp chính xác, đầy đủ về bản kê khai, kết luận xác minh tài sản; góp phần phòng ngừa, phát hiện, xử lý tham nhũng.
+Giai đoạn 2022-2023, các cơ quan sẽ xây dựng hạ tầng kỹ thuật, phần mềm ứng dụng để cập nhật, tích hợp dữ liệu, kết nối, chia sẻ nhằm khai thác an toàn, thông suốt cơ sở dữ liệu quốc gia về kiểm soát, tài sản, thu nhập.
+Giai đoạn 2024-2025, đề án thực hiện số hóa, cập nhật dữ liệu về kê khai tài sản tại các cơ quan kiểm soát tài sản, thu nhập; tích hợp cơ sở dữ liệu quốc gia tại Thanh tra Chính phủ; kết nối, chia sẻ dữ liệu với các hệ thống thông tin, cổng dịch vụ công... Tất cả bản kê khai tài sản, thu nhập sẽ được số hóa. Năm 2025, hồ sơ giấy sẽ được thay thế đạt 50%.
+Cơ sở dữ liệu quốc gia về kiểm soát tài sản, thu nhập được xây dựng và quản lý tập trung tại Thanh tra Chính phủ.
+Luật Phòng chống tham nhũng 2018 quy định tất cả cán bộ, công chức có nghĩa vụ kê khai tài sản, thu nhập. Nếu kê khai không trung thực, cán bộ có thể bị kỷ luật cảnh cáo, cách chức, buộc thôi việc...
+Không chỉ công chức, sĩ quan công an, sĩ quan quân đội, quân nhân chuyên nghiệp; người ứng cử đại biểu Quốc hội, người ứng cử đại biểu HĐND cũng phải kê khai tài sản.
+Bản kê khai của người có nghĩa vụ kê khai phải được công khai tại cơ quan, nơi người đó thường xuyên làm việc. Bản kê khai của người dự kiến được bổ nhiệm giữ chức vụ lãnh đạo, quản lý tại cơ quan, tổ chức, đơn vị phải được công khai tại cuộc họp lấy phiếu tín nhiệm.
+Bản kê khai của người dự kiến bầu giữ chức vụ lãnh đạo, quản lý tại doanh nghiệp nhà nước được công khai tại cuộc họp lấy phiếu tín nhiệm khi bổ nhiệm hoặc tại cuộc họp của Hội đồng thành viên khi bầu chức vụ lãnh đạo, quản lý.
+Giữa tháng 10/2021, Chính phủ báo cáo Quốc hội cho biết có hơn 1,284 triệu người kê khai tài sản, thu nhập.

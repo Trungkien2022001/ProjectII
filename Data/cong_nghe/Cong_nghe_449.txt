@@ -1,0 +1,11 @@
+5 thành phố có tốc độ Internet cao nhất Việt Nam
+Tốc độ truy cập Internet di động tại Đà Nẵng cao nhất trong số các thành phố lớn được khảo sát tại Việt Nam.
+Số liệu Internet quý IV/2021 của Speedtest cho thấy, với mạng di động, Đà Nẵng đạt tốc độ tải xuống 43,88 Mb/giây và tải lên 24,83 Mb/giây, độ trễ 23 ms.
+Cần Thơ xếp thứ hai với tốc độ download và upload lần lượt là 38,41 Mb/giây và 20,88 Mb/giây. TP HCM, Hà Nội và Hải Phòng giữ ba vị trí còn lại trong top 5.
+Hầu hết các thành phố lớn có tốc độ Internet di động cao hơn so với mức trung bình cả nước trong quý cuối năm qua là 35,2 Mb/giây tải xuống và 16,52 Mb/giây tải lên. Việt Nam hiện xếp vị trí thứ 52 toàn cầu, tụt hai bậc so với quý III/2021.
+Trong khi đó, băng thông rộng cố định tại Việt Nam cũng ở mức trung bình, xếp thứ 43 thế giới và giảm một bậc so với quý III/2021 khi có tốc độ download đạt 68,53 Mb/giây và upload là 64,18 Mb/giây cùng độ trễ 4 ms.
+TP HCM là khu vực có tốc độ Internet cố định cao nhất với 75,10 Mb/giây tải xuống, 72,48 Mb/giây tải lên và độ trễ 4 ms. Đà Nẵng, Cần Thơ, Hà Nội và Hải Phòng lần lượt xếp các hạng tiếp theo.
+Theo Speedtest, Viettel là nhà mạng cung cấp tốc độ Internet di động cao nhất, còn Vinaphone đứng đầu về Internet cố định trong quý IV/2021.
+Thống kê cũng cho thấy iPhone 13 Pro Max là smartphone có khả năng truy cập mạng với tốc độ nhanh nhất ở Việt Nam, đạt 72,39 Mb/giây khi tải xuống, 25 Mb/giây khi tải lên và độ trễ 21 ms. Ba smartphone cho tốc độ truy cập cao tiếp theo vẫn là sản phẩm Apple với iPhone 12, 12 Pro Max và 12 Pro. Vị trí thứ năm thuộc về mẫu Mi 10T Pro của Xiaomi.
+Năm qua, tốc độ Internet ở cả Việt Nam và trên thế giới đều có xu hướng tăng, đặc biệt ở hạng mục di động nhờ sự phát triển của mạng 5G. Tại Việt Nam, một số nhà cung cấp dịch vụ đã tung ra các chương trình tăng băng thông cho người dùng trong giai đoạn dịch, hỗ trợ nhu cầu làm việc và học tập từ xa.
+Bảo Lâm

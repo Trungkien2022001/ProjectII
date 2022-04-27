@@ -1,0 +1,11 @@
+Kiểm tra IQ với bốn câu đố
+Cho năm phép tính có đầy đủ cộng, trừ, nhân, chia. Đâu là phép tính khác biệt nhất?
+Câu 1:
+>>Đáp án
+Câu 2: Số nào khác biệt trong năm số 275, 300, 256, 760 và 840?
+>>Đáp án
+Câu 3: Điền số thích hợp vào dấu hỏi chấm.
+>>Đáp án
+Câu 4: Di chuyển ba que diêm để có bốn hình tam giác.
+>>Đáp án
+Theo Bright sides

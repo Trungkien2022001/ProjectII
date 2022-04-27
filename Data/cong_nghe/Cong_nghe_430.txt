@@ -1,0 +1,12 @@
+Thế giới avatar không chân trong vũ trụ ảo
+Hình đại diện của người tham gia metaverse hiện nay thường không có chân do thiết bị AR/VR chưa hỗ trợ cảm biến cho bộ phận này.
+Nổi lên từ 2021, metaverse được dự đoán là một trong những xu hướng công nghệ chủ đạo, xuất hiện nhiều hơn trong cuộc sống năm nay. Một số công ty như Meta, Microsoft... đã bắt đầu thử nghiệm nền tảng vũ trụ ảo của mình.
+Tuy nhiên, điểm chung của chúng là avatar của mỗi người trong môi trường này chỉ là ảnh 3D từ thắt lưng trở lên và gần như không có chân. Điều này trái với các game nhập vai 3D đều có đầy đủ các bộ phận cơ thể.
+Theo các chuyên gia, nguyên nhân đầu tiên của tình trạng này liên quan đến cảm biến. Hầu hết trải nghiệm metaverse thông qua kính VR kèm bộ điều khiển cầm tay, trừ một số bản cho doanh nghiệp hoặc mục đích chuyên dụng. Trong khi đó, phần chân hầu như không có bất kỳ cảm biến và bộ điều khiển nào.
+"Có nghĩa chuyển động chân của bạn không thể được phát hiện và mô tả chính xác trong môi trường ảo", Gijs den Butter, đồng sáng lập SenseGlove - công ty điều khiển thực tế hỗn hợp (XR) tại Hà Lan, cho biết.
+Theo Butter, hầu hết kính VR hoặc XR khó nắm bắt chuyển động chân. Trong một số trường hợp, camera sẽ ghi lại chuyển động này hoặc dùng các cảm biến trên chân, nhưng việc thể hiện chúng trên môi trường ảo không tự nhiên.
+Bên cạnh đó, việc thể hiện sai chiều cao của mỗi người cũng là lý do khiến hình đại diện trong metaverse không có chân. "Trong VR, 'chiều cao vật lý' của avatar có thể rất khác so với ngoài đời. Vì vậy, mọi người có thể cảm thấy người đối diện có thân hình nhỏ hoặc cao bất thường. Điều này gây một số phiền phức và tạo tâm lý không thoải mái", Dr.Rolf Illenberger, CEO của VRdirect - công ty phát triển các nền tảng VR cho doanh nghiệp, giải thích.
+Cũng theo Illenberger, việc nhìn xuống chân mình trong cuộc sống thực là điều hoàn toàn bình thường. Tuy nhiên, trong môi trường ảo, hành động này có thể tạo hiệu ứng khó chịu, buồn nôn.
+Theo đại diện của Microsoft, việc không thêm chân cho hình đại diện trong metaverse nhằm tránh "rối" cho nền tảng. Ngoài ra, việc mô tả chính xác chiều cao hoặc dáng đi của mỗi người vẫn còn khó khăn.
+Dù vậy, Butter dự đoán hình đại diện của mỗi người trong metaverse sẽ có chân trong tương lai. "Mô tả một mô hình kỹ thuật số cho chuyển động của con người không phải điều quá khó. Việc thêm chân cho hình đại diện sẽ được thực hiện nếu nó trở thành một tiêu chuẩn trong metaverse", ông nói.
+Bảo Lâm (theo The Next Web)

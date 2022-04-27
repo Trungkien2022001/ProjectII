@@ -1,0 +1,11 @@
+FBI tố hacker Triều Tiên đứng sau vụ hack Axie Infinity
+Nhóm hacker Lazarus được cho là thủ phạm trong vụ hack cầu nối Ronin của game Axie Infinity, đánh cắp hơn 600 triệu USD.
+Trong thông báo ngày 14/4, Cục điều tra liên bang Mỹ FBI đã bổ sung một địa chỉ ví tiền điện tử Ethereum, được cho là của nhóm tin tặc Lazarus, vào danh sách trừng phạt, trong đó cấm các tổ chức tài chính Mỹ giao dịch với ví này.
+Ví trên hiện chứa 147.000 ETH, với trị giá 445 triệu USD. Theo Washington Post, đây cũng chính là địa chỉ hacker chuyển tiền vào sau vụ tấn công cầu nối của Axie Infinity. Thông báo của FBI đồng nghĩa với việc tổ chức này xác định nhóm Lazarus đứng sau vụ hack.
+Trên trang bản tin của Ronin Network, dự án này cũng dẫn báo cáo từ FBI, xác định nhóm Lazarus có liên quan đến vụ xâm phạm an ninh vào mạng lưới. Công cụ Etherscan hiện cũng gắn nhãn ví này "được báo cáo là có liên quan đến một vụ tấn công nhắm vào cầu nối Ronin".
+"Chính phủ Mỹ, cụ thể là Bộ Tài chính, đã xử phạt địa chỉ ví nhận tiền từ vụ đánh cắp. Chúng tôi vẫn đang trong quá trình bổ sung các biện pháp an ninh trước khi triển khai lại cầu nối Ronin để giảm rủi ro trong tương lai", Ronin Network thông báo, đồng thời cho biết thời gian triển khai trở lại dự kiến vào cuối tháng này.
+Triều Tiên hiện chưa đưa ra bình luận nào về thông báo của FBI.
+Lazarus còn có nhiều tên gọi khác là Group 77, APT-C-26, AppleWorm, Guardians of Peace, Hidden Cobra, Office 91... Theo FBI, nhóm hacker này có địa chỉ tại Triều Tiên.
+Theo Chainalysis, đây không phải lần đầu Lazarus nhắm đến các hệ thống tiền điện tử. Trong năm 2021, các nhóm hacker đến từ Triều Tiên được cho là đã thực hiện hàng loạt vụ tấn công và chiếm được 400 triệu USD tiền số, trong đó Lazarus thực hiện ít nhất bảy vụ. Trước đó, tổ chức tin tặc cũng được cho là thủ phạm đứng sau vụ tấn công vào sàn KuCoin, mã độc WannaCry hay vụ tấn công mạng vào Sony Pictures.
+Vụ tấn công vào cầu nối Ronin xảy ra vào ngày 23/3 và được phát hiện hôm 29/3. Hacker lấy đi lượng tiền số gồm 173.600 Ethereum và 25,5 triệu USDC, tương đương khoảng 615 triệu USD. Trong những ngày gần đây, hacker liên tục hàng nghìn ETH chuyển qua các ví khác nhau, trước khi đưa vào máy trộn Tornado Cash nhằm xóa dấu vết và rút tiền.
+Lưu Quý - Trung Nhân

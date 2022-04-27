@@ -1,0 +1,11 @@
+Mỹ cảnh báo về sự mất cân bằng dai dẳng ở mảng chip
+Bộ Thương mại Mỹ cho rằng tình trạng thiếu chip sẽ không kết thúc trong năm 2022, trong đó ngành ảnh hưởng nhất là ôtô và điện tử tiêu dùng.
+Theo báo cáo do Bộ trưởng Thương mại Mỹ Gina Raimondo công bố hôm 25/1, "có một sự mất cân bằng đáng kể và dai dẳng trong nguồn cung và cầu ở lĩnh vực chip". Bà nhấn mạnh rằng vấn đề sẽ không được giải quyết ít nhất trong 6 tháng tới.
+Báo cáo dựa trên thông tin tổng hợp từ hơn 150 công ty trong chuỗi cung ứng bán dẫn trên toàn cầu. Trong đó cho thấy nguồn cung chip trong 2021 bị hạn chế nghiêm trọng, nhưng nhu cầu về linh kiện này lại cao hơn 17% so với 2019.
+Bên cạnh đó, lượng chip dự trữ của các nhà sản xuất chỉ đủ dùng cho khoảng 5 ngày, thay vì 40 ngày như năm 2019. "Có nghĩa, nếu một nhà máy trong chuỗi cung ứng phải đóng cửa 2-3 tuần, khả năng cơ sở sản xuất và nhân công ở Mỹ phải ngừng hoạt động rất cao vì lượng hàng trong kho chỉ đủ cho 3-5 ngày", báo cáo nêu.
+Các nguồn cung bị ảnh hưởng nhất không nhất thiết sử dụng công nghệ tiên tiến nhất. Theo thống kê, lượng chip thiếu hụt nhiều nhất chủ yếu được sản xuất trên các tiến trình đời cũ từ 40 nm tới 800 nm, thay vì tiến trình hiện đại như 5, 7 và 10 nm mà những công ty như AMD, Nvidia, Qualcomm, Samsung, Apple đang theo đuổi.
+Báo cáo cho rằng thiếu hụt chip là một trong những nguyên nhân dẫn đến lạm phát cao hơn tại Mỹ. Trong khi đó, các lựa chọn hạn chế của chính quyền trong việc cố gắng ứng phó với khủng hoảng chip là chưa đủ.
+Để giải quyết vấn đề, Bộ Thương mại đề xuất Quốc hội Mỹ thông qua Đạo luật CHIPS, một phần của Đạo luật Cạnh tranh và Đổi mới (USICA) của Mỹ, để chi 52 tỷ USD cho ngành bán dẫn trong nước. "Chuỗi cung ứng bán dẫn rất mong manh và điều cần thiết là Quốc hội phải thông qua việc cấp vốn cho lĩnh vực này càng sớm càng tốt", bà Raimondo nhấn mạnh.
+Theo giới chuyên gia, việc thông qua gói 52 tỷ USD cho mảng bán dẫn có thể là "tấm vé" để chấm dứt khủng hoảng chip, giảm giá xe hơi và chống lạm phát.
+Khủng hoảng chip đã ảnh hưởng đến ngành sản xuất toàn cầu trong năm 2021. Nvidia và AMD nhiều lần cảnh báo tình trạng thiếu chip sẽ không giảm bớt cho đến nửa cuối 2022, trong khi Intel dự đoán vấn đề có thể kéo dài đến 2023.
+Bảo Lâm (theo The Verge)

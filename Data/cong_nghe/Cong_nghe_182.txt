@@ -1,0 +1,11 @@
+Tin tặc công khai mã nguồn của Microsoft
+Nhóm hacker Lapsus$ khẳng định đã tấn công máy chủ nội bộ của Microsoft và lấy được mã nguồn của nhiều dự án, trong đó có Bing, Cortana.
+Trên kênh Telegram hôm 21/3, Lapsus$ đăng ảnh chụp màn hình cho thấy nhóm đã truy cập được vào máy chủ Azure DevOps, chứa nhiều mã nguồn các dự án của Microsoft.
+Một ngày sau, nhóm tiếp tục công khai một tệp torrent cho phép tải về 9 GB dữ liệu đã được nén. Lapsus$ khẳng định số dữ liệu này bao gồm mã nguồn của 250 dự án thuộc Microsoft, như 90% mã nguồn của công cụ tìm kiếm Bing và 45% mã nguồn Bing Maps và trợ lý ảo Cortana.
+Chuyên trang bảo mật Bleeping Computer cho biết sau khi giải nén, họ đã thu được lượng dữ liệu có dung lượng 37 GB. Một số chuyên gia bảo mật cũng xác nhận đây thực sự là mã nguồn các dự án của Microsoft.
+"Các dự án này thuộc lĩnh vực hạ tầng trên nền web, website và ứng dụng di động, nhưng không có mã nguồn của các phần mềm máy tính Microsoft như Windows, Windows Server hay Office", Bleeping Computer viết.
+Microsoft chưa đưa ra bình luận, nhưng cho biết đã nhận được các báo cáo và đang tiến hành điều tra.
+Trong một số tuyên bố trước đây, Microsoft từng khẳng định việc rò rỉ mã nguồn ít có khả năng tạo ra những nguy cơ tấn công khác. Bởi thực tế, những người am hiểu hoàn toàn có thể nắm được cách thức các phần mềm hoạt động thông qua kỹ thuật dịch ngược. Ngoài ra, hãng cũng phát triển phần mềm theo phương thức tương tự mã nguồn mở, không coi những bí mật của mã nguồn là phương thức bảo vệ cho sản phẩm nào đó.
+Trong khi đó, mục đích chính của Lapsus$ trong hầu hết các vụ tấn công là tống tiền. Khác với những nhóm hacker sử dụng ransomware mã hóa dữ liệu và đòi tiền chuộc, Lapsus$ thường lợi dụng kẽ hở từ các nhân viên trong công ty nạn nhân. Nhóm này tấn công vào tài khoản của nhân viên, hoặc trả tiền cho những người trong công ty đó để lấy quyền truy cập. Sau đó, chúng đánh cắp dữ liệu độc quyền và yêu cầu doanh nghiệp trả hàng triệu USD để chuộc lại.
+Nvidia, Samsung, Vodafone, Ubisoft và Mercado Libre... là những nạn nhân của nhóm này gần đây. Trong sự cố của Nvidia, sau khi tống tiền bất thành, Lapsus$ chuyển hướng sang yêu cầu công ty mở khóa tính năng đào coin trên các card đồ họa của hãng.
+Lưu Quý

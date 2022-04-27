@@ -1,0 +1,11 @@
+Thử thách tư duy trong 60 giây
+Cho năm số: 48, 156, 183, 622 và 435. Trong 60 giây, bạn có thể tìm được quy luật của chúng và chọn ra số khác biệt nhất?
+Câu 1:
+>> Đáp án
+Câu 2: Số nào khác biệt trong ba số 854, 917, 632?
+>> Đáp án
+Câu 3: Điền số thích hợp vào dấu hỏi chấm.
+>> Đáp án
+Câu 4: Di chuyển một que diêm để có phép tính đúng.
+>> Đáp án
+Theo Bright Sides

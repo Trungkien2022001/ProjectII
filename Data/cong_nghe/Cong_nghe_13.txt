@@ -1,0 +1,8 @@
+Lỗi ngớ ngẩn khiến hacker mất một triệu USD tiền số
+Hacker khai thác lỗ hổng của dự án Zeed và thu được một triệu USD, nhưng lại kích hoạt tính năng tự hủy trước khi rút số tiền này.
+Vụ tấn công xảy ra hôm 22/4 trên dự án DeFi có tên Zeed. Sau khi thu được số tiền điện tử lớn, hacker chuyển vào một "hợp đồng tấn công" thay vì chuyển vào ví thông thường. Đây là hợp đồng thông minh do hacker tự viết, với khả năng tự động thực hiện các tác vụ trong thời gian rất ngắn và khả năng tự hủy để gây khó khăn cho công tác truy tìm.
+Tuy nhiên, blog của Zeed cho biết, 15 giây sau khi tấn công, tin tặc đã kích hoạt tính năng tự hủy hợp đồng trước khi lấy đi số tiền thu được, khiến tiền bị khóa trong hợp đồng tấn công mãi mãi, không thể lấy ra được.
+Theo công ty bảo mật BlockSec, kẻ tấn công "có thể vì quá phấn khích nên đã kích hoạt tính năng tự hủy" trước khi kịp chuyển tiền đi nơi khác. Tra cứu trên công cụ Bscscan, toàn bộ số BUSD tương đương 1,043 triệu USD vẫn nằm trên hợp đồng này từ khi vụ hack xảy ra.
+Vụ tấn công được đánh giá có quy mô nhỏ và gây chú ý vì lỗi ngớ ngẩn của tin tặc. Tuy nhiên, theo các chuyên gia, sự việc tiếp tục cho thấy sự kém an toàn của nhiều dự án DeFi.
+Trong trường hợp của Zeed, hacker khai thác lỗ hổng trong giao thức "cho vay nhanh" của dự án. Hình thức này cho phép người dùng có thể vay tiền không thế chấp để mua và bán token, sau đó phải hoàn trả ngay trong cùng một khối giao dịch và mất phí 5%. Khoản phí này đáng lẽ được chia làm ba phần để trả thưởng cho những người cung cấp thanh khoản. Tuy nhiên do lỗi của Zeed, hệ thống đã không phân chia phần thưởng, dẫn việc phải cung cấp thêm một lượng token gấp ba dự kiến. Hacker đã bán tháo số token này, khiến giá trị của nó gần như về 0.
+Lưu Quý

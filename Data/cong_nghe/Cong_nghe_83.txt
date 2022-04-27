@@ -1,0 +1,9 @@
+Apple vô tình để lộ củ sạc 35 W
+Apple bất ngờ đăng thông tin củ sạc hai cổng USB-C công suất 35 W chưa ra mắt lên trang chủ nhưng nhanh chóng gõ xuống.
+Tài liệu xuất hiện chỉ vài phút trước khi biến mất, nhưng trang 9to5mac đã kịp chụp lại màn hình. Theo nội dung mô tả, phụ kiện này là "bộ chuyển đổi nguồn với cổng USB-C kép, công suất 35 W, dùng kèm cáp USB-C (không bán kèm)".
+Cũng theo tài liệu, sạc mới hỗ trợ công nghệ USB-C Power Delivery, nguồn đầu vào 100–240V /1.0 A phù hợp với hầu hết thị trường, đầu ra 5 V/3A, 9 V/3A, 15 V/2,33 A hoặc 20 V/1.75 A.
+Một số trang công nghệ đánh giá, thông tin rò rỉ cho thấy Apple đang phát triển củ sạc mới, thậm chí phụ kiện này sắp có mặt trên thị trường. Cho đến nay, củ sạc cho iPhone có công suất cao nhất mà Apple sản xuất là 20 W và chỉ có một cổng USB-C duy nhất.
+Với công suất 35 W và hai cổng kết nối, phụ kiện mới có thể sạc được hai thiết bị cùng lúc. Chẳng hạn, người dùng có thể sạc nhanh iPhone 13 Pro Max (hỗ trợ tối đa 27 W) kèm Apple Watch để tối ưu công suất; hoặc sạc hai iPhone cùng lúc với tốc độ chia đôi.
+Dù công suất lớn, củ sạc vẫn có thiết kế nhỏ gọn. Theo PhoneArena, Apple có thể sử dụng công nghệ GaN cho sản phẩm này và trở thành bộ sạc GaN độc lập đầu tiên do công ty sản xuất.
+GaN là viết tắt của Gallium Nitride, vật liệu bán dẫn mới nổi gần đây và được dự đoán sẽ thay thế cho vật liệu silicon trong tương lai. Trong mảng thiết bị sạc, GaN đã có mặt trên sản phẩm của một số thương hiệu như RAVPower, Anker, HyperJuice... với đầy đủ tính năng dù kích thước nhỏ chỉ bằng nửa các loại sạc hiện tại vốn sử dụng linh kiện bán dẫn silicon.
+Bảo Lâm

@@ -1,0 +1,11 @@
+Website tải Unikey giả mạo bị đánh sập
+Unikey.vn - website được nhiều người truy cập để tải phần mềm gõ tiếng Việt - hiện đã bị khóa.
+Chuyên gia bảo mật Ngô Minh Hiếu, nhà sáng lập dự án Chống lừa đảo, khẳng định unikey.vn là website mạo danh, nên đã liên hệ với đơn vị quản lý tên miền này ngăn chặn.
+"Bên quản lý tên miền cho biết nhiều lần cảnh báo đến chủ website nhưng không có dấu hiệu hợp tác. Hiện họ đã khóa tên miền nói trên", ông Hiếu nói.
+Đến ngày 17/2, khi tìm kiếm trên Google hoặc Bing với từ khóa "unikey", tên miền trên vẫn hiển thị trên top đầu kết quả tìm kiếm. Tuy nhiên, khi người dùng bấm truy cập, trình duyệt báo lỗi và cho biết website có thể đã sập. Nhân Hòa, đơn vị quản lý tên miền unikey.vn, chưa bình luận về việc này.
+Unikey.vn đã tồn tại khá lâu và được nhiều người truy cập để tải bộ gõ tiếng Việt. Tuy nhiên, trang này nhiều lần bị các chuyên gia cảnh báo độc hại. Phạm Kim Long, tác giả của bộ gõ Unikey, khẳng định website chính thức và duy nhất của UniKey là unikey.org. Tác giả không chịu trách nhiệm về bất cứ trang nào khác cung cấp phần mềm Unikey.
+Ngoài việc mạo danh, Unikey.vn cũng bị phát hiện có dấu hiệu cài mã độc lên máy tính của người dùng. File cài đặt bộ gõ tiếng Việt tải từ trang này bị nhiều tổ chức bảo mật như CyRadar, CRDF, ESET cảnh báo độc hại. Một số trình duyệt như Edge, Opera hiện cảnh báo "nguy hiểm" mỗi khi người dùng truy cập trang này.
+Theo thống kê của Similarweb trong ba tháng qua, mỗi tháng trang này có từ 60 nghìn đến hơn 80 nghìn lượt truy cập, bằng 2/3 lượng truy cập của website chính thức. Gần một nửa trong số này là truy cập trực tiếp, nửa còn lại thông qua các công cụ tìm kiếm.
+Unikey là bộ gõ tiếng Việt trên máy tính Windows có nhiều người dùng nhất hiện nay. Bộ gõ này ra đời từ năm 1999, tương thích với phiên bản từ Windows 7 đến Windows 11, bản 32 bit hoặc 64 bit. Từ năm 2006, Apple cũng sử dụng mã nguồn của Unikey trong các sản phẩm mình, bắt đầu từ Mac OS X Tiger và iOS 4.0.
+Ngoài website mạo danh, chuyên gia Ngô Minh Hiếu cho biết có một ứng dụng tên Unikey Vietnamese Keyboard trên kho ứng dụng Microsoft cũng không phải là sản phẩm chính thức của nhà phát triển, tiềm ẩn nguy cơ cài mã độc lên máy tính người dùng.
+Lưu Quý

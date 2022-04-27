@@ -1,0 +1,9 @@
+Lỗi Facebook khiến tin sai lệch hiển thị sáu tháng
+Thuật toán xếp hạng tin tức News Feed của Facebook gặp lỗi khiến thông tin sai lệch hiển thị trong suốt nhiều tháng.
+The Verge dẫn nguồn tin nội bộ Meta rằng các kỹ sư Facebook lần đầu nhận ra vấn đề vào tháng 10 năm ngoái, khi luồng thông tin sai lệch đột ngột tràn lên News Feed. Nhưng thay vì chặn những bài đăng này, thuật toán lại đẩy nhanh việc tiếp cận, khiến lượt xem tăng mạnh lên tới 30% trên toàn cầu.
+Tuy nhiên, nhóm kỹ sư không thể tìm ra nguyên nhân gốc rễ vấn đề. Họ đành chọn cách theo dõi mức tăng giảm của thông tin và gắn cờ chúng một thời gian dài sau đó. Đến ngày 11/3, lỗi mới được khắc phục.
+Ngoài các bài đăng phải gắn cờ thủ công, cuộc điều tra nội bộ cho thấy trong thời gian lỗi, hệ thống Facebook không thể loại bỏ đúng cách cách nội dung vi phạm như ảnh khỏa thân, bạo lực. Các vấn đề về tin giả liên quan đến xung đột ở Ukraine cũng xuất hiện nhiều hơn.
+"Công ty đã phát hiện một số mâu thuẫn liên quan đến thuật toán hạ thứ hạng nội dung trong năm trường hợp riêng biệt. Tuy nhiên, đây đều là các vấn đề nhỏ và tạm thời", Joe Osborne, phát ngôn viên Meta, nói với The Verge. "Chúng tôi đã tìm ra nguyên nhân và sẽ áp dụng các bản sửa lỗi cần thiết".
+Cũng theo Osborne, vấn đề kỹ thuật này xảy ra lần đầu vào năm 2019 nhưng không tạo ra tác động đáng chú ý cho đến tháng 10/2021. Tuy nhiên, ông khẳng định lỗi không gây tác động nhiều đến nền tảng.
+Trong nhiều năm, Facebook luôn quảng cáo Feed - tên gọi mới của News Feed - được kiểm soát nội dung chặt chẽ bằng AI, với thuật toán có thể hạ thứ hạng đối với các nội dung nhạy cảm như chính trị, bạo lực. Năm 2018, Mark Zuckerberg giải thích rằng việc hạ thứ hạng sẽ chống lại "sự thôi thúc của mỗi người trong việc tương tác với nội dung giật gân và khiêu khích".
+Bảo Lâm

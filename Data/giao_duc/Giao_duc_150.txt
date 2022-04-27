@@ -1,0 +1,6 @@
+Bài toán tính thẻ bài hát của học sinh lớp 5
+Trong bao lâu bạn có thể giải được bài toán số học, yêu cầu tính thẻ bài hát cho giáo đoàn của học sinh lớp 5?
+Đề bài. Có 1.000 bài thánh ca trong một cuốn sách, được đánh số từ 1 đến 1.000. Mỗi chủ nhật, giáo đoàn sẽ hát 4 bài khác nhau lấy từ cuốn sách này.
+Số của các bài thánh ca đều được biểu diễn trên một tấm bảng bằng cách kết hợp các tấm bìa giấy in sẵn các số có 1 chữ số rồi biểu diễn độc lập hoặc ghép lại với nhau (cho các số có 2, 3 hoặc 4 chữ số). Bạn có thể dùng thẻ có số 6 để biểu thị cho số 9 (xoay thẻ lại).
+Hỏi tổng số thẻ cần làm ít nhất là bao nhiêu để bất cứ bộ 4 bài hát nào cũng có thể được nêu lên cùng một lúc trong bảng của giáo đoàn?
+Trần Phương

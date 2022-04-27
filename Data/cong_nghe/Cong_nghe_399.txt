@@ -1,0 +1,14 @@
+Cuộc đấu tỷ USD giữa bot và người chơi tiền số
+Nhiều người không thể theo kịp tốc độ xử lý của bot tự động, khiến họ có thể phải mua tiền điện tử với giá cao.
+Giao dịch sandwich
+Trên hầu hết nền tảng tiền số hiện nay, không chỉ có con người tham gia mua bán. Giống như thị trường chứng khoán, nhiều người sử dụng bot được lập trình để tự động xử lý các khâu. Dù có vẻ gian lận, phương pháp này được chấp nhận trong giao dịch blockchain.
+Theo Fortune, "giao dịch sandwich" mô tả quá trình bot phát hiện ai đó đang cố gắng mua một token. Nhờ tự động, thao tác mua token của bot sẽ nhanh hơn và sau khi mua, giá token sẽ tăng lên một chút. Nếu người kia vẫn muốn mua mã đó, họ phải chọn mức giá mới này. Đó là khi bot hoàn thành "bánh sandwich", bán token với giá mới và kiếm một ít tiền lời.
+"Phần ngon nhất là phần giữa của chiếc bánh mì, nhưng trong giao dịch tiền số, việc bị mắc kẹt giữa các mức giá có nghĩa bạn đã rơi vào bẫy lừa của bot", trang Fortune bình luận.
+Dù khoản tiền mà mỗi bot kiếm được khá nhỏ, thống kê của Bloomberg cho thấy quy trình "giao dịch sandwich" đã mang về hàng trăm triệu USD, thậm chí hàng tỷ USD cho những người đứng sau chúng. Phương pháp này thành công đến mức việc triển khai bot kiếm tiền trên mạng Ethereum đang trở nên khó khăn hơn vì có rất nhiều bot cùng hoạt động.
+Lan sang các nền tảng nhỏ
+Ethereum là mạng xuất hiện "giao dịch sandwich" nhiều nhất hiện nay. Sự tồn tại dày đặc của bot trên blockchain này khiến người chơi chuyển sang các mạng lưới nhỏ hơn như Solana, Polygon hay Avalanche. Một số mạng lưới blockchain đang phải vật lộn với sự gia tăng lưu lượng truy cập theo cấp số nhân của bot.
+Hồi tháng 1, mạng lưới Solana - blockchain được nhiều người ưa chuộng nhờ tốc độ giao dịch nhanh - đã tắc nghẽn khi bị bot gửi hơn hai triệu giao dịch mỗi giây. Tháng 9/2021, mạng này cũng "sập" hơn 17 tiếng do hoạt động của bot.
+Solana không đơn độc. Polygon, Avalanche và Binance Smart Chain cũng xuất hiện ngày càng nhiều bot. Theo Flashbots, công ty chuyên cung cấp bot cho các nhà đầu tư, hơn 25% MEV - thuật ngữ về giá trị trích xuất tối đa trong "giao dịch sandwich" - hiện diễn ra trên các blockchain khác ngoài Ethereum.
+"Tình trạng ngừng hoạt động trên một blockchain phi tập trung luôn được quan tâm. Những rắc rối gần đây của Solana là lời nhắc nhở rằng cơ chế đồng thuận mới trên blockchain vốn dĩ chưa hoàn thiện và cần phải được thử nghiệm nhiều lần nữa", Avi Felman, một nhà quản lý danh mục đầu tư tại BlockTower, nói với Bloomberg.
+Việc liên tục đẩy giá bằng "giao dịch sandwich" khiến người chơi tiền số có thể sẽ mất nhiều tiền hơn dự tính ban đầu. "Khi có hoạt động của bot, người chơi bình thường là những người chịu thiệt hại", Sandeep Nailwal, người đồng sáng lập Polygon, cho biết.
+Bảo Lâm

@@ -1,0 +1,3 @@
+AI vẽ ảnh theo yêu cầu hoạt động thế nào
+Dall-E 2, AI đang thu hút chú ý của giới công nghệ, được huấn luyện bằng hàng loạt ảnh dán nhãn mô tả, giúp tạo ảnh từ câu lệnh văn bản.
+Điệp Anh (Video: OpenAI)

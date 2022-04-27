@@ -1,0 +1,11 @@
+Thử thách suy luận với bốn câu đố IQ
+Với 3 phút quan sát, tìm quy luật ở các hình và tính toán, liệu bạn có thể giải được cả bốn câu đố?
+Câu 1: Tìm số thích hợp điền vào vị trí dấu hỏi chấm
+>>Đáp án
+Câu 2: Điền các dấu ngoặc đơn để được phép tính đúng (có thể một hoặc nhiều cặp dấu).
+>>Đáp án
+Câu 3: Tìm mật mã mở khóa.
+>>Đáp án
+Câu 4: Sắp xếp các số và ký hiệu toán học thành phép tính có kết quả bằng 2.
+>>Đáp án
+Theo Logic Channel

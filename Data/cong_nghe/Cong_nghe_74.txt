@@ -1,0 +1,11 @@
+Tim Cook phản đối việc cài ứng dụng không qua App Store
+Cơ quan quản lý muốn Apple cho người dùng cài ứng dụng trực tiếp từ nhiều nguồn, nhưng CEO Apple Tim Cook lo ngại người dùng gặp nguy hiểm.
+Tại Hội nghị thượng đỉnh về quyền riêng tư toàn cầu IAPP hôm 12/4, Tim Cook chỉ trích các quy định chống độc quyền mà Mỹ và châu Âu dự định áp dụng đối với Apple, trong đó phải cho phép người dùng cài ứng dụng trực tiếp từ Internet mà không cần thông qua App Store, hay còn gọi là "sideloading".
+CEO Apple cho rằng quy định này có thể dẫn đến tình huống người dùng iPhone bị lừa cài phần mềm độc hại hoặc phần mềm đánh cắp dữ liệu, như hệ điều hành Android đang gặp phải.
+"Các nhà hoạch định chính sách, dưới danh nghĩa thúc đẩy cạnh tranh, đang từng bước buộc Apple cho phép cài các ứng dụng iPhone không qua App Store. Điều đó có nghĩa là các công ty 'đói' dữ liệu có thể tránh các quy tắc về bảo mật của chúng tôi và theo dõi người dùng", Cook phát biểu.
+Dự luật Thị trường ứng dụng của Mỹ yêu cầu Apple cho phép thực hiện thao tác sideloading và dự kiến được đưa ra tranh luận tại quốc hội trong năm nay. Châu Âu cũng mới đề xuất đạo luật Thị trường Kỹ thuật số, trong đó có điều khoản về việc cài ứng dụng trực tiếp từ Internet.
+Theo các nhà quản lý, những yêu cầu trên nhằm thúc đẩy sự cạnh tranh và xoa dịu các nhà phát triển. Họ đang bị trừ mức phí từ 15% đến 30% khi người dùng mua ứng dụng qua App Store. Nếu đạo luật được thông qua, các nhà phát triển có thể bán sản phẩm của mình trực tiếp cho người dùng mà không cần sự kiểm duyệt của Apple.
+Theo CNBC, Apple đang thực hiện chiến dịch chống lại các dự luật bằng cách nhấn mạnh vào những rủi ro mà người dùng có thể gặp phải.
+Đại diện Apple cho biết, sideloading sẽ làm giảm giá trị của iPhone. Hiện tất cả các ứng dụng được đưa lên App Store phải thông qua một quy trình đánh giá có tên App Review, nhằm phát hiện nguy cơ mã độc hoặc lừa đảo. Tim Cook cũng lấy ví dụ về việc người dùng Android từng cài phải ứng dụng theo dõi Covid-19 có chứa mã độc tống tiền, trong khi điều này không xảy ra trên iPhone do Apple đã từ chối các ứng dụng không tin cậy.
+Ngoài ra, khi cho phép cài ứng dụng từ nguồn bên ngoài, nhà phát triển có thể sẽ rời App Store để thoải mái khai thác dữ liệu người dùng hơn. "Việc bỏ tùy chọn an toàn này sẽ chỉ khiến người dùng có ít lựa chọn hơn", CEO Apple nói.
+Lưu Quý (theo CNBC)

@@ -1,0 +1,20 @@
+Đáp án bài toán đánh bi-a
+Bài toán tìm độ dài đường đi của bi-a yêu cầu giải bằng kiến thức lớp 6 không quá khó nhưng không nhiều người hóa giải được.
+Đề bài:
+Hình bên trái mô tả một cơ thủ đánh bóng bi-a vào thành bàn với góc phản xạ bằng góc tới và sau ba lần phản xạ nó chạm vào một bóng bi-a khác.
+Hình bên phải mô tả một quả bóng được đánh từ góc A của bàn bi-a ABCD là hình chữ nhật với AD = 3, AB = 10 sao cho quả bóng chạm và phản xạ tại cạnh CD đầu tiên. Bóng bật ra rồi tiếp tục chạm - phản xạ từ các cạnh bàn với góc phản xạ bằng góc tới và sau năm lần bóng phản xạ thì dừng lại ở góc D.
+Tính tổng chiều dài mà quả bóng đã đi từ A đến D?
+Bổ đề: Định lý Pitago và cách chứng minh của Leonardo da Vinci.
+Định lý Pitago: Nếu tam giác ABC vuông tại A thì BC2 = AB2 + AC2
+Leonardo da Vinci (1452-1519) là thiên tài toàn năng của nhân loại khi ông là hoạ sĩ, kiến trúc sư, nhạc sĩ, bác sĩ, kỹ sư, nhà điêu khắc, nhà giải phẫu, nhà phát minh và triết học.
+Phương pháp chứng minh định lý Pitago của Leonardo da Vinci:
+Dựng hình và chia hình ta thấy diện tích hình vuông dựng trên cạnh huyền bằng tổng diện tích hai hình vuông dựng trên hai cạnh góc vuông hay
+BC2 = AB2 + AC2
+Áp dụng: 
+Bóng đánh từ A, chạm bàn tại N rồi bật ra rồi tiếp tục chạm-phản xạ từ các cạnh bàn với góc phản xạ bằng góc tới và sau 5 lần bóng phản xạ thì dừng lại ở góc D.
+Do hình chữ nhật ABCD nhận KE nối 2 trung điểm của AD và BC làm trục đối xứng đồng thời điểm chạm khởi đầu A và điểm kết thúc D của bi-a là 2 điểm đối xứng nhau qua KE nên trong 5 điểm bi-a chạm bàn có 2 cặp điểm (M, N) và (P, Q) đối xứng nhau qua KE và điểm chạm còn lại chính là E trung điểm BC.
+Từ đó suy ra các hình AMND, MNQP và PQCB là các hình chữ nhật với AM = DN = NQ = MP = 4, PB = QC = 2 và KA = KD = EB = EC = 3/2 (xem hình vẽ).
+Sử dụng định lý Pitago ta có: AN = DM = NP = MQ = QE + PE = 5.
+Vậy tổng chiều dài mà quả bóng đã đi từ A đến D là
+AN + NP + PE + EQ + QM + MD = 25.
+Trần Phương

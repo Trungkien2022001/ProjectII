@@ -1,0 +1,12 @@
+Apple cập nhật AirTag để hạn chế theo dõi
+Apple đưa ra một số điều chỉnh với AirTag nhằm hạn chế khả năng phụ kiện bị lợi dụng để theo dõi người khác.
+Apple thông báo đã làm việc với các nhóm bảo vệ an toàn và cơ quan thực thi pháp luật để xác định nguy cơ có thể xảy ra với người dùng từ sản phẩm AirTag, đồng thời bổ sung các phương thức cảnh báo người dùng.
+"Qua đánh giá riêng cũng như thảo luận với chuyên gia, chúng tôi đã xác định được nhiều cách hơn nữa để cập nhật các cảnh báo an toàn của AirTag và giúp chống lại các vụ theo dõi không mong muốn", Apple cho biết.
+Theo đó, AirTag và các thiết bị liên quan sẽ được cập nhật để tăng cường khả năng thông báo cũng như phát hiện những chiếc AirTag đáng ngờ.
+Cụ thể, khi có một AirTag lạ ở gần, iPhone, iPad, iPod Touch sẽ phát âm thanh, ngoài việc thông báo trên màn hình như trước. Những thiết bị gồm iPhone 11, 12 và 13 sẽ được bổ sung khả năng tìm kiếm chính xác vị trí của AirTag đó nếu trong phạm vi khả dụng. Bản thân chiếc AirTag cũng được điều chỉnh để phát ra nhiều âm thanh với âm lượng lớn nhất, nhằm giúp người dùng dễ dàng tìm thấy thiết bị hơn.
+Apple cho biết có tình trạng một số người dùng nhận được thông báo "đã phát hiện phụ kiện không xác định" và nghĩ rằng có AirTag theo dõi. Hãng khẳng định thông báo trên chỉ xuất hiện khi điện thoại ở gần một số thiết bị như AirPods. Để tránh hiểu nhầm, thông báo sau này sẽ hiển thị chính xác tên thiết bị thay vì chung chung như trước.
+Ngoài ra, trong điều khoản của mình, hãng cũng bổ sung cảnh báo với người dùng AirTag về việc theo dõi người khác có thể phạm pháp.
+Mỗi AirTag có một số seri duy nhất và được liên kết với Apple ID của người đăng ký. Trong trường hợp có yêu cầu từ toà án hoặc cơ quan thực thi pháp luật, Apple sẽ cung cấp thông tin chi tiết về tài khoản này. Vì vậy, nếu phát hiện AirTag lạ, người dùng có thể báo cho các cơ quan an ninh để được hỗ trợ.
+Apple cho biết đã nhận được các báo cáo về những trường hợp sử dụng AirTag cho mục đích xấu và phạm pháp. Hãng đã cung cấp thông tin cần thiết cho cơ quan thực thi pháp luật và tìm ra thủ phạm trong những vụ được yêu cầu.
+Ra đời vào tháng 4/2021, AirTag là thiết bị định vị của Apple nhằm tìm lại đồ đạc thất lạc. Tuy nhiên, thiết bị giá 29 USD này cũng bị lo ngại có thể trở thành thiết bị rình mò người khác. Thực tế trong những tháng gần đây, liên tiếp các trường hợp được ghi nhận tại Mỹ và Canada, trong đó kẻ xấu dùng AirTag để theo dõi bạn gái cũ, theo dõi chủ xe trong một số vụ trộm xe sang.
+Lưu Quý

@@ -1,0 +1,24 @@
+5 vụ hack tiền số lớn nhất
+Poly Network, Ronin Network và Wormhole là ba trong số các nền tảng blockchain bị hacker tấn công và lấy đi lượng tiền số trị giá hàng trăm triệu USD.
+Tiền điện tử đã phát triển mạnh trong khoảng một thập kỷ gần đây. Với tính chất phi tập trung, chúng được xem là nơi để đầu tư của không ít người. Tuy nhiên, khi Bitcoin và các loại tiền ảo khác liên tục tăng giá, chúng trở thành mục tiêu của tội phạm mạng. Hàng nghìn vụ hack đã xảy ra, gây thiệt hại từ hàng chục đến hàng trăm triệu USD.
+Theo thống kê của công ty dữ liệu Chainalysis, trong tổng số 11 tỷ USD tiền điện tử bất chính mà tội phạm mạng nắm giữ năm 2021, 93% có được từ việc trộm cắp, tăng từ ba tỷ USD của năm 2020. Trong đó, có nhiều vụ tấn công với thiệt hại hàng trăm triệu USD được thực hiện những năm qua.
+Ronin Network (615 triệu USD)
+Ngày 29/3, Ronin Network - mạng blockchain được Sky Mavis xây dựng nhằm phục vụ cho sự phát triển của trò chơi nổi tiếng Axie Infinity - thông báo bị tấn công và lấy đi tổng cộng 173.600 ETH cùng 25,5 triệu USDC. Các dữ liệu được ghi lại cho thấy vụ tấn công xảy ra từ ngày 23/3.
+Nếu dựa theo ngày xảy ra tấn công, hacker đã chiếm số token trị giá 540 triệu USD. Tuy nhiên, nếu tính theo ngày công bố, giá trị mỗi ETH là 3.400 USD, số tiền điện tử này tương đương 615 triệu USD, trở thành vụ hack lớn nhất nhằm vào các nền tảng tiền số.
+Ronin Network sau đó cho biết đã ngừng việc rút và gửi tiền vào mạng, đồng thời vô hiệu hóa cầu nối Ronin với các nền tảng khác trong game. Đơn vị này cũng đang tiến hành các biện pháp để theo dõi đường đi của khoản tiền bị đánh cắp nhằm tìm ra thủ phạm.
+Ronin Network là blockchain được xây dựng cho game Axie Infinity với mục đích giúp khắc phục một số nhược điểm của nền tảng Ethereum như phí cao và dễ bị nghẽn mạng. Theo đại diện Sky Mavis, Ronin được xây dựng với chín node xác thực, mỗi giao dịch gửi tiền hoặc rút tiền hiện tại sẽ yêu cầu ít nhất năm note xác thực. Trong vụ tấn công trên, hacker đã xâm nhập thành công vào năm node và lấy đi số tiền kể trên.
+Poly Network (611 triệu USD)
+Tháng 8/2021, nền tảng tài chính phi tập trung DeFi Poly Network cho biết bị hacker đánh cắp số tiền mã hóa trị giá 611 triệu USD. Tin tặc đã lợi dụng một lỗ hổng trong hệ thống blockchain này dể lấy đi số ETH giá trị 273 triệu USD, BSC trị giá 253 triệu USD và USDC trị giá 85 triệu USD trên mạng lưới.
+Tổng số thiệt hại khi vụ tấn công xảy ra là hơn 611 triệu USD, trở thành vụ hack lớn nhất về DeFi và cũng là một trong hai vụ hack lớn nhất về tiền số cùng với Ronin Network. Tuy nhiên, toàn bộ số tiền sau đó đã được hacker trả lại.
+Poly Network là nền tảng cho phép hoán đổi token giữa các blockchain với nhau, hỗ trợ nhiều mạng như Bitcoin, Ethereum và Ontology, được sử dụng trên nhiều sàn giao dịch tiền điện tử lớn, trong đó có Binance và OKEx. Nền tảng này được thành lập bởi liên minh các nhóm blockchain gồm Neo, Ontology và Switcheo. Dự án được kỳ vọng là sẽ đặt nền móng cho mảng giao dịch xuyên chuỗi với chi phí thấp hơn trước đây.
+Wormhole (320 triệu USD)
+Đầu tháng 2, nhóm phát triển blockchain Wormhole xác nhận trên Twitter rằng mạng lưới bị tấn công và ngừng hoạt động để bảo trì. Nhóm sau đó cho biết nền tảng đã bị đánh cắp số token trị giá hơn 320 triệu USD.
+Phân tích của công ty an ninh mạng CertiK sau đó cho thấy, những kẻ tấn công đã thu lời 251 triệu USD từ Ethereum, gần 47 triệu USD từ Solana và hơn 4 triệu USD từ USDC. Đây được xem là vụ tấn công lớn thứ hai trong lịch sử nhằm vào hệ thống DeFi sau Poly Network.
+Wormhole là một trong những cầu nối phổ biến nhất giữa blockchain Ethererum và Solana. Nền tảng này cho phép việc giao dịch các đồng tiền trong hai hệ sinh thái trên trở nên dễ dàng hơn.
+Coincheck (534 triệu USD)
+Đầu năm 2018, sàn giao dịch tiền điện tử có trụ sở tại Tokyo Coincheck xác nhận hệ thống của họ bị hacker xâm nhập và chiếm 523 triệu token NEM trị giá 400 triệu USD khi đó. Theo công ty này, kẻ tấn công lợi dụng một lỗ hổng trên sàn để xâm nhập vào ví nóng của người dùng và chuyển tiền sang một địa chỉ khác.
+Số tiền bị đánh cắp đã vĩnh viễn không thể thu hồi. Coincheck sau đó phải dùng tiền mặt để hoàn trả cho hơn 260.000 người bị mất tiền.
+Mt. Gox (480 triệu USD)
+Năm 2014, một sàn giao dịch tiền ảo khác của Nhật Bản là Mt. Gox cũng bị hacker tấn công và đánh cắp tổng cộng 850.000 Bitcoin trị giá 480 triệu USD khi đó. Còn nếu dựa trên giá 47.000 USD mỗi đồng hiện nay, số Bitcoin trên có giá trị gần 40 tỷ USD.
+Cho đến trước khi bị tấn công, Mt. Gox là sàn giao dịch tiền số lớn nhất thế giới. Do thiệt hại quá lớn, sàn đã phải nộp đơn phá sản, còn người đứng đầu sàn này là Mark Karpeles cũng bị bắt.
+Bảo Lâm tổng hợp

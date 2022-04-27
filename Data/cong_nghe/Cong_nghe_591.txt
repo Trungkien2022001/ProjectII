@@ -1,0 +1,10 @@
+Lỗi iOS 15 khiến iPhone bị treo
+Lỗi đặt tên thiết bị HomeKit có thể khiến iPhone bị treo máy, buộc phải khôi phục cài đặt gốc.
+Theo phát hiện của nhà nghiên cứu bảo mật Trevor Spiniolas, khi đổi tên thiết bị trong ứng dụng nhà thông minh Home trên iOS, nếu tên gọi của chúng chưa hơn 500.000 ký tự, iPhone sẽ bị "treo" và không thể làm gì được. Người dùng buộc phải khôi phục cài đặt gốc lại thiết bị qua cáp kết nối với máy tính. Tuy nhiên, ngay cả khi dùng thao tác này, iPhone vẫn có thể gặp lại lỗi cũ do tên thiết bị đã được sao lưu vào tài khoản iCloud.
+Spiniolas cho rằng, lỗi trên iOS liên quan đến nền tảng HomeKit. Ông đã thử nghiệm với các mẫu iPhone chạy iOS 15.2 và một số model dùng iOS 14.7, tất cả đều gặp vấn đề này.
+Theo Spiniolas, lỗi có thể không phổ biến đối với hầu hết người dùng, do không mấy người đặt tên thiết bị nhà thông minh trên Home vượt 500.000 ký tự. Tuy vậy, họ vẫn có thể đối mặt với nguy cơ khi bị người khác chơi khăm. "Sự cố có thể gây tác hại đáng kể với người dùng, khiến dữ liệu cục bộ trên iPhone bị mất vĩnh viễn do phải khôi phục lại cài đặt gốc cho máy", Spiniolas nhấn mạnh.
+Chuyên gia bảo mật này cho biết đã báo lỗi tới Apple từ ngày 10/8 và hãng hứa sẽ sửa lỗi trước năm 2022. Đến 10/12, Apple thông báo với Spiniolas rằng bản sửa lỗi sẽ có mặt đầu năm 2022.
+Dù vậy, sau ngày 4/1, ông nhận thấy lỗi vẫn xuất hiện nên quyết định công khai. "Công chúng nên nhận thức được lỗ hổng này để tránh bị lợi dụng, thay vì hoàn toàn không hay biết", Spiniolas nói.
+Ông khuyến cáo, người dùng nên giới hạn việc đặt tên cho các thiết bị trong HomeKit để tránh gặp sự cố trong khi đợi bản cập nhật iOS từ Apple.
+Trước đây, iOS cũng từng gặp lỗi về chuỗi ký tự. Hồi tháng 6/2021, nhà nghiên cứu bảo mật Carl Schou phát hiện mọi iPhone có thể bị vô hiệu hóa tính năng Wi-Fi sau khi kết nối vào mạng có ký tự "%". Trước đó, iPhone cũng gặp lỗi khởi động lại, khi người dùng nhận được tin nhắn có chứa ký tự tiếng Arab.
+Bảo Lâm (theo Zdnet)

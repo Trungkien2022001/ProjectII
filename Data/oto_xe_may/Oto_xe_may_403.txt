@@ -1,0 +1,7 @@
+'Thói quen về N trước khi xe dừng đèn đỏ'
+Tôi về số N khi xe còn chạy một đoạn ngắn mới tới đèn đỏ sau đó nhá phanh để xe tự dừng một cách êm ái.
+Theo tôi, nếu để số D khi dừng đèn đỏ, hộp số vẫn kết nối hệ truyền động với động cơ xe, làm giảm tuổi thọ hệ thống côn (dù rất ít), động cơ thì phải chạy với vòng tua cao hơn, tốn xăng hơn, chân thì mỏi hơn vì giữ phanh. Nên tôi tranh thủ nghỉ ngơi trong thời gian này.
+Nếu về số P, trước hết là sai cách vận hành số P. Khi đã dừng xe, kéo phanh tay, và tắt máy rồi mới về P, vì số P hầu hết là thao tác khóa bánh răng hộp số để xe khỏi chạy, mà khóa bánh răng lúc động cơ còn chạy thì có một ít khả năng các bánh răng va chạm nhau gây vỡ, mòn bánh răng nhanh hơn.
+Bạn cứ thử nhả phanh tay khi xe chưa nổ máy và vẫn để nguyên số P rồi đẩy xe. Bạn sẽ thấy xe bị đẩy được một vài cm về trước và sau, đó là do độ rơ của các bánh răng khi bị khóa vào nhau. Thêm nữa, khi dừng đèn đỏ mà về số P không may bị xe nào tông từ phía sau thì sẽ vừa bị móp đuôi xe, vừa có nguy cơ bể hộp số. Trường hợp này nếu chỉ để N và kéo phanh tay thì không có nguy cơ vỡ hộp số.
+Quan điểm của bạn về thói quen này?
+Độc giả Kamaz

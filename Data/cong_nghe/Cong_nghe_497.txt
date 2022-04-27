@@ -1,0 +1,4 @@
+MediaTek thử nghiệm Wi-Fi 7
+Wi-Fi 7 được kỳ vọng là chuẩn kết nối Wi-Fi đầu tiên có thể thay thế hoàn toàn cho cáp mạng có dây Ethernet.
+Chỉ hai năm sau khi Wi-Fi 6 chính thức ra mắt, MediaTek đã công bố thiết bị thử nghiệm Wi-Fi 7 đầu tiên trên thế giới. "Công nghệ Wi-Fi 7 sẽ cung cấp kết nối ổn định cho thực tế ảo AR/VR, các dịch vụ chơi game đám mây hay xem trực tuyến video 8K", Alan Hsu, Phó chủ tịch MediaTek, nói.
+Trong các đợt thử nghiệm, công nghệ Wi-Fi 7 Filogic của hãng có thể đạt tốc độ tối đa theo chuẩn IEEE 802.11be, dùng công nghệ hoạt động đa liên kết MLO. Công nghệ MLO tổng hợp nhiều kênh trên các dải tần số khác nhau cùng lúc, cho phép lưu lượng mạng có thể lưu thông liên tục ngay cả khi có nhiễu hoặc tắc nghẽn trên các dải tần.

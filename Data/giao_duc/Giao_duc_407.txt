@@ -1,0 +1,29 @@
+Đáp án bài toán bảy tam giác đều
+Với yêu cầu viết đáp số đúng trong 5 phút, bài toán này đã giúp phân loại được các thí sinh dự thi Toán học trẻ quốc tế IIMC 2021.
+Đề bài:
+Cho 7 tam giác đều xếp liên tiếp nhau tạo thành một hình thang cân như hình vẽ dưới đây. Đường chéo của hình thang cân cắt 3 tam giác đều có 3 phần tô màu đỏ. Biết diện tích mỗi tam giác đều là 2022. Tính tổng diện tích 3 phần tô đỏ.
+Hướng dẫn giải:
+Bổ đề 1: Định lý Talet về tỷ lệ trên 2 đường chéo hình thang.
+Hình thang ABCD có AB//CD; AD cắt BC tại O thì AO/AD = BO/BC
+Chứng minh: Do AB//CD nên S(ACD) = S(BCD) hay S(AOC) = S(BOD).
+Từ đó suy ra : S(CAO)/S(CAD) = S(DBO)/S(DBC) hay AO/AD = BO/BC.
+Bổ đề 2: Tỷ lệ diện tích của 2 tam giác chung một góc.
+Nếu M và N nằm trên cạnh AB và AC của ∆ABC thì
+S(AMN)/S(ABC) = (AM/AB)×(AN/AC).
+Chứng minh: 
+Biến đổi: S(AMN)/S(ABC) ={S(AMN)/S(AMC)}×{S(AMC)/S(ABC)}= (AM/AB)×(AN/AC)
+Áp dụng: 
+Trước hết ta sử dụng tính chất đường trung bình.
+Từ giả thiết suy ra AK//BH//CF và AB = BC = CD nên KH = HF = FD.
+Tương tự: MI//NG//PE//QD; KM = MN = NP = PQ nên KI = IG = GE = ED.
+Sử dụng bổ đề 1 định lý Talet ta có:
+AI/AM = DI/DK = 3/4, BH/BM = DH/DK = 2/3, BG/BN = DG/DK = 1/2.
+CF/CN = DF/DK = 1/3 và CE/CP = DE/DK = 1/4.
+Sử dụng bổ đề 2 ta có:
+S(AKI)/S(AKM) = AI/AM = 3/4.
+S(BHG)/S(BMN) = (BH/BM)×(BG/BN) = (2/3)×(1/2) = 1/3.
+S(CFE)/S(CNP) = (CF/CN)×(CE/CP) = (1/3)×(1/4) = 1/12.
+Do S(AKM) = S(BMN) = S(CNP) = 2022 nên suy ra:
+Tổng diện tích 3 phần tô đỏ là (3/4+1/3+1/12)×2022 = 2359.
+Đáp số: 2359.
+Trần Phương

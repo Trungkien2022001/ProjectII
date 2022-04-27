@@ -1,0 +1,8 @@
+Intel ra chip blockchain đào tiền điện tử
+Chip mới của Intel chuyên dùng để đào Bitcoin với khả năng tiết kiệm điện hơn so với chip máy tính hiện nay.
+Intel cho biết dòng chip ASIC này sẽ được bán ra từ cuối năm nay. Một trong những khách hàng đầu tiên là Block Inc, công ty do Jack Dorsey - nhà đồng sáng lập Twitter - làm CEO.
+Không giống CPU hoặc GPU được dùng trong nhiều tác vụ khác nhau, chip ASIC của Intel được thiết kế cho một loại tác vụ cụ thể, tăng tốc độ thực thi các tác vụ blockchain nhưng vẫn tiết kiệm điện.
+Với việc ra mắt chip blockchain, Intel sẽ đối mặt với sự cạnh tranh từ Bitmain và MicroBT, những nhà sản xuất phần cứng khai thác Bitcoin lớn nhất thế giới. Bước đi mới của hãng cũng được cho là để đối đầu với Nvidia, công ty chuyên về chip đồ hoạ được dùng nhiều nhất trong hoạt động khai thác Bitcoin. Nvidia cũng đã phát triển dòng chip riêng cho khai thác Ethereum.
+Intel bắt đầu nghiên cứu và gia nhập thị trường tiền số từ năm 2018, có bằng sáng chế về việc khai thác hiệu quả tiền số với việc sử dụng thuật toán SHA-256. Ngoài ra, hãng cũng có cổ phần trong sàn giao dịch tiền điện tử thuộc hàng lớn nhất hiện nay là Coinbase.
+Hiện blockchain đóng vai trò là sổ cái lưu trữ các hồ sơ giao dịch trên mạng và ngày càng phát triển. Song song với đó, các công nghệ như NFT hay Web3 cũng bắt đầu nổi lên trong gần một năm qua.
+Huy Đức (theo Reuters)

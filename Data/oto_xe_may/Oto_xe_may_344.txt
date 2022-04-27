@@ -1,0 +1,6 @@
+Công nghệ màn hình 'tàng hình' trên xe hơi
+MỹKhi được kích hoạt, mặt phẳng trông như được ốp gỗ bỗng biến thành màn hình hiển thị mọi thông tin cần thiết.
+Nhằm giảm sự dày đặc của các loại màn hình cũng như giảm sự phân tâm khi lái xe, nhà cung ứng Continental phát triển loại màn hình có tên ShyTech - thứ sẽ như vô hình khi không dùng đến.
+ShyTech thực tế là một màn hình LCD với dạng ma trận ánh sáng ngược (backlight) và một lớp "da" đặc biệt. Tùy vào thiết kế, lớp da này có thể trông giống vân gỗ, sợi carbon hay thậm chí như da bọc. Khi không sử dụng, khác với các màn hình thông thường, vật liệu đặc biệt này ít phản xạ ánh sáng hơn nên cũng không gây chói.
+Khi muốn sử dụng màn hình, tài xế hoặc hành khách chỉ việc điều khiển bằng giọng nói hoặc qua các cảm biến ngay trên màn hình. Công nghệ dự kiến được Continental áp dụng trên xe hơi trong 2023.
+Mỹ Anh (theo Cnet)

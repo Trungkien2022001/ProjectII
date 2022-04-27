@@ -1,0 +1,8 @@
+Apple thừa nhận Siri lưu bản thu giọng nói người dùng
+Một lỗi trong iOS 15 cho phép Siri lưu trữ các bản thu giọng nói khi tương tác với trợ lý ảo, kể cả khi người dùng không cấp quyền.
+Theo Zdnet, lỗi xuất hiện từ bản đầu tiên của iOS 15 khi tự động kích hoạt cài đặt Improve Siri & Dictation - tính năng giúp cải thiện Siri theo thời gian. Thông thường, các bản thu âm sẽ bị xoá, nhưng lỗi khiến chúng được lưu trữ.
+Apple thừa nhận vấn đề ảnh hưởng đến "một lượng nhỏ" iPhone, đồng thời cho biết đã xoá mọi bản ghi âm liên quan và chặn việc thu thập bản ghi mới sau khi phát hành iOS 15.2 vào ngày 14/12/2021. Dù vậy, hãng không thông báo vấn đề cho người dùng khi đó.
+Phải đến bản iOS 15.4 beta 2, lỗi mới được sửa hoàn toàn. Từ bản này, Apple sẽ gửi cảnh báo tuỳ chọn bật Improve Siri & Dictation hay không khi cài đặt.
+Theo The Verge, Apple đã kém minh bạch về lỗi mới trên iOS 15. "Liệu có bao nhiêu người đã bị nhân viên Apple lấy bản ghi và lắng nghe chúng?", trang này đặt nghi vấn, đồng thời khuyến cáo chủ nhân iPhone cần cập nhật iOS 15.2 càng sớm càng tốt.
+Apple từng đối mặt với loạt đơn kiện, cáo buộc Siri vi phạm quyền riêng tư của người dùng bằng cách nghe lén. Tháng 7/2020, báo Guardian đưa tin Apple đã thuê đối tác nghe và đánh giá các đoạn ghi âm thu được từ trợ lý ảo. Apple sau đó tuyên bố dừng chương trình này, đồng thời cung cấp tùy chọn tắt tính năng ghi âm cho người dùng.
+Bảo Lâm (theo The Verge)

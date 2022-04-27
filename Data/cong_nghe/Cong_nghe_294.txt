@@ -1,0 +1,7 @@
+Hàng triệu smartphone Samsung từng dính lỗ hổng
+Ước tính khoảng 100 triệu điện thoại Samsung dính lỗ hổng khai thác mật khẩu, nhưng đã được khắc phục vào năm ngoái.
+Theo nhóm nghiên cứu tại Đại học Tel Aviv (Israel), các smartphone gồm Galaxy S8, Galaxy S9, Galaxy S10, Galaxy S20 và Galaxy S21 chứa lỗ hổng có thể cho phép hacker lấy cắp các thông tin nhạy cảm trên máy, như mật khẩu. Vấn đề đã được các chuyên gia phát hiện và thông báo với Samsung giữa năm ngoái, trước khi công bố hôm 23/2.
+Lỗi nằm trong TrustZone Operating System (TZOS) - một nền tảng đi kèm hệ điều hành Android, chủ yếu quản lý các tính năng bảo mật trên máy. Hacker có thể khai thác các chức năng mật mã trong TZOS để đánh cắp dữ liệu nhạy cảm.
+Nhóm nghiên cứu cho biết chưa có trường hợp thiệt hại nào được ghi nhận. Sau khi nhận thông tin, Samsung đã vá lỗ hổng trong bản cập nhật tháng 8/2021, nhưng không công bố rộng rãi. Đến tháng 10/2021, hãng tiếp tục ra một bản vá nữa để giải quyết triệt để vấn đề.
+Samsung chưa đưa ra bình luận.
+Như Phúc (theo Sammobile)

@@ -1,0 +1,9 @@
+Người dùng bị khóa Facebook nếu không bật tính năng bảo mật
+Facebook gửi thông báo yêu cầu người dùng kích hoạt tính năng Protect trong vòng 15 ngày nếu không sẽ khóa tài khoản.
+Đầu tháng hai, nhiều người dùng Facebook tại Việt Nam nhận được thông báo "Bạn còn 15 ngày để bật Facebook Protect". Trong phần mô tả, mạng xã hội cho biết nếu không thực hiện trước thời gian yêu cầu, tài khoản sẽ bị khóa.
+"Ban đầu tôi tưởng đây là tin giả nên bỏ qua. Sau đó nhiều bạn bè cũng nhận được thông báo tương tự. Những người không dùng ứng dụng di động, yêu cầu được gửi qua email", Thanh Đặng, tài khoản có "tick xanh" Facebook, nói.
+Không chỉ ở Việt Nam, nhiều người dùng quốc tế cũng tỏ ra nghi ngờ và lên Twitter hỏi Nathaniel Gleicher, người đứng đầu chính sách bảo mật của Meta.
+"Đó đúng là thông báo gửi từ Facebook. Tính năng Protect là bắt buộc bởi một số tài khoản có khả năng cao bị tin tặc tấn công như nhà báo, nhà hoạt động xã hội... Chúng tôi cũng gửi email cho những người không dùng Facebook thường xuyên để họ nắm được yêu cầu và tránh bị khóa tài khoản", Gleicher giải thích trên Twitter cá nhân.
+Facebook Protect áp dụng những biện pháp bảo mật tăng cường để bảo vệ tài khoản người dùng như xác thực bằng hai yếu tố, tăng độ mạnh cho mật khẩu. Những người chưa nhận được thông báo có thể chủ động bật tính năng theo các bước: Vào Cài đặt & Quyền riêng tư -> Cài đặt -> Bảo mật và đăng nhập -> Xác thực hai yếu tố và làm theo hướng dẫn. Facebook sẽ hướng dẫn người dùng thay đổi hoặc bổ sung nếu tài khoản chưa đáp ứng được những yếu tố an toàn như độ mạnh của mật khẩu, xác thực hai yếu tố hoặc cảnh báo đăng nhập chưa được bật.
+Protect lần đầu được thử nghiệm năm 2018, sau đó được triển khai năm 2020 trong cuộc bầu cử Mỹ. Chương trình được mở rộng ra toàn cầu từ tháng 9/2021. Trong vài tháng tới, Facebook Protect sẽ tăng cường quy mô áp dụng cho người dùng trên toàn thế giới.
+Khương Nha

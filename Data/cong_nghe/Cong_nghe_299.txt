@@ -1,0 +1,17 @@
+Meta dùng AI 'cấp độ con người' cho metaverse
+Meta vừa công bố Project CAIRaoke, dự án đưa AI lên mức thông minh "cấp độ con người" với khả năng tự học hỏi, đọc tình huống và hành động.
+"Trong thế giới metaverse, chúng ta cần AI để giúp mọi người điều hướng giữa thế giới ảo và thật. Vì giữa hai thế giới này thay đổi liên tục, AI cần hiểu ngữ cảnh và học hỏi như con người", CEO Meta Mark Zuckerberg nói trong sự kiện trực tuyến công bố CAIRaoke hôm 23/2.
+AI của Meta có gì?
+CAIRaoke về cơ bản giống các công cụ AI mà công ty DeepMind thuộc Google đang thực hiện. Chúng chủ yếu học tập và xử lý các tình huống thông qua công nghệ máy học (machine learning).
+Để nâng cao khả năng cho AI của mình, Meta đã đầu tư rất nhiều vào machine learning. Đồng thời, công ty bắt đầu triển khai các tính năng học tập tự giám sát - công cụ cho phép AI tự nhận dạng mẫu.
+Đối với mô hình AI tự học điển hình, trong đó có AI mà Meta đang sử dụng cho kiểm duyệt nội dung trên Facebook, các thuật toán sẽ hoạt động bằng cách nhận dạng theo nhãn và thẻ do con người nhập vào. Chẳng hạn, khi người kiểm duyệt Facebook đưa nhãn nội dung vào, AI sẽ tiến hành kiểm duyệt dựa trên các nhãn đó.
+"Cho đến nay, thử nghiệm AI của Facebook đối với văn bản và video đang vượt trội so với các mô hình trước đây", Zuckerberg nói. "AI vẫn trong giai đoạn phát triển, nhưng chúng tôi nghĩ nó sẽ là công cụ quan trọng cho metaverse".
+Joelle Pineau, người đứng đầu nhóm nghiên cứu AI của Meta, cho biết hệ thống mới có thể được ứng dụng trong robot, gồm những cỗ máy hình người trong tương lai. Ông cũng nhấn mạnh công ty đang thử nghiệm AI cho robot trong môi trường thực tế để cho phép chúng học hỏi như con người.
+"AI sẽ càng học nhanh hơn, sâu hơn, tự chuyển giao kiến thức một khi chúng được thực hành trong thế giới thực thông qua các bước: thử, sai và thử lại", Pineau nói trong sự kiện.
+Dịch thuật thời gian thực
+Project CAIRaoke được Zuckerberg mô tả là "một mạng lưới neuron thần kinh đầu cuối hoàn chỉnh", có thể tích luỹ dữ liệu theo thời gian mà không cần phải dán nhãn hoặc thẻ chi tiết. Nó kết hợp với công cụ AI BlenderBot do Facebook phát triển trước đây để tạo ra "một mô hình duy nhất có thể hiểu hàng trăm ngôn ngữ".
+Tại sự kiện, Zuckerberg tuyên bố "không có ngôn ngữ nào bị bỏ lại phía sau" nhờ vào Project CAIRaoke. Theo người đứng đầu Meta, AI sẽ gồm một máy dịch giọng nói phổ thông với tính năng dịch ngôn ngữ tức thời, trong đó mọi ngôn ngữ sẽ được chuyển thể lập tức mà không cần sử dụng tiếng Anh làm cơ sở dịch thuật.
+Cũng theo Meta, một công cụ AI khác là Universal Speech Translator cũng đang được thử nghiệm với mục tiêu dịch thông tin và các cuộc trò chuyện sang bất cứ ngôn ngữ nào khi người dùng đang trải nghiệm thực tế ảo, thực tế tăng cường. Tuy vậy, công cụ này hiện chưa được triển khai.
+Các lãnh đạo của Meta trong sự kiện thừa nhận mục tiêu đưa AI vào metaverse chưa thể trở thành hiện thực. Thay vào đó, họ dự đoán phải vài năm nữa, công nghệ này mới có tính ứng dụng cao trong vũ trụ ảo.
+Lý do người tham gia metaverse không có chân
+Bảo Lâm

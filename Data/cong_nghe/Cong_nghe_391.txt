@@ -1,0 +1,21 @@
+Lý do vụ sáp nhập Nvidia - ARM sụp đổ
+Nvidia không thể mua lại hãng chip ARM do rào cản lớn từ ngành công nghiệp bán dẫn và cơ quan quản lý toàn cầu.
+Cả Nvidia và Softbank - công ty sở hữu ARM - chính thức xác nhận không thể hoàn tất thương vụ lớn nhất lịch sử ngành công nghiệp bán dẫn. Lý do được đưa ra là "những rào cản về quy định ngăn cản sự hoàn thành của giao dịch, bất chấp những nỗ lực và thiện chí của các bên".
+Nvidia nêu ý định mua lại ARM với giá 40 tỷ USD, trong đó 21,5 tỷ USD bằng cổ phiếu, vào tháng 9/2020. Sau 18 tháng, nhờ cổ phiếu tăng vọt, thoả thuận có thể đã đạt 75 tỷ USD nếu hoàn tất. Dù vậy, việc sáp nhập đã không xảy ra.
+'Chết' từ khi mới công bố
+ARM có nguồn gốc từ công ty Acorn của Anh. SoftBank (Nhật Bản) đã mua lại doanh nghiệp này năm 2016 với giá 31 tỷ USD. Không giống các tập đoàn sản xuất chip xử lý khác như AMD, Intel, Motorola hay Hitachi, ARM chỉ thiết kế và bán chip thay vì tạo ra vi mạch CPU, GPU hoàn chỉnh. Kiến trúc ARM được nhiều công ty bán dẫn mua bản quyền, như Apple, Samsung, Qualcomm.
+Với cách kinh doanh đặc biệt, nhiều nhà phân tích cảnh báo thỏa thuận này có nguy cơ "chết ngay từ đầu", do những lo ngại về quy định chống cạnh tranh và căng thẳng địa chính trị. 
+"ARM luôn là 'Thuỵ Sĩ' của ngành công nghiệp bán dẫn và đang cung cấp thiết kế chip cho hơn 500 tổ chức, doanh nghiệp. Điều đó gây chú ý cho các cơ quan quản lý ở Anh, Mỹ, châu Âu và Trung Quốc ", Hermann Hauser, một trong các nhà sáng lập của ARM, nói với Reuters.
+Theo Greg Roh, đứng đầu bộ phận nghiên cứu Hyundai Motor Securities tại Seoul, việc một công ty kiến trúc chip chủ chốt như ARM "gia nhập" Mỹ thông qua Nvidia vốn không được hoan nghênh.
+"Ngành chip đang diễn ra một cuộc chiến gay gắt. Các quốc gia cố gắng cạnh tranh để chiếm lợi thế và sẵn sàng ngăn chặn thương vụ nếu thấy bất lợi", Roh cho hay.
+Geoff Blaber, CEO hãng phân tích thị trường CCS Insight, cho rằng thoả thuận gặp áp lực lớn ngay từ đầu. "Thương vụ thất bại là điều không quá bất ngờ. Việc tìm cách xoa dịu các nhà lập pháp, đồng thời duy trì mức giá hơn 40 tỷ USD là thách thức quá lớn", Blaber nói với Guardian.
+Tháng 9/2020, khi kế hoạch mới được công bố, Global Times đánh giá: "Với căng thẳng Mỹ - Trung và sự đàn áp của Mỹ với hàng loạt doanh nghiệp công nghệ Trung Quốc, nếu ARM rơi vào tay Mỹ, các công ty công nghệ Trung Quốc sẽ bị đặt vào thế bất lợi trên thị trường".
+Khi đó, trang này cho rằng các hãng công nghệ Trung Quốc có trong Danh sách thực thể của Mỹ, như Huawei, sẽ bị loại hoàn toàn khỏi việc sản xuất chip nếu dùng thiết kế ARM. Các doanh nghiệp châu Âu sử dụng công nghệ ARM cũng sẽ gặp khó khăn khi cung cấp sản phẩm cho Trung Quốc, gây ra sự gián đoạn lớn cho chuỗi cung ứng.
+Ngoài ra, một số chuyên gia lo ngại về tính trung lập của ARM nếu bị Nvidia mua lại. Điều này dẫn đến việc thương vụ phải chịu sự giám sát quyết liệt từ các cơ quan quản lý trên toàn thế giới và sớm đổ bể.
+Hướng đi mới
+Theo Fortune, vụ sáp nhập thất bại gần như không ảnh hưởng đến Nvidia. Tuy nhiên, công ty này hiện chỉ mạnh ở mảng chip đồ hoạ GPU, chưa có thành tựu lớn ở mảng bộ xử lý trung tâm CPU.
+Vào tháng 4/2021, công ty công bố kế hoạch phát triển CPU chuyên dụng cho trung tâm dữ liệu Grace, dựa trên kiến trúc ARM. Khi đó, giới chuyên gia cho rằng ARM sẽ là sự bổ sung hữu ích cho tham vọng của Nvidia. 
+Trong khi đó, ARM "đi ngang" trong những năm qua dưới thời Softbank. Công ty đang có kế hoạch IPO năm 2023. "Chúng tôi rất tin tưởng trước cơ hội trở thành một công ty niêm yết đại chúng", Rene Haas, CEO mới được bổ nhiệm của ARM, nói với Reuters.
+Cũng theo Haas, công ty cũng đang muốn thâm nhập lĩnh vực máy chủ. ARM hiện cấp phép thiết kế chip cho smartphone, máy tính, nhưng lĩnh vực này đang có dấu hiệu phát triển chậm lại.
+"Trong khi các đơn vị được cấp phép của ARM như Apple, Qualcomm, Amazon đã đạt doanh thu và lợi nhuận chóng mặt, được định giá thị trường tăng vọt, ARM lại đối mặt với chi phí tăng và lợi nhuận thấp hơn", một chuyên gia bình luận.
+Bảo Lâm

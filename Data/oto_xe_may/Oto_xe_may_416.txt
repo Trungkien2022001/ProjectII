@@ -1,0 +1,7 @@
+Vào nhầm số lùi khi xe đang chạy?
+Một số xe, cần số kéo theo một đường thẳng, trường hợp xe đang chạy mà vào số lùi thì sẽ như thế nào. (Xuân Trường)
+Với câu hỏi "Dừng đèn đỏ về số N có đỡ tốn xăng?" bản thân tôi cũng lái xe được gần 4 năm, thường khi gần dừng đèn đỏ khoảng 100 m là tôi luôn về số N để xe tự trôi và gần đến nơi mới phanh rồi dừng lại.
+Không vì câu chuyện tiết kiệm xăng, nhưng tôi luôn thắc mắc lỡ mình quá tay mà về luôn số R (số lùi) trong lúc đang chạy thì xe có bị sao không. Ví dụ, vỡ hộp số hoặc bị những vấn đề gì khác nghiêm trọng hơn.
+Tôi thấy một số dòng xe số N và số R nằm cùng một đường thẳng nên rất dễ bị kéo nhầm. Cá nhân tôi chưa bao giờ mắc phải lỗi này và tất nhiên là không dám thử nên mong các bạn ai đã từng bị rơi vào trường hợp trên hoặc có kiến thức về xe trả lời giúp.
+Ngoài ra, xin hỏi với thao tác lái xe như tôi có đúng.
+Cảm ơn các bạn!

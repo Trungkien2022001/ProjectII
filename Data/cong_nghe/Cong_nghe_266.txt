@@ -1,0 +1,9 @@
+Google Maps tắt tính năng xem giao thông ở Ukraine
+Tính năng cập nhật tình hình giao thông theo thời gian thực tại Ukraine bị vô hiệu hóa vào cuối tháng 2 trên bản đồ Google.
+Khi mở phần xem dữ liệu giao thông trực tiếp trên Google Maps, người dùng sẽ không thấy các dữ liệu tại Ukraine, trong khi những khu vực khác vẫn hiển thị đầy đủ.
+Theo The Verge, tính năng bị vô hiệu hóa khi người dùng ở các khu vực khác trên thế giới truy cập. Còn với người dân tại Ukraine, thông tin giao thông vẫn hoạt động để chỉ đường cho lái xe.
+Google không giải thích nguyên nhân, cũng như động thái trên được thực hiện từ khi nào. Tuy nhiên, trả lời Reuters hôm 27/2, hãng cho biết sẽ "hành động vì sự an toàn của cộng đồng tại Ukraine" sau khi tham vấn các nguồn, gồm cả chính quyền địa phương.
+Dữ liệu giao thông trực tiếp là tính năng được Google xây dựng từ năm 2008. Giải pháp sử dụng dữ liệu vị trí ẩn danh được thu thập từ các smartphone Android để hiển thị mật độ giao thông, giúp người dùng có thể biết được các khu vực tắc đường.
+Theo Vice, động thái của Google diễn ra sau khi xuất hiện các báo cáo về tình trạng người dùng trên khắp thế giới sử dụng Google Maps để theo dõi việc di chuyển của quân đội và người dân tại Ukraine.
+Trước đó, Google Maps và smartphone bị lo ngại có thể trở thành "vũ khí" do thám trong các chiến dịch quân sự. Trang Business Insider dẫn lời tiến sĩ Jeffrey Lewis tại Viện Nghiên cứu Quốc tế Middlebury ở Monterey, California rằng ông đã "nhìn thấy" cuộc hành quân của Nga vào biên giới Ukraine trước khi Tổng thống Putin chính thức thông báo về chiến dịch. Lewis phát hiện các cảnh báo "tắc đường" trên một con đường từ Belgorod (Nga) dẫn biên giới Ukraine vào khoảng 3h15 (giờ địa phương) hôm 24/2.
+Lưu Quý

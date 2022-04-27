@@ -1,0 +1,9 @@
+Google tạo AI kiểm soát lò phản ứng hạt nhân
+Công ty DeepMind của Google đã phát triển thành công AI có thể tạo và điều khiển tia plasma siêu nóng bên trong lò phản ứng tổng hợp hạt nhân.
+Hợp tác với Trung tâm Plasma thuộc Viện Kỹ thuật liên bang Lausanne (EPFL) của Thuỵ Sĩ, DeepMind cho biết đã xây dựng hệ thống AI với khả năng điều khiển các nam châm và thay đổi điện áp của chúng hàng nghìn lần mỗi giây bên trong lò phản ứng hạt nhân.
+Một trong những khó khăn là giam giữ và kiểm soát tia plasma trong các buồng chân không lớn của lò phản ứng, gọi là tokamak. AI chưa đặt tên của DeepMind sử dụng một kỹ thuật gọi là Học tăng cường (Reinforcement Learning), tức cho hệ thống lặp đi lặp lại một hành động nhất định nhằm tối đa hóa cơ hội thành công trong một tình huống cụ thể.
+Ban đầu, AI được nhóm phát triển và chạy thành công trên một trình mô phỏng ảo. Nhóm sau đó cho chạy 100 lần trên một tokamak tại Trung tâm Plasma của EPFL. AI đã chứng tỏ tính hữu hiệu khi có khả năng điều khiển từ trường trong thời gian hai giây như trong trình mô phỏng.
+Theo các chuyên gia, AI của DeepMind có thể giúp cung cấp thông tin về thiết kế của các tokamak và hệ thống điều khiển của chúng. Phó giáo sư Egemen Kolemen của Đại học Princeton đánh giá, sự tham gia của DeepMind làm cho "một quá trình cực kỳ phức tạp dễ quản lý hơn".
+Ambrogio Fasoli, Giám đốc của Swiss Plasma, cho rằng công trình nghiên cứu là bước tiến quan trọng để thiết kế các tokamak mới kết hợp AI trong tương lai gần.
+DeepMind thành lập năm 2010 và được Google mua lại năm 2014, từng tiêu tốn hàng tỷ USD vào AI trước khi có lãi năm 2020. Năm ngoái, bộ phận này tuyên bố đạt đột phá nghiên cứu với AlphaFold - thuật toán AI dự đoán hình dạng của mọi protein trong cơ thể con người. Gần đây, DeepMind cũng giới thiệu một AI khác là AlphaCode và khẳng định nó có khả năng lập trình như một lập trình viên bình thường.
+Bảo Lâm (theo Business Insider)

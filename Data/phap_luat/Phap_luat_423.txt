@@ -1,0 +1,9 @@
+Cách tra cứu hộ khẩu điện tử
+Khi muốn tra cứu hộ khẩu điện tử để cho ra thông tin về cư trú, công dân cần mã số bảo hiểm xã hội.
+Bước 1: Truy cập vào baohiemxahoi.gov.vn, sau đó vào mục tra cứu mã số Bảo hiểm xã hội.
+Bước 2: Điền các thông tin bắt buộc vào ô tra cứu như tỉnh, thành phố; họ và tên; số chứng minh thư nhân dân; năm sinh; mã số bảo hiểm xã hội.
+Bước 3: Click vào "Tôi không phải là người máy" và tiến hành tra cứu.
+Khi các thông tin thành công, hệ thống sẽ trả về kết quả về thông tin cơ bản của công dân như họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, mã hộ... Tuy nhiên bất cập trong cách này là những ai chưa tham gia bảo hiểm xã hội sẽ không tra cứu được.
+Khoản 1 Điều 24 Luật Cư trú năm 2004 quy định: Sổ hộ khẩu được cấp cho hộ gia đình hoặc cá nhân đã đăng ký thường trú và có giá trị xác định nơi ở thường trú của công dân. Sổ hộ khẩu là hình thức quản lý nhân khẩu theo hộ gia đình, có chức năng xác định nơi ở thường trú hợp pháp của công dân.
+Hiện nay, mỗi người dân sẽ được cấp một mã số định danh cá nhân, in trên thẻ căn cước gắn chíp. Khi đi làm các thủ tục hành chính, người dân chỉ cần xuất trình thẻ này để đối chiếu thay vì dùng sổ hộ khẩu giấy như trước. So với quy định cũ, sổ hộ khẩu điện tử mới đã được tích hợp trên căn cước công dân.
+Từ ngày 1/7/2021, khi người dân đăng ký thay đổi thông tin trong hộ khẩu, cảnh sát sẽ cập nhật vào trong Cơ sở dữ liệu về cư trú và thu hồi sổ giấy.

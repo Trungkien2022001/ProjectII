@@ -1,0 +1,11 @@
+Hack Nvidia để đòi quyền đào tiền số bằng card đồ họa
+Nhóm Lapsus$ khẳng định đang có một terabyte dữ liệu từ Nvidia và đòi hãng trao đổi bằng việc mở khóa các giới hạn đào coin trên card đồ họa.
+"Chúng tôi quyết định giúp cộng đồng tiền số và các game thủ. Chúng tôi muốn Nvidia tung ra bản cập nhật cho toàn bộ dòng 30 series để gỡ bỏ giới hạn LHR. Nếu không, dữ liệu sẽ bị cho rò rỉ", Lapsus$ nêu trên nhóm Telegram hôm 28/2. Trong đó, "30 series" được hiểu là dòng card đồ họa RTX 30 của Nvidia, còn "LHR" (Lite Hash Rate) là công nghệ nhằm hạn chế khả năng đào tiền điện tử của card đồ họa.
+Vụ tấn công được đề cập lần đầu ngày 24/2. Khi đó, Nvidia cho biết đang điều tra một sự cố mạng gây ảnh hưởng đến hệ thống email và công cụ cho nhà phát triển của công ty.
+Nhóm hacker Nam Mỹ Lapsus$ sau đó đứng ra nhận trách nhiệm, đồng thời cho biết đã đánh cắp một TB dữ liệu của Nvidia, bao gồm trình điều khiển thiết bị, firmware, SDK, tài liệu và các công cụ bí mật của hãng.
+Ngày 26/2, Lapsus$ cho biết Nvidia đã tiến hành một cuộc hack ngược, mã hóa dữ liệu bị đánh cắp, đồng thời tấn công bằng ransomeware. Tuy nhiên, nhóm đã kịp sao lưu dữ liệu nói trên.
+Dựa trên thông điệp của nhóm, các chuyên gia bảo mật cho rằng mục tiêu ban đầu của Lapsus$ là tống tiền nhà sản xuất card đồ họa. Sau nhiều ngày không đạt được mục đích, nhóm này mới chuyển sang hướng yêu cầu mở khóa LHR, lấy danh nghĩa "vì cộng đồng". Nhóm cũng khẳng định đã có đủ dữ liệu quan trọng để tạo ra một công cụ vượt qua LHR, đồng thời đe dọa sẽ bán công cụ mở khóa LHR nếu Nvidia không liên hệ.
+Nvidia khẳng định đang điều tra và các hoạt động của hãng không bị gián đoạn. "Chúng tôi vẫn đang đánh giá tính chất và phạm vi của sự việc, và không có bất cứ thông tin bổ sung nào để chia sẻ lúc này", đại diện hãng nói.
+LHR là công nghệ được Nvidia ra mắt từ giữa năm 2021, trong bối cảnh card đồ họa khan hàng trên thị trường do bị thu gom để đào coin. Giải pháp được sử dụng trên một số mẫu card nhằm khiến chúng trở nên kém hiệu quả với giới đào coin, từ đó game thủ có thể dễ dàng mua chúng hơn.
+Theo Wccftech, nếu các công cụ bẻ khóa LHR mà Lapsus$ công bố là có thật và được tung ra, chúng sẽ khiến thị trường tiếp tục biến động mạnh. Người khai thác tiền điện tử sẽ lại thu gom các loại card của game thủ và bẻ khóa, vì chi phí sẽ thấp hơn mua một card đào chuyên dụng.
+Lưu Quý

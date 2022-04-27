@@ -1,0 +1,8 @@
+Ba website giả mạo trang tra cứu giấy phép lái xe
+Ba website sử dụng tên miền và giao diện tương tự trang của Bộ Giao thông Vận tải, tiềm ẩn nguy cơ tạo ra giấy phép lái xe giả.
+Theo văn bản của Bộ Giao thông Vận tải, các website giả mạo gplxgov.org.vn, tracuugplx.vn và tracuugplxgov.vn có tên miền và giao diện được thiết kế tương tự trang Thông tin điện tử Giấy phép lái xe do Tổng Cục đường bộ Việt Nam quản lý.
+Trong khi đó, trang web thật có địa chỉ gplx.gov.vn. Tại đây, người dùng có thể nhập thông tin về số giấy phép lái xe (GPLX), ngày sinh, từ đó tra cứu thông tin cá nhân như ngày cấp, ngày hết hạn, hạng của GPLX.
+Theo Bộ Giao thông Vận tải, việc xử lý các website nói trên sẽ giúp người dân và các cơ quan liên quan không bị nhầm lẫn khi tra cứu thông tin dữ liệu giấy phép lái xe, hạn chế việc cung cấp và sử dụng giấy phép lái xe giả.
+Trước đó, Trung tâm Xử lý tin giả (VAFC) thuộc Bộ Thông tin và Truyền thông cũng phát hiện trang baogiaothong.net có tên miền gây nhầm lẫn với trang web của Báo Giao thông. Website này này đặt một số đường link dẫn đến các trang giả mạo gồm gplxgov.org.vn và tracuugplx.vn.
+Những tên miền này được đăng ký bởi một số cá nhân và công ty tại Việt Nam từ cuối năm 2020 đến đầu năm 2022. Sáng 21/3, các site giả mạo đều đã ngừng hoạt động. VAFC khuyến cáo người dùng không sử dụng dịch vụ từ các trang web này.
+Lưu Quý

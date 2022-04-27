@@ -1,0 +1,36 @@
+Hai cách 'đọc vị' sổ đỏ giả
+Gần đây xảy ra nhiều vụ đánh tráo sổ đỏ, lừa bán nhà, đất bằng sổ đỏ giả. Tôi sắp mua đất, thấy rất hoang mang, không biết nên làm gì để tránh. (Viết Tuân)
+Tôi có thể đến những cơ quan nào, mang theo gì, gặp ai và làm thủ tục thế nào để được biết sổ đỏ của mảnh đất mình sắp mua là thật hay giả?
+Ngoài ra, trước khi giao dịch, tôi nên lưu ý những vấn đề gì liên quan đến mảnh đất mình đang mua để tránh bị lừa đảo. Xin tư vấn cho tôi.
+Luật sư tư vấn
+Để xác định được giấy chứng nhận quyền sử dụng đất, quyền sở nhà ở và tài sản khác gắn liền với đất (sổ đỏ) là thật hay giả, bạn có thể thực hiện một trong các cách sau:
+Cách 1: Tự kiểm tra các thông tin, thông số trên sổ đỏ
+Mẫu giấy, nội dung được quy định tại Thông tư 23/2014/TT-BTNMT ngày 19/5/2014 quy định về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.
+Người có nhu cầu kiểm tra Giấy chứng nhận có thể so sánh, đối chiếu với quy định của pháp luật nêu trên để và xác định xem Giấy chứng nhận đó có thể hiện đúng theo quy định của pháp luật hay không.
+Đặc biệt, bạn có thể kiểm tra vấn đề thật giả dựa trên mã vạch được in tại cuối trang 4 của Giấy chứng nhận như sau:
+Mã vạch được dùng để quản lý, tra cứu thông tin về Giấy chứng nhận và hồ sơ cấp Giấy chứng nhận; nội dung mã vạch thể hiện dãy số nguyên dương, có cấu trúc dưới dạng MV = MX.MN.ST, trong đó:
+- MX là mã đơn vị hành chính cấp xã nơi có thửa đất, được thể hiện theo quyết định của Thủ tướng Chính phủ về danh mục và mã số các đơn vị hành chính Việt Nam; trường hợp cấp Giấy chứng nhận cho khu đất nằm trên nhiều đơn vị hành chính cấp xã thì ghi theo mã của xã có phần diện tích lớn nhất; trường hợp cấp huyện không có đơn vị hành chính cấp xã thì mã đơn vị hành chính cấp xã (MX) được thay thế bằng mã của đơn vị hành chính cấp huyện theo quyết định của Thủ tướng Chính phủ về danh mục và mã số các đơn vị hành chính Việt Nam.
+Trường hợp cấp Giấy chứng nhận thuộc thẩm quyền của Ủy ban nhân dân cấp tỉnh thì ghi thêm mã của tỉnh, thành phố trực thuộc Trung ương theo quy định vào trước mã của xã, phường, thị trấn nơi có đất hoặc trước mã của đơn vị hành chính cấp huyện nơi có đất đối với cấp huyện không có đơn vị hành chính cấp xã;
+Trường hợp cấp Giấy chứng nhận thuộc thẩm quyền của Ủy ban nhân dân cấp tỉnh thì ghi thêm mã của tỉnh, thành phố trực thuộc Trung ương theo quy định vào trước mã của xã, phường, thị trấn nơi có đất;
+- MN là mã của năm cấp Giấy chứng nhận, gồm hai chữ số sau cùng của năm ký cấp Giấy chứng nhận;
+- ST là số thứ tự lưu trữ của hồ sơ thủ tục đăng ký đất đai tương ứng với Giấy chứng nhận được cấp lần đầu theo quy định về hồ sơ địa chính của Bộ Tài nguyên và Môi trường.
+Tuy nhiên bạn cần lưu ý rằng, do đây là cách kiểm tra bằng mắt thường nên tỷ lệ chính xác không cao. Vì vậy, người có nhu cầu kiểm tra Giấy chứng nhận nên kiểm tra thông tin tại Văn phòng đăng ký đất đai theo cách dưới đây:
+Cách 2: Kiểm tra tại Cơ quan cấp giấy chứng nhận - đã được ghi trong sổ đỏ:
+- Đối với địa phương đã thành lập Văn phòng đăng ký đất đai thì Sở Tài nguyên và Môi trường cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất...
+- Đối với địa phương chưa thành lập Văn phòng đăng ký đất đai:
++ Sở Tài nguyên và Môi trường cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho tổ chức, cơ sở tôn giáo; người Việt Nam định cư ở nước ngoài thực hiện dự án đầu tư; tổ chức, cá nhân nước ngoài; doanh nghiệp có vốn đầu tư nước ngoài;
++ UBND cấp huyện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân, cộng đồng dân cư, người Việt Nam định cư ở nước ngoài được sở hữu nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam.
+Thủ tục xác minh sổ đỏ được thực hiện như sau:
+Bước 1: Nộp phiếu yêu cầu
+Cá nhân có nhu cầu xác minh nộp phiếu yêu cầu theo Mẫu số 01/PYC (Kèm theo Thông tư số 34/2014/TT-BTNMT ngày 30/6/2014 quy định về xây dựng, quản lý, khai thác hệ thống thông tin đất đai) theo một trong các cách sau:
+- Nộp trực tiếp tại Chi nhánh Văn phòng đăng ký đất đai ở huyện, quận, thị xã, thành phố thuộc tỉnh.
+- Gửi qua đường bưu điện.
+- Gửi qua thư điện tử hoặc qua cổng thông tin đất đai.
+Bước 2: Tiếp nhận và xử lý yêu cầu
+- Cơ quan cung cấp dữ liệu đất đai tiếp nhận, xử lý và thông báo nghĩa vụ tài chính cho người có yêu cầu. Trường hợp từ chối cung cấp dữ liệu thì phải nêu rõ lý do và trả lời cho tổ chức, cá nhân biết.
+- Sau khi hộ gia đình, cá nhân thực hiện xong nghĩa vụ tài chính, cơ quan cung cấp dữ liệu đất đai thực hiện cung cấp dữ liệu đất đai theo yêu cầu.
+Bước 3: Trả kết quả
+Thời hạn thực hiện: Nếu nhận được yêu cầu trước 15 giờ thì phải cung cấp ngay trong ngày; trường hợp nhận được yêu cầu sau 15 giờ thì cung cấp dữ liệu đất đai được thực hiện vào ngày làm việc tiếp theo.
+Văn phòng công chứng không có chức năng xác minh đỏ giả hay thật. Song văn phòng công chứng là tổ chức xác thực tính hợp pháp các loại giấy tờ và sẽ không công chứng những hợp đồng, giấy tờ vi phạm pháp luật.
+Như vậy, để tránh việc bị lừa đảo bằng sổ đỏ giả, bạn nên tiến hành xác minh thông tin thửa đất và chủ sở hữu của nó theo các cách nên trên trước khi tiến hành ký hợp đồng mua bán và giao tiền.
+Luật sư Phạm Thanh BìnhCông ty Luật Bảo Ngọc, Hà Nội

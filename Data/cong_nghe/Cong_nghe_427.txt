@@ -1,0 +1,10 @@
+320 triệu USD tiền điện tử bị tin tặc đánh cắp
+Hacker tấn công Wormhole, một trong những cầu nối phổ biến nhất giữa blockchain Ethererum và Solana, gây thiệt hại hơn 320 triệu USD.
+Ngày 2/2, nhóm phát triển Wormhole xác nhận trên Twitter rằng mạng lưới này bị tấn công và ngừng hoạt động để bảo trì và các lập trình viên đang nghiên cứu "lỗ hổng tiềm tàng".
+Đây là vụ tấn công lớn thứ hai trong lịch sử nhằm vào hệ thống thương mại phi tập trung (DeFi), chỉ xếp sau vụ trộm 600 triệu USD từ nền tảng tiền điện tử Poly Network. Đây cũng là cuộc tập kích lớn nhất đối với Solana, mạng lưới blockchain được coi là đối thủ của Ethereum ngày càng thu hút sự chú ý trong hệ sinh thái NFT và DeFi.
+Những người sở hữu tiền điện tử thường không chỉ hoạt động trên một hệ sinh thái blockchain, khiến các nhà phát triển xây dựng nhiều cầu nối cho phép chuyển đổi tiền số giữa các blockchain với nhau. Wormhole là giao thức cho phép chuyển token và NFT giữa Ethereum và Solana.
+Phân tích của công ty an ninh mạng CertiK cho thấy những kẻ tấn công đã thu lời 251 triệu USD từ Ethereum, gần 47 triệu USD từ Solana và hơn 4 triệu USD từ USDC. Dữ liệu sơ bộ cho thấy hacker đã lợi dụng điểm yếu ở phía Solana để tiến hành cuộc tấn công.
+"Trước khi lỗ hổng bị khai thác, cầu Wormhole duy trì tỷ lệ chuyển đổi 1:1 giữa tiền Ether trên blockchain Ethereum và Solana. Tin tặc đã phá vỡ tỷ lệ, khiến chuỗi Solana mất ít nhất 93.750 ETH", CertiK cho hay.
+Nhóm phát triển Wormhole thông báo sẽ bổ sung ETH để bù số tiền bị mất, nhưng chưa rõ họ lấy ngân sách từ đâu. Người sáng lập Ethereum Vitalik Buterin từng cho rằng các cầu nối sẽ khó tồn tại lâu trong hệ sinh thái tiền điện tử, một phần vì chúng có nhiều hạn chế về an ninh.
+"Sự việc với Wormhole cho thấy xu hướng tấn công các giao thức blockchain ngày càng gia tăng. Đây là hồi chuông cảnh báo về mức độ bảo mật của công nghệ này", đồng sáng lập CertiK Ronghui Gu nhận xét.
+Điệp Anh (theo CNBC)

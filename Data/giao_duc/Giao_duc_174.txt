@@ -1,0 +1,11 @@
+Đáp án bài toán hái xoài của học sinh lớp 5
+Học sinh giỏi lớp 5 thi Toán quốc tế được giải toán bằng cách lập phương trình nên bạn có thể chọn cách đó hoặc lập luận logic.
+Đề bài:
+Một nhóm nam sinh đang hái xoài, mỗi người hái được 3 quả xoài. Sau đó có thêm 3 cậu bé nữa gia nhập nhóm. Khi đó, các cậu bé muốn chia đều xoài cho tất cả mọi người trong nhóm nhưng nhận ra là không thể chia được. Tuy nhiên một cậu bé đã hái thêm được 1 quả xoài và bây giờ thì mọi người được chia đều mỗi người 2 quả. Hỏi lúc đầu nhóm đó có bao nhiêu cậu bé?
+Hướng dẫn giải:
+Cách 1: Lập phương trình 
+Gọi n là số nam sinh lúc đầu. Theo đề bài ta có 2(n + 3) = 3n + 1. Từ đó suy ra số nam sinh lúc đầu là n = 5.
+Cách 2: Lập luận logic 
+Ba nam sinh nhận được 3 x 2 = 6 quả xoài, gồm 1 quả hái thêm và 6 - 1= 5 quả do các nam sinh cũ góp đều nhau mỗi người góp 3 - 2 = 1 quả.
+Từ đó suy ra số nam sinh lúc đầu là 5 : 1= 5 (người).
+Trần Phương

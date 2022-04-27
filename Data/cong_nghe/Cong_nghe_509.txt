@@ -1,0 +1,7 @@
+Xiaomi sở hữu công nghệ cảm biến vân tay toàn màn hình
+Xiaomi là hãng đầu tiên được cấp bằng sáng chế cho cảm biến vân tay toàn màn hình, giúp giải quyết hạn chế của công nghệ hiện tại.
+Theo Gizmochina, giải pháp của Xiaomi cho phép người dùng mở khoá điện thoại bằng cách đặt ngón tay lên bất kỳ phần nào của màn hình. Công nghệ mới xoá bỏ hạn chế của cảm biến vân tay phổ biến hiện nay, khi người dùng không cần chạm vào đúng vị trí cố định.
+Ngoài sự tiện lợi, công nghệ cũng sẽ hữu ích trong những trường hợp khẩn cấp vì hỗ trợ truy cập điện thoại nhanh hơn. Cảm biến của Xiaomi có hai bộ thu và phát ánh sáng riêng biệt. Bộ phận thu ánh sáng được đặt phía trên bộ phận phát ánh sáng bằng LED hồng ngoại.
+Khi người dùng đặt ngón tay lên màn hình cảm ứng, hình dạng và vị trí của vân tay được ghi lại, sau đó bộ phận phát sẽ dùng ánh sáng hồng ngoại thu lại hình dạng vân tay tại vị trí đó rồi truyền đến bộ phận thu. Dữ liệu thu được sẽ đùng để đối chiếu với vân tay người dùng đã được đăng ký trước đó và tiến hành mở khoá.
+Xiaomi chưa công bố kế hoạch trang bị công nghệ mới này trên điện thoại của hãng. Theo Digital Trends, nhiều khả năng hãng sẽ cần thêm ít nhất một năm để triển khai trên sản phẩm thực tế.
+Huy Đức (theo Digital Trends)

@@ -1,0 +1,6 @@
+Bài toán cờ vua của trẻ lớp 5
+Bài toán cờ vua được một phụ huynh nhờ giải cho con trai lớp 5. Liệu bạn có thể giúp đỡ ông bố này?
+Đề bài:
+Có 40 kỳ thủ thi đấu cờ vua theo thể thức vòng tròn một lượt. Mỗi kỳ thủ đều thi đấu với những kỳ thủ còn lại đúng một lần. Mỗi ván thắng được 1 điểm, ván hòa được 0,5 điểm và ván thua 0 điểm.
+Hỏi có tối đa bao nhiêu kỳ thủ tham gia có thể đạt từ 24 điểm trở lên?
+Trần Phương

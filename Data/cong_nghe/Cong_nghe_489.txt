@@ -1,0 +1,16 @@
+Internet vệ tinh khó thay thế cáp quang biển
+Dù cáp biển "mong manh", chúng vẫn được ưu tiên hơn Internet vệ tinh vì vấn đề liên quan đến biến đổi khí hậu, can thiệp vào thiên văn học.
+Theo The Next Web, Starlink đang là một trong những dự án Internet gây tranh cãi nhất hiện nay. Một mặt, hệ thống vệ tinh rộng lớn này giúp cung cấp Internet tới các vùng xa xôi trên khắp trái đất với chi phí thấp. Mặt khác, chúng có thể gây nhiều tác dụng không mong muốn.
+Internet vệ tinh chưa thể thay cáp quang
+Ngoài Starlink của SpaceX, một số dự án Internet vệ tinh khác cũng triển khai, như Kuiper của Amazon. Theo báo cáo dự báo ngành và phân tích cơ hội toàn cầu (Global Opportunity Analysis & Industry Forecast), quy mô thị trường ước đạt 18,59 tỷ USD vào 2030, với tốc độ tăng trưởng 20,4% giai đoạn 2021-2030.
+Các dự án vệ tinh Internet được kỳ vọng giúp kết nối xuyên suốt hơn, có thể thay thế các tuyến cáp quang biển - hệ thống hiện đảm nhiệm 99,5% lưu lượng Internet toàn cầu. Tuy nhiên, giới chuyên gia nhấn mạnh Internet vệ tinh chỉ là biện pháp hỗ trợ.
+Theo Nicole Starosielski, tác giả cuốn The Undersea Network và là Phó giáo sư tại Đại học New York, vệ tinh là "một phương tiện dự phòng có thể chấp nhận được", nhưng không thể so sánh với tốc độ, băng thông mà cáp quang cung cấp.
+Bên cạnh đó, các hệ thống vệ tinh hiện nay sẽ nhanh chóng bị quá tải nếu toàn bộ dân số một quốc gia cố gắng kết nối cùng lúc.
+Nguy cơ va chạm
+SpaceX gần đây phóng vệ tinh Starlink thứ 2.000 vào quỹ đạo. Số lượng lớn vệ tinh từng gây lo ngại về nguy cơ va chạm vào các vật thể và vệ tinh khác trong không gian. Tháng trước, Trung Quốc gửi báo cáo lên Liên Hợp Quốc về tình trạng vệ tinh Starlink của công ty Elon Musk ít nhất hai lần suýt va chạm với trạm vũ trụ Thiên Cung của nước này trong vài tháng qua.
+Trong khi đó, tỷ phú công nghệ Mỹ nhiều lần bác bỏ ý kiến rằng vệ tinh của công ty ông đang chiếm quá nhiều không gian. "Sẽ có chỗ cho hàng chục tỷ vệ tinh, một vài nghìn chẳng có nghĩa lý gì. Nó giống như vài nghìn ôtô trên trái đất. Chẳng là gì cả", Musk viết trên Twitter hồi cuối tháng 12/2021.
+Gây hại khí quyển và nhiễu bầu trời đêm
+SpaceX hiện sở hữu hơn một nửa số vệ tinh đang hoạt động quay quanh trái đất, làm che lấp, gây nhiễu bầu trời đêm do hệ số phản xạ cao. Một số nghiên cứu chỉ ra Starlink gây ra ô nhiễm ánh sáng với Trái đất, đi kèm nguy cơ tạo thêm rác vào không gian và chất hóa học vào bầu khí quyển.
+Hệ thống vệ tinh này cũng bị giới yêu thiên văn than phiền vì không thể theo dõi và chụp ảnh bầu trời. Chúng quay quanh Trái đất ở khoảng cách 550 km, gần hơn nhiều so với quỹ đạo trung bình của vệ tinh (20.000 km), hay quỹ đạo địa tĩnh (36.000 km) nơi các vệ tinh của hệ thống định vị toàn cầu (GPS) hoạt động, nên rất dễ nhìn thấy.
+Năm ngoái, một nhóm các nhà vật lý thiên văn Canada đã thử nghiệm mô phỏng và kết luận, tương lai gần, con người sẽ nhìn thấy vệ tinh ở bất cứ địa điểm nào trên trái đất. Các nhà thiên văn học cũng cho rằng vệ tinh như của Starlink có thể khiến việc phát hiện các tiểu hành tinh gần trái đất trở nên khó khăn hơn.
+Bảo Lâm

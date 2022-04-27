@@ -1,0 +1,10 @@
+Website theo dõi máy bay liên tục quá tải
+Trang Flightradar24 liên tục rơi vào tình trạng quá tải trong ngày, khi nhiều người vào theo dõi các chuyến bay qua không phận Ukraine và Nga.
+Từ chiều 24/2, nhiều người dùng trên khắp thế giới cho biết gặp khó khăn khi mở trang này. Một số nhận được thông báo "Chuyến bay FR24 đã bị hủy", thể hiện việc trang flightradar24 bị gián đoạn dịch vụ.
+Trên trang Twitter chính thức, đội ngũ Flightradar24 thừa nhận lượng truy cập tăng đột biến khiến website có thể gặp sự cố hoặc gián đoạn tạm thời.
+"Chúng tôi đang nỗ lực tăng công suất làm việc, nhưng sự quan tâm từ khắp thế giới khiến lưu lượng tăng từ 10 đến 20 lần thông thường. Vì vậy rất khó xử lý ngay được", thông báo viết.
+Flightradar24 là dịch vụ theo dõi máy bay được sử dụng phổ biến nhất trên thế giới, ở cả website và ứng dụng smartphone. Trang này cho phép người xem có thể nhìn thấy vị trí trực tiếp và quá trình di chuyển của hàng nghìn máy bay khắp thế giới, bao gồm cả các máy bay thương mại, vận chuyển và máy bay quân sự.
+Theo Zdnet, tình trạng quá tải của Flightradar24 xảy ra do mối quan tâm lớn về các chuyến bay sau các chiến dịch quân sự giữa Nga và Ukraine từ sáng 24/2. Việc Ukraine hạn chế không phận cũng khiến lượng máy bay đi qua nước này giảm về 0, tạo ra một khung cảnh đặc biệt trên bản đồ.
+Ngoài ra, sự quá tải còn do người dùng khắp thế giới theo dõi các máy bay quân sự của Mỹ. Theo Airlineratings, máy bay do thám Global Hawk số hiệu Forte12 của Mỹ nhận hơn 32.000 lượt theo dõi cùng lúc trên Flightradar24 vào chiều nay.
+Đến hơn 19h ngày 24/2 theo giờ Việt Nam, việc truy cập Flightradar24 vẫn chưa ổn định, thường xuyên gặp lỗi.
+Lưu Quý

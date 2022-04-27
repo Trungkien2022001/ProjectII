@@ -1,0 +1,11 @@
+Mất nửa triệu USD vì đổi NFT lấy ảnh chụp màn hình
+Một người đã đổi ba NFT trị giá 570.000 USD của mình lấy ba NFT khác mà không biết đó chỉ là những bức ảnh giả mạo.
+Theo giao dịch được ghi lại trên blockchain, nạn nhân với biệt danh s27 đã đổi ba NFT của mình gồm một NFT từ bộ sưu tập nổi tiếng Bored Ape Yacht Club (BAYC) và hai NFT từ Mutant Ape Yacht Club, để lấy ba NFT khác từ BAYC.
+Tuy nhiên, những NFT sau khi đổi thực chất chỉ là những file ảnh thông thường, được chụp lại từ bộ sự tập BAYC thật.
+Sự cố được tài khoản chuyên theo dõi giao dịch NFT có tên 0xQuit phát hiện. Thông qua phần mềm chuyên rà quét giá niêm yết các NFT, 0xQuit nhận thấy các NFT trên được bán với giá rẻ hơn giá sàn. Tình huống này thường xảy ra khi các chủ sở hữu NFT gặp vấn đề và muốn bán rẻ tài sản, hoặc tài khoản của họ bị xâm phạm.
+Tuy nhiên trong trường hợp của s27, 0xQuit thấy người này đưa NFT của mình lên một sàn giao dịch có tên SwapKiwi - chuyên dùng để đổi NFT với chi phí thấp. Tài khoản s27 đã chủ động trao đổi ba NFT của mình lấy ba NFT từ một người khác mà không biết chúng là ảnh giả mạo.
+Theo 0xQuit, kẻ gian khai thác lỗ hổng từ giao diện người dùng của SwapKiwi. Sàn này chỉ hiển thị hình ảnh của NFT mà không cho phép tra cứu địa chỉ NFT đó. Với thủ thuật đơn giản là chèn một dấu xác minh vào ảnh gốc, kẻ gian khiến s27 tưởng đó là NFT trong bộ sưu tập thật và chấp nhận trao đổi.
+Theo giao dịch được ghi lại, kẻ lừa đảo sau đó đã nhanh chóng bán NFT BAYC với giá 98 ETH (337.000 USD), thấp hơn đáng kể so với giá sàn của BAYC là 111 ETH (382.000 USD). Với ba NFT trao đổi, s27 mất số tiền ít nhất 570.000 USD.
+Theo The Block, sự việc trên cho thấy trải nghiệm và giao diện của các sàn giao dịch ngày càng đóng vai trò quan trọng trong việc bảo vệ người dùng, đặc biệt trong bối cảnh chủ sở hữu các NFT giá trị cao đang trở thành mục tiêu tấn công của những kẻ lừa đảo. Ngoài ra, người dùng cần cảnh giác khi tham gia vào Web3.
+Sau sự cố trên, sàn SwapKiwi cho biết đang xem xét cải tiến lại hệ thống của mình, nhằm tránh các sự việc tương tự trong tương lai.
+Lưu Quý

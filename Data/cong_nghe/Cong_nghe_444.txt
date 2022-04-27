@@ -1,0 +1,9 @@
+Lý do iPhone 11 không thể mở khóa Face ID với khẩu trang
+Tính năng mở khóa bằng Face ID khi đeo khẩu trang không khả dụng với iPhone 11 trở về trước do khả năng xử lý hạn chế.
+Trong phiên bản iOS 15.4 beta vừa phát hành, Apple mang đến một trong những cải tiến được nhiều người mong chờ là mở khóa iPhone khi đeo khẩu trang. Tuy nhiên, tính năng chỉ khả dụng trên các model đời mới gồm iPhone 12 và iPhone 13. Có nghĩa, hàng loạt thiết bị như iPhone X, XS/XS Max, hay mới hơn là iPhone 11, iPad Pro không thể sử dụng tiện ích này dù cũng có Face ID.
+Trang The Next Web dẫn lời Apple cho biết, các thiết bị đời cũ không hỗ trợ do tính năng này đòi hỏi "những tiến bộ trong hệ thống camera TrueDepth".
+Trong khi đó, trên diễn đàn Apple, nhiều người dự đoán đây có thể là chiêu nhằm thúc đẩy người dùng nâng cấp lên các thiết bị đời mới. Trước đây, Apple từng bị cáo buộc giảm hiệu năng hoặc hạn chế tính năng của thiết bị đời cũ.
+Apple cũng giải thích nguyên lý hoạt động của tính năng mở khóa khi đeo khẩu trang. Theo đó, thiết bị "nhận dạng các điểm độc nhất xung quanh mắt" của người dùng để làm căn cứ xác thực. Ngoài ra, bản thử nghiệm còn trang bị tính năng "Thêm kính". Người thường xuyên đeo kính có thể mở bằng Face ID khi đeo khẩu trang, với điều kiện là kính trắng và nhìn thẳng vào thiết bị.
+Mức độ bảo mật khi mở khóa với khẩu trang được đánh giá tương đương mở khóa toàn khuôn mặt trước đây, tức khả năng xảy ra lỗi là 1:1 triệu.
+Apple chưa công bố thời gian phát hành chính thức iOS 15.4. Với giải thích của hãng, giới phân tích dự đoán các thiết bị đời cũ sẽ phải chấp nhận không có tính năng này. Ngoài ra, người dùng cũng có thể mở khóa iPhone thông qua đồng hồ Apple Watch.
+Lưu Quý

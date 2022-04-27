@@ -1,0 +1,3 @@
+Dừng đèn đỏ về số N có đỡ tốn xăng?
+Nhiều ngã tư thời gian dừng chờ đèn đỏ khá lâu, có nơi lên tới hơn một phút, xin hỏi tôi nên thao tác như thế nào. (Lan Anh)
+Trong tình huống này, tôi lái xe nên về P hay về N hay để nguyên số D thì tiết kiệm xăng nhất.

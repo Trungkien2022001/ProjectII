@@ -1,0 +1,13 @@
+AI của Sony đánh bại game thủ đua xe giỏi nhất
+GT Sophy, AI do Sony phát triển, vượt qua những game thủ giỏi nhất khi tham gia trò chơi đua xe Gran Turismo trên PlayStation.
+GT Sophy do nhóm nghiên cứu Sony AI Mỹ, đứng đầu là tiến sĩ Peter Wurman, phát triển. Theo báo cáo công bố trên tạp chí Nature, AI này giành chiến thắng trong cuộc thi với bốn trong số những tay đua Gran Turismo giỏi nhất thế giới. Bên cạnh đó, nó cũng vượt 95% số người chơi game này chỉ sau hai ngày tự học cách chơi và tiếp tục tiến bộ trong những tuần tiếp theo.
+Sony cho biết, GT Sophy đánh bại các game thủ hàng đầu trong Gran Turismo bằng cách tìm ra đường di chuyển nhanh nhất trong các khúc cua để rút ngắn thời gian, đồng thời trau dồi chiến thuật về tăng/giảm tốc, phanh... sau mỗi chặng đua. Nếu đối mặt với chướng ngại vật, GT Sophy cũng tự chuyển làn đua để vượt qua nhanh chóng.
+Không như cờ vua hoặc cờ vây được chơi theo lượt, Gran Turismo yêu cầu người chơi quyết định theo thời gian thực dựa trên những gì đang diễn ra, nên GT Sophy cần phải đưa ra quyết định chỉ trong tích tắc.
+"Thành công của GT Sophy cho thấy lần đầu tiên trên đường đua ảo, một AI được huấn luyện có thể vượt qua những tay đua giỏi nhất", tiến sĩ Wurman cho biết.
+Để huấn luyện, nhóm của Wurman đã dạy cho GT Sophy một kỹ thuật phổ biến gọi là học tăng cường. AI sẽ tiếp nhận thông tin từ nhiều luồng để tối ưu hóa thời gian chạy trên đường đua, gồm tránh chướng ngại vật và chọn đường ngắn nhất, đồng thời hạn chế các tai nạn.
+Các chuyên gia đánh giá, thành tựu GT Sophy đạt được là đáng ghi nhận. Nó đã chứng tỏ năng lực một AI có thể tự học chiến lược để làm việc trong các tình huống đòi hỏi khả năng phán đoán và xử lý rất nhanh như đua xe.
+Theo The Guardian, bước đột phá trên có thể mở ra các phương pháp tính toán tốt nhất để sử dụng cho ôtô không người lái. Nó có thể kết hợp với các AI hàng đầu khác và tạo ra phần mềm xử lý cho hệ thống lái tự động, nhất là với trường hợp tìm đường ngắn nhất, tránh chướng ngại vật, xử lý khi có nguy cơ va chạm với các phương tiện khác...
+Nhóm của Sony thừa nhận GT Sophy vẫn còn nhiều điều cần cải tiến. Chẳng hạn, AI này sẽ "trở nên hung hãn hơn đáng kể" nếu như không có các hình phạt về va chạm trên đường đua.
+"Điểm nổi bật của GT Sophy là có thể xử lý nhuần nhuyễn các tình huống trong game, nhất là khi đối đầu với chướng ngại vật hoặc xe khác", Giáo sư Christian Gerdes, chuyên gia về xe tại Đại học Stanford, nhận xét.
+Trước đây, AI đã chiến thắng những người giỏi nhất thế giới trong nhiều trò chơi, như poker, cờ vua, cờ vây và game Starcraft. Game đua xe là lĩnh vực mới nhất trí tệ nhân tạo giành lợi thế.
+Bảo Lâm (theo The Guardian)

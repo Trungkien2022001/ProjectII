@@ -1,0 +1,15 @@
+Portcoast ứng dụng flycam nhằm khảo sát hạ tầng
+Công ty Portcoast thu thập toàn bộ cơ sở dữ liệu hạ tầng nhờ thiết bị bay tự động tích hợp máy quét laser và nhiều công nghệ hiện đại khác.
+Cụ thể, công ty tư vấn Thiết kế cảng - kỹ thuật biển (Portcoast) sử dụng thiết bị bay tự động Stormbee UAV S20 tích hợp với máy quét laser FARO Focus, UAV Matrice 300RTK kết hợp với hệ thống lidae L1 và kỹ thuật photogramatry P1. Giải pháp này giúp công ty thu thập toàn bộ cơ sở dữ liệu hạ tầng đường, hệ thống cảng tuyến Cái Mép - Thị Vải. Sau khi ứng dụng công nghệ hiện đại trong số hóa hạ tầng cảng biển, đơn vị đang nghiên cứu ứng dụng hạ tầng đô thị.
+Stormbee UAV S-20 là một thiết bị bay không người lái do hãng Stormbee (Bỉ) sản xuất. Khi kết hợp với máy quét Laser của Faro S350A, máy có thể dùng để khảo sát trên không ở góc quét 360 độ với tính chính xác đến từng milimet.
+Máy có thể bay hoàn toàn tự động từ khi cất cánh đến hạ cánh bằng việc sử dụng iPad chuyên dụng. Các tính năng an toàn tiên tiến đảm bảo thiết bị luôn về vị trí xuất phát, ngay cả khi một trong những động cơ bị hỏng.
+Thiết bị khác là Matrice 300 RTK có thể khảo sát khu vực rộng lớn với tầm hoạt động 15 km, thời gian bay tối đa 55 phút, là một trong những máy khảo sát trắc địa hàng đầu cho các khu vực rộng lớn. Thiết bị mang khung vỏ chắc chắn, động cơ tinh chỉnh tối ưu giúp hoạt động tốt trong những điều kiện thời tiết xấu.
+Các dòng máy dùng để lập bản đồ địa hình; sử dụng cho ngành kiến trúc, kỹ thuật và xây dựng và khảo sát, năng lượng và cơ sở hạ tầng; quản lý nông nghiệp và lâm nghiệp.
+Song song, hệ thống LiDAR cho phép người sử dụng tạo ra các mô hình ba chiều phong phú và giàu thông tin từ đó đánh giá địa hình, khảo sát bề mặt.
+Ông Hoàng Hiệp, Phó tổng giám đốc công ty cho biết việc sử dụng các thiết bị tiên tiến này để thu thập dữ liệu cơ sở hạ tầng có thể giúp giảm đáng kể về nguồn lực lẫn thời gian cho việc quy hoạch đô thị. Các dữ liệu số thu thập được là cơ sở cho việc tạo dựng mô hình BIM, ứng dụng cho hệ thống thông tin địa lý (GIS) và thiết lập bản sao số (Digital Twin) của cơ sở hạ tầng đô thị, cảng biển,... nhằm xây dựng thành phố hay cảng biển thông minh.
+Minh Huy
+Công ty cổ phần Tư vấn thiết kế cảng - kỹ thuật Biển (Portcoast)
+Địa chỉ: 92 Nam Kỳ Khởi Nghĩa, phường Bến Nghé, quận 1, TP HCM
+Địa chỉ văn phòng: 328 Nguyễn Trọng Tuyển, phường 2, quận Tân Bình, TP HCM
+Số điện thoại: 02862970345, 62970341
+Tham khảo thông tin chi tiết tại website hoặc Youtube.

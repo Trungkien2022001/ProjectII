@@ -1,0 +1,9 @@
+Đào Bitcoin đạt độ khó kỷ lục
+Chỉ số hashrate đại diện cho năng lực khai thác Bitcoin hiện đạt 248,11 triệu terahash mỗi giây (TH/giây), cao nhất từ trước đến nay.
+Theo dữ liệu từ Blockchain.com, chỉ số trên được ghi nhận ngày 12/2. Tính đến 14/2, mức hashrate được duy trì ở mức trung bình 209,6 triệu TH/giây.
+Hashrate là chỉ số thể hiện sức mạnh tính toán của các hệ thống máy đào. Các thợ đào sử dụng máy tính mẽ để xử lý hàng triệu phép tính mỗi giây và nhận về Bitcoin cho mỗi khối giải mã được.
+Theo CoinDesk, thông thường, chỉ số đạt đỉnh khi thị trường tiền số tăng trưởng mạnh và ngược lại bởi nhiều thợ đào bị thu hút tham gia mạng lưới. Chẳng hạn, vào tháng 4/2021, hashrate đạt 198,514 triệu TH/giây và Bitcoin cũng có giá 63.600 USD, nhưng sau đó hashrate giảm xuống 106,676 triệu TH/giây và giá Bitcoin cũng giảm 23% còn 49.040 USD. Vào tháng 5/2021, Trung Quốc cấm khai thác Bitcoin khiến hashrate giảm mạnh 69,3%, từ 190,552 triệu TH/giây xuống 58,461 triệu TH/giây, giá Bitcoin lao dốc từ 58.770 USD xuống 29.780 USD.
+Sau đó Bitcoin đã hồi phục và đạt đỉnh trở lại vào tháng 11/2021 với gần 69.000 USD mỗi đồng. Khi đó, hashrate của tiền số này cũng tăng liên tục trước khi đạt kỷ lục vào tháng 2.
+Dù vậy, các chuyên gia cho rằng việc hashrate tăng cao có thể khiến giá Bitcoin biến động mạnh và việc khai thác tiền số này sẽ khó khăn hơn rất nhiều lần.
+Sau 13 năm ra đời, Bitcoin hiện được khai thác hơn 90% trong số 21 triệu coin. Tuy nhiên để khai thác 10% còn lại, theo tính toán phải cần thêm 119 năm nữa. Giới chuyên gia dự đoán năng lực và độ khó khai thác của Bitcoin sẽ còn tiếp tục tăng thời gian tới.
+Bảo Lâm (theo FXEmpire)

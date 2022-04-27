@@ -1,0 +1,12 @@
+Bài toán thi 'Thách thức toán học quốc tế Paul Erdős'
+Bài toán dành cho khối 7-8 trong cuộc thi "Thách thức toán học quốc tế Paul Erdős" có thể khiến bạn gặp khó.
+Hungary là một quốc gia Trung Âu với dân số gần 10 triệu người nhưng có nhiều siêu trí tuệ toàn cầu, với 13 người đoạt giải Nobel, ba người đoạt giải Wolf, hai người đoạt giải Abel (được coi là giải Nobel Toán học). Đất nước này là quốc gia đầu tiên tổ chức thi vô địch Toán (năm 1894) và sản sinh nhiều nhà Toán học vĩ đại.
+László Lovász là một trong số đó. Ông dự thi IMO từ năm 14 tuổi và giành ba huy chương vàng, một huy chương bạc, Chủ tịch của Hội Toán học thế giới 2007-2010, Chủ tịch của Viện Hàn lâm Khoa học Hungary 2014-2020. Năm 2021, ông cùng Avi Wigderson nhận giải Abel.
+Một nhà toán học vĩ đại khác của Hungary là Paul Erdős với hàng trăm công trình toán học ở các lĩnh vực tổ hợp, lý thuyết đồ thị, số, xấp xỉ, tập hợp và xác suất. Để ghi nhận những cống hiến của ông, từ năm 2015, Hungary đã thành lập một cuộc thi có tên "Thách thức toán học quốc tế Paul Erdős".
+Sau đây là một bài toán khối lớp 7-8 trong đề thi năm 2016-2017:
+Đề bài:
+Tám vận động viên bơi lội cùng thi đấu trong một bể bơi có 8 làn bơi được đánh số 1, 2, 3, 4, 5, 6, 7, 8. Chúng ta biết các thông tin sau đây về kết quả cuộc thi:
+i) Không có ai về đích ở vị trí có số thứ tự giống với số làn bơi của mình và cũng không có hai người nào về đích cùng một lúc.
+ii) Các vận động viên ở làn chẵn về đích ở vị trí chẵn, các vận động viên ở làn lẻ về đích ở vị trí lẻ.
+Hỏi có bao nhiêu khả năng về đích khác nhau của tám vận động viên.
+Trần Phương

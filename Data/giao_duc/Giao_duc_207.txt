@@ -1,0 +1,6 @@
+Bài toán hái xoài của học sinh lớp 5
+Trong 5 phút, bạn có thể giải được bài toán hái xoài của học sinh lớp 5 không?
+Đề bài:
+Một nhóm nam sinh đang hái xoài, mỗi người hái được 3 quả xoài. Sau đó có thêm 3 cậu bé nữa gia nhập nhóm. Khi đó, các cậu bé muốn chia đều xoài cho tất cả mọi người trong nhóm nhưng nhận ra là không thể chia được. Tuy nhiên một cậu bé đã hái thêm được 1 quả xoài và bây giờ thì mọi người được chia đều mỗi người 2 quả.
+Hỏi lúc đầu nhóm đó có bao nhiêu cậu bé?
+Trần Phương

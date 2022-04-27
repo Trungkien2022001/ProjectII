@@ -1,0 +1,11 @@
+Lý do Google 'ép' bật bảo mật hai bước
+Google cho biết việc tự động bật bảo mật hai bước trong năm ngoái đã giúp giảm số vụ hack tài khoản xuống một nửa.
+Trong bài viết nhân ngày An toàn Internet 8/2, Google cho biết tính năng xác thực hai bước mà công ty triển khai đã thể hiện hiệu quả trong việc bảo vệ dữ liệu cá nhân cho người dùng. Theo báo cáo dựa trên các tài khoản Google kích hoạt tính năng này, số vụ xâm phạm tài khoản đã giảm 50%.
+Đây là kết quả sau bốn tháng hãng thử nghiệm tính năng này. Vào đầu tháng 10/2021, Google tự động kích hoạt bảo mật hai bước (2SV) cho 150 triệu người dùng, đồng thời yêu cầu hơn hai triệu người làm nội dung trên YouTube bật 2SV.
+Với tính năng này, người dùng khi đăng nhập tài khoản Google sẽ được yêu cầu bấm duyệt trên một thiết bị đã đăng nhập trước đó, hoặc nhập mã gửi về tin nhắn SMS hay thông qua khóa phần cứng.
+"Bật 2SV hoặc chúng tôi sẽ làm điều đó. Vì nó sẽ tạo ra tất cả sự khác biệt trong trường hợp mật khẩu của bạn bị xâm phạm". Google viết, đồng thời cho biết sẽ tiếp tục tự động kích hoạt tính năng này cho người dùng trong giai đoạn tiếp theo của năm 2022.
+Báo cáo của Google không tiết lộ đã có bao nhiêu trường hợp được bảo vệ khỏi hacker nhờ phương pháp này. Tuy nhiên nhiều ý kiến cũng cho rằng con số 50% vẫn quá ít. "Đáng ngạc nhiên là mức giảm chỉ là 50%. Vậy 50% còn lại bị tấn công như thế nào nếu họ đã bật xác thực hai bước?" người dùng sundial đặt câu hỏi.
+Vào năm 2018, một kỹ sư của Google cũng tiết lộ hơn 90% tài khoản Gmail khi đó không sử dụng xác thực hai bước. Từ đó đến nay, hãng liên tục đưa ra những biện pháp nhằm biến 2SV thành giải pháp bảo mật cho số đông người dùng hơn.
+Theo The Verge, mức độ chấp nhận giải pháp bảo mật hai lớp vẫn còn thấp với hầu hết các nền tảng trực tuyến. Twitter đã triển khai xác thực hai yếu tố từ năm 2013, nhưng đến năm 2020 chỉ có 2,3% người dùng sử dụng. Con số này với Facebook là 4% vào năm 2021.
+Phương thức bảo mật hai lớp phổ biến nhất hiện nay là gửi mã OTP qua tin nhắn SMS. Tuy nhiên theo các chuyên gia, phương thức này ngày càng trở nên kém an toàn khi hacker có thể thực hiện các cuộc tấn công dạng hoán đổi SIM xâm nhập mạng viễn thông hay cài phần mềm gián điệp để chiếm OTP. Phương thức an toàn hơn là sử dụng các phần mềm chuyên xác thực hoặc khóa bảo mật phần cứng.
+Lưu Quý

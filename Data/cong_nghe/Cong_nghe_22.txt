@@ -1,0 +1,9 @@
+Lý do cáp Thunderbolt 4 Pro của Apple có giá cao
+Vật liệu cao cấp và thiết kế cầu kỳ khiến cáp Thunderbolt 4 Pro bản dài 1,8 m niêm yết giá 129 USD.
+Apple bắt đầu bán cáp Thunderbolt 4 Pro cùng lúc với Mac Studio và Studio Display hồi đầu tháng 3. Mẫu cáp mới có tốc độ truyền dữ liệu 40 Gb/giây và sạc 100 W cho MacBook Pro hoặc MacBook Air đã kết nối, được bán với mức giá lần lượt 129 và 159 USD cho phiên bản dài 1,8 và 3 m. Điều này khiến nhiều người cho rằng nó đắt đến mức vô lý.
+Video mổ xẻ cáp do ChargerLAB công bố cho thấy một phần lý do khiến sợi cáp này có giá cao, bao gồm vật liệu cao cấp và quy trình chế tạo phức tạp.
+Cáp Thunderbolt 4 Pro là cụm cáp đồng trục với 19 dây. Sáu dây trong số này là cáp đồng cấp điện, hai sợi đảm nhận kết nối USB 2.0, cho phép sợi cáp tương thích ngược với chuẩn Thunderbolt 3, USB 3 và USB 2. Nhiều sợi dây bên trong cáp được mạ bạc.
+Đầu kết nối cũng dùng nhiều linh kiện cao cấp chứa trong lớp vỏ đồng thau có độ bền cao, mỗi đầu có 24 chân mạ vàng. Bên trong cổng kết nối là chip Intel có trách nhiệm tái tạo tín hiệu và giảm nhiễu. Vỏ ngoài cáp được bọc vải chống nước và chống bụi, tăng độ bền sản phẩm.
+ChargerLAB cho biết cáp hoạt động rất tốt và là lựa chọn tốt nhất hiện nay cho những người làm trong ngành sáng tạo, cần xử lý lượng lớn dữ liệu.
+Tuy nhiên, nó có thể không phù hợp với khách hàng bình thường, những người có thể tìm đến giải pháp thay thế giá rẻ hơn. Một sợi cáp Thunderbolt 4 dài 1,8 m có thể được bán với giá chỉ 40 USD, nhưng sẽ không sở hữu các vật liệu và thiết kế cao cấp của Apple.
+Điệp Anh (theo Apple Insider)

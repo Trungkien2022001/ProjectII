@@ -1,0 +1,7 @@
+Ổ SSD có thể tăng giá đột biến
+Western Digital bị hỏng ít nhất 6,5 tỷ gigabyte dung lượng ổ cứng flash do các vấn đề về ô nhiễm tại cơ sở sản xuất NAND của mình.
+Hiện Western Digital và Kioxia (trước đây là Toshiba) là liên minh sản xuất chip nhớ flash lớn nhất thế giới, chiếm 30% thị trường với nhiều khách hàng lớn như Apple. Liên minh này cũng chủ yếu cung cấp ổ cứng SSD và eMMC cho PC.
+Vì vậy theo hãng nghiên cứu thị trường TrendForce, việc Western Digital phải tiêu huỷ chip nhớ có thể làm ổ SSD tăng giá 10%. Từ đó, giá bán của PC có thể tiếp tục tăng thêm nữa, bên cạnh việc tác động của tình trạng thiếu hụt chip xử lý và GPU như hiện nay.
+Western Digital cho biết lượng chip nhớ NAND 3D phải tiêu hủy tương đương 6,5 exabyte (6,5 tỷ gigabyte) trong tháng 1 do phát hiện vật liệu ô nhiễm được sử dụng trong quá trình sản xuất. Các chip nhớ này được sản xuất tại nhà máy tại Nhật Bản. Các cơ sở này cũng đã dừng hoạt động.
+Nguyên nhân việc ô nhiễm trên chưa được công bố. Western Digital cho biết đang phố hợp với đối tác Kioxia để sớm đưa các cơ sở hoạt động trở lại trong thời gian sớm nhất.
+Huy Đức (theo The Verge)

@@ -1,0 +1,11 @@
+Bốn câu đố rèn khả năng tính nhanh
+Trong một phút, liệu bạn có thể giải bốn câu đố áp dụng các phép tính cộng, trừ, nhân, chia đơn giản?
+Câu 1: Điền cặp dấu ngoặc đơn để tạo thành phép tính đúng.
+>> Đáp án
+Câu 2: Điền số thích hợp vào vị trí dấu hỏi chấm.
+>> Đáp án
+Câu 3: Sắp xếp các số và ký hiệu toán học để được phép tính có kết quả bằng 1.
+>> Đáp án
+Câu 4: Điền 12 số bên trái vào 12 ô màu để tạo thành bốn phép cộng đúng.
+>> Đáp án
+Theo Logic Channel

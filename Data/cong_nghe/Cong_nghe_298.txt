@@ -1,0 +1,11 @@
+Nhiều người tin ảnh deepfake hơn ảnh chụp
+Nhiều người không thể phân biệt chính xác ảnh thật và ảnh tạo bằng AI, thậm chí tin tưởng khuôn mặt giả hơn.
+Trong bài viết được công bố hôm 21/2 trên tạp chí bình duyệt PNAS, nhà nghiên cứu Sophie Nightingale ở Đại học Lancaster (Anh) và Hany Farid ở Đại học California (Mỹ) cho biết đã thực hiện ba khảo sát để xác định mọi người có thể nhận diện khuôn mặt thật và deepfake hay không, cũng như làm thế nào để đưa ra kết luận.
+"Thử nghiệm của chúng tôi cho thấy công nghệ AI đã vượt qua được thung lũng kỳ lạ và có thể tạo ra những khuôn mặt không thể phân biệt với người thật, thậm chí trông còn đáng tin hơn người thật", Farid và Nightingale viết.
+Thung lũng kỳ lạ (uncanny valley) là thuật ngữ chỉ hiện tượng tâm lý trước một nhân vật do máy tính tạo ra hoặc robot hình người. Nó khơi dậy cảm giác thích thú vì quá giống người, nhưng người xem vẫn nhận ra đó không phải người thật và khiến họ sợ hãi.
+Xem đáp án
+Trong một thử nghiệm, các nhà nghiên cứu đề nghị 315 người tình nguyện xem các khuôn mặt và phân biệt đó là người thật hay sản phẩm tạo bằng công cụ deepfake. Tỷ lệ đoán đúng của nhóm này là 48,2%.
+Trong thử nghiệm thứ hai, 219 người tình nguyện được bình luận về lựa chọn của họ trong lúc xem ảnh và đạt tỷ lệ chọn đúng đến 59%.
+Điều thú vị diễn ra trong thử nghiệm thứ ba với 223 người khi được yêu cầu đánh giá mức độ đáng tin của từng khuôn mặt. Kết quả là mọi người đánh giá khuôn mặt giả đáng tin hơn một chút so với mặt thật. Nhóm nghiêm cứu cho rằng nguyên nhân là do deepfake thể hiện khuôn mặt tổng hợp từ những người có vẻ ngoài trung bình.
+Khuôn mặt da trắng dễ bị chọn nhầm nhất, trong đó khuôn mặt đàn ông khó đoán trúng hơn phụ nữ. "Chúng tôi cho rằng người da trắng khó phân biệt bởi lượng lớn khuôn mặt trong bộ dữ liệu huấn luyện StyleGAN2, cho phép AI tạo ra những hình ảnh thực tế hơn", các nhà nghiên cứu nói.
+Điệp Anh (theo Vice)

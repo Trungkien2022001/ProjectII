@@ -1,0 +1,11 @@
+Kiểm tra IQ với bốn câu đố tư duy
+Cho các số 7, 14, 42, 168 được xếp theo thứ tự bậc thang. Trong 30 giây, bạn có thể tìm được quy luật của chúng và điền số thích hợp vào dấu hỏi chấm?
+Câu 1:
+>> Đáp án
+Câu 2: Đâu là hình còn thiếu?
+>> Đáp án
+Câu 3: Điền số thích hợp vào dấu hỏi chấm.
+>> Đáp án
+Câu 4: Di chuyển một cốc nước để hàng trên thành hàng dưới.
+>> Đáp án
+Theo Bright Sides

@@ -1,0 +1,18 @@
+Những lưu ý khi sử dụng ôtô điện đi đường dài
+Chủ xe cần tính toán trước cung đường di chuyển, kiểm tra các trạm sạc tại khu vực sẽ tới, dự trù thời gian.
+Khác với xe xăng, người dùng xe điện sẽ cần lưu ý nhiều hơn trong quá trình di chuyển bởi xe điện chưa hoàn thiện về hệ thống trạm sạc và cần có thời gian tiếp năng lượng dài hơn.
+Vì thế người dùng cần tạo ra 3 thói quen khi sử dụng xe điện, đặc biệt là khi di chuyển quãng đường dài:
+Xác định rõ quãng đường di chuyển
+Không chỉ độ dài quãng đường, người dùng còn cần kiểm tra các loại địa hình sẽ di chuyển. Trong đó chủ xe cần tính toán được bao nhiêu km đường cao tốc, đường bằng hay đường núi.
+Xe điện cũng giống xe xăng, khi đi đường thoáng năng lượng tiêu thụ cũng sẽ ít hơn, tuy nhiên đường xấu, đường tắc sẽ làm xe hao pin hơn.
+Kiểm tra các trạm sạc tại khu vực sẽ đến
+Việc kiểm tra trước hệ thống trạm sạc tại những điểm sẽ đến hoặc đi qua sẽ giúp chủ xe có thể xác định được địa điểm nạp năng lượng phù hợp. Hiện tại, xe điện tại Việt Nam vẫn gặp những khó khăn trong triển khai hạ tầng trạm sạc, do không gian yêu cầu rộng hơn, nơi cung cấp trạm sạc cũng cần có nguồn điện ổn định.
+VinFast đang là hãng xe duy nhất triển khai hạ tầng trạm sạc cho xe điện tại Việt Nam. Tuy nhiên, lượng trạm này sẽ chưa thể phủ rộng và nhiều như trạm xăng truyền thông.
+Trong khi đó, thị trường cũng có khá nhiều mẫu xe điện khác, nhưng do thị phần nhỏ nhiều hãng sẽ không thể triển khai hệ thống trạm sạc trên quy mô lớn. Đây cũng là vấn đề ở nhiều nước lớn đang dần chuyển mình sang xe điện.
+Vì thế, khách hàng cần chủ động kiểm tra hệ thống trạm sạc trên tuyến đường di chuyển, hoặc tìm chỗ dừng nghỉ có đủ không gian để sạc, do đa số xe điện đều có bộ sạc tại nhà.
+Tính toán thời gian di chuyển
+Thời gian di chuyển của xe điện trên một quãng đường sẽ không khác nhiều xe xăng. Tuy nhiên, thời gian sạc của xe điện thường dài hơn xe xăng tối thiểu 11-15 phút tùy vào cây sạc với chế độ sạc nhanh, hoặc 30 phút cho quãng đường 180 km. (số liệu tiêu chuẩn trên mẫu VinFast VF e34). Trong khi nếu sạc thường sẽ mất nhiều giờ đồng hồ. Vì thế, nếu chủ xe cần xử lý công việc gấp, quãng đường xa, không có thời gian cho việc dừng nghỉ cần lưu ý đến yếu tố này.
+Chủ xe có thể kết hợp dừng nghỉ để sạc. Thông thường thời gian dừng nghỉ sẽ khoảng 10-15 phút, đây cũng là khoảng thời gian đủ để sạc nhanh cho xe điện. Chủ xe cũng nên dự trù khoảng thời gian dừng nghỉ, đi lại dài hơn so với xe xăng, dầu nếu sử dụng xe điện.
+Tuy nhiên, di chuyển bằng xe điện đường dài vẫn có những lợi thế nhất định khi các mẫu xe điện thường ít gặp trục trặc liên quan đến hệ thống động cơ. Do đa số động cơ xe điện đều khá đơn giản và không có nhiều chi tiết cơ khí.
+Ngoài ra, xe điện thường được đồng bộ với hệ thống quản lý trên ứng dụng điện thoại. Vì thế, người dùng có thể dễ dàng kiểm tra lộ trình di chuyển, hệ thống trạm sạc.
+Ánh Dương

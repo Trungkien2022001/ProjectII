@@ -1,0 +1,26 @@
+Chip bán dẫn khó chế tạo thế nào
+Khủng hoảng chip khó có thể được cải thiện trong thời gian ngắn vì sản xuất bán dẫn đòi hỏi những thiết bị phức tạp cùng quy trình nghiêm ngặt.
+Tình trạng khan hiếm chip toàn cầu khiến giá cả nhiều thiết bị leo thang chóng mặt, người dùng cũng khó lòng mua được sản phẩm theo ý muốn. Điều này khó có thể được giải quyết trong ngắn hạn, bởi sản xuất chip bán dẫn là quy trình rất phức tạp, đòi hỏi độ chính xác cao và môi trường cực sạch, bên cạnh dàn thiết bị đắt tiền và tiêu tốn nhiều thời gian.
+Trong ảnh là nhà máy chế tạo chip của GlobalFoundries tại Mỹ.
+Tình trạng khan hiếm chip toàn cầu khiến giá cả nhiều thiết bị leo thang chóng mặt, người dùng cũng khó lòng mua được sản phẩm theo ý muốn. Điều này khó có thể được giải quyết trong ngắn hạn, bởi sản xuất chip bán dẫn là quy trình rất phức tạp, đòi hỏi độ chính xác cao và môi trường cực sạch, bên cạnh dàn thiết bị đắt tiền và tiêu tốn nhiều thời gian.
+Trong ảnh là nhà máy chế tạo chip của GlobalFoundries tại Mỹ.
+Các bản mạch được sản xuất tại GlobalFoundries. Nhà máy này cần trung bình ba tháng để biến tấm silicon phẳng thành chip với nhiều lớp mạch bán dẫn. Giới chuyên gia nhận định khả năng chấm dứt vấn nạn thiếu chip là rất khó khăn, bởi cần nhiều năm xây dựng và vận hành những nhà máy mới.
+Các bản mạch được sản xuất tại GlobalFoundries. Nhà máy này cần trung bình ba tháng để biến tấm silicon phẳng thành chip với nhiều lớp mạch bán dẫn. Giới chuyên gia nhận định khả năng chấm dứt vấn nạn thiếu chip là rất khó khăn, bởi cần nhiều năm xây dựng và vận hành những nhà máy mới.
+Một hạt bụi nhỏ cũng có thể làm hư hại chip. Trước khi vào khu sản xuất, công nhân phải mặc đầy đủ đồ bảo hộ với kính che mặt, lưới bọc tóc, khẩu trang, găng tay, ủng, đồ kín thân và mũ trùm đầu.
+Bên trong khu chế tạo chip, không khí di chuyển từ trên trần xuống sàn liên tục, thông qua những ống thông gió nhằm bảo đảm không có bụi lơ lửng.
+Một hạt bụi nhỏ cũng có thể làm hư hại chip. Trước khi vào khu sản xuất, công nhân phải mặc đầy đủ đồ bảo hộ với kính che mặt, lưới bọc tóc, khẩu trang, găng tay, ủng, đồ kín thân và mũ trùm đầu.
+Bên trong khu chế tạo chip, không khí di chuyển từ trên trần xuống sàn liên tục, thông qua những ống thông gió nhằm bảo đảm không có bụi lơ lửng.
+Chip bán dẫn bắt đầu từ khối tinh thể silicon hình trụ, được cắt gọn thành từng tấm wafer mỏng và tráng lớp vật liệu nhạy sáng, sau đó liên tục được phơi trước những tia sáng có tạo hình nhất định.
+Chip bán dẫn bắt đầu từ khối tinh thể silicon hình trụ, được cắt gọn thành từng tấm wafer mỏng và tráng lớp vật liệu nhạy sáng, sau đó liên tục được phơi trước những tia sáng có tạo hình nhất định.
+Chip hiện đại rất phức tạp nên không thể chế tạo thủ công. Công nhân có trách nhiệm vận hành và bảo đảm hoạt động của máy móc, không trực tiếp tham gia sản xuất chip.
+Chip hiện đại rất phức tạp nên không thể chế tạo thủ công. Công nhân có trách nhiệm vận hành và bảo đảm hoạt động của máy móc, không trực tiếp tham gia sản xuất chip.
+Mạch điện và linh kiện được in lên bề mặt cảm quang của tấm silicon bằng cách chiếu tia sáng về phía tấm nền silicon (wafer) qua một đĩa thủy tinh được vẽ sẵn sơ đồ. Quá trình này được gọi là quang khắc.
+Mạch điện và linh kiện được in lên bề mặt cảm quang của tấm silicon bằng cách chiếu tia sáng về phía tấm nền silicon (wafer) qua một đĩa thủy tinh được vẽ sẵn sơ đồ. Quá trình này được gọi là quang khắc.
+Những phần không tiếp xúc ánh sáng được loại bỏ bằng chất hóa học để tạo mạch điện tử. Mỗi đĩa thủy tinh có thể in một lớp mạch lên wafer, một số chip cần tới 70 lớp mạch. Các wafer sau đó được cắt để tạo ra những chip riêng lẻ.
+Những phần không tiếp xúc ánh sáng được loại bỏ bằng chất hóa học để tạo mạch điện tử. Mỗi đĩa thủy tinh có thể in một lớp mạch lên wafer, một số chip cần tới 70 lớp mạch. Các wafer sau đó được cắt để tạo ra những chip riêng lẻ.
+Công nhân kiểm tra bề mặt một tấm wafer để tìm khiếm khuyết. Quá trình này giúp xác định mạch in trên wafer trùng khớp với thiết kế của nhà sản xuất.
+Công nhân kiểm tra bề mặt một tấm wafer để tìm khiếm khuyết. Quá trình này giúp xác định mạch in trên wafer trùng khớp với thiết kế của nhà sản xuất.
+Trên trần nhà máy là hệ thống vận chuyển linh kiện tự động, có khả năng di chuyển các hộp chứa wafer giữa từng giai đoạn sản xuất. Điều này giúp hạn chế tác động từ con người và tận dụng tối đa không gian nhà máy.
+Trên trần nhà máy là hệ thống vận chuyển linh kiện tự động, có khả năng di chuyển các hộp chứa wafer giữa từng giai đoạn sản xuất. Điều này giúp hạn chế tác động từ con người và tận dụng tối đa không gian nhà máy.
+Hóa chất và hệ thống phân phối dung dịch không đòi hỏi quy trình sạch như chế tạo chip được đặt dưới sàn nhà máy, kết nối với thiết bị bên trên qua mạng lưới ống dẫn.
+Hóa chất và hệ thống phân phối dung dịch không đòi hỏi quy trình sạch như chế tạo chip được đặt dưới sàn nhà máy, kết nối với thiết bị bên trên qua mạng lưới ống dẫn.

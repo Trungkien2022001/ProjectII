@@ -1,0 +1,7 @@
+Thử thách tư duy với bài toán đánh bi-a
+Trong 5 phút, bạn có thể giải được bài toán đánh bi-a bằng kiến thức lớp 6 hay không?
+Đề bài:
+Hình bên trái mô tả một cơ thủ đánh bóng bi-a vào thành bàn với góc phản xạ bằng góc tới và sau ba lần phản xạ nó chạm vào một bóng bi-a khác.
+Hình bên phải mô tả một quả bóng được đánh từ góc A của bàn bi-a ABCD là hình chữ nhật với AD = 3, AB = 10 sao cho quả bóng chạm và phản xạ tại cạnh CD đầu tiên. Bóng bật ra rồi tiếp tục chạm - phản xạ từ các cạnh bàn với góc phản xạ bằng góc tới và sau năm lần bóng phản xạ thì dừng lại ở góc D.
+Tính tổng chiều dài mà quả bóng đã đi từ A đến D?
+Trần Phương

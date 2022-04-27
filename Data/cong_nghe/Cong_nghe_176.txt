@@ -1,0 +1,9 @@
+Apple nói lỗi sụt pin trên iOS 15.4 là bình thường
+Đại diện Apple cho biết tình trạng sụt pin sau khi cập nhật iOS là điều bình thường và khuyên người dùng đợi thêm vài ngày.
+Ngày 16/3, trên Twitter, tài khoản @laceup524 phàn nàn iPhone của mình giảm hơn 5% pin chỉ trong khoảng 10 phút sau khi cập nhật iOS 15.4, điều chưa từng xảy ra trước đây. Một người khác là @jawadaq cũng nêu ý kiến tương tự.
+Phản hồi hai tweet trên, tài khoản Apple Support cho biết: "Các ứng dụng và tính năng trên thiết bị của bạn cần điều chỉnh trong vòng 48 giờ sau khi cập nhật và đó là điều bình thường".
+Hãng cũng khuyến cáo, nếu vấn đề tiếp tục xảy ra sau thời gian nói trên, người dùng nên liên hệ trực tiếp với đội ngũ của công ty để được trợ giúp. Apple đính kèm liên kết đến trang hỗ trợ với tiêu đề Tối đa hóa thời lượng pin và tuổi thọ để tham khảo thêm thông tin.
+Tuy nhiên, khi truy cập trang này, gợi ý đầu tiên để tăng thời lượng pin lại là "Cập nhật phần mềm mới nhất". Ngoài ra, các cách khác để kéo dài thời gian sử dụng là bật độ sáng tự động, dùng Wi-Fi nếu có thể thay vì thường xuyên bật kết nối di động, nên dùng Chế độ nguồn điện thấp khi pin dưới 20% hoặc cần tiết kiệm pin...
+iOS 15.4 được Apple phát hành sớm vào ngày 15/3. Nhưng ít ngày sau, nhiều người dùng iPhone phản ánh phiên bản mới gặp nhiều lỗi gây khó chịu, thường xuyên bị nóng, tụt pin nhanh. Một số cho biết họ gặp lỗi bộ nhớ ảo khi nâng cấp hệ điều hành.
+Phiên bản iOS mới nhất được bổ sung tính năng mở khóa Face ID khi đang đeo khẩu trang. Nền tảng mới cũng tích hợp thêm 37 emoji, tính năng chống theo dõi với AirTags, Siri có thể cung cấp thông tin về ngày giờ khi đang ngoại tuyến...
+Bảo Lâm (theo PhoneArena)

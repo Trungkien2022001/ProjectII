@@ -1,0 +1,14 @@
+Đáp án bài toán cờ vua của trẻ lớp 5
+Không khó để tìm ra đáp án nhưng bạn cần giải đúng theo cách dành cho học sinh lớp 5.
+Đề bài:
+Có 40 kỳ thủ thi đấu cờ vua theo thể thức vòng tròn một lượt. Mỗi kỳ thủ đều thi đấu với những kỳ thủ còn lại đúng một lần. Mỗi ván thắng được 1 điểm, ván hòa được 0,5 điểm và ván thua 0 điểm.
+Hỏi có tối đa bao nhiêu kỳ thủ tham gia có thể đạt từ 24 điểm trở lên?
+Đáp án: 
+Để ý rằng dù kết quả một ván cờ là "Thắng - Thua hay Hòa nhau" thì tổng điểm của hai kỳ thủ nhận được trong một ván cờ luôn là 1 điểm.
+Do có 40 kỳ thủ thi đấu vòng tròn một lượt nên khi kết thúc giải, tổng điểm của 40 kỳ thủ bằng tổng số trận và cùng bằng (40 x 39)/2 = 780 (điểm). Từ đó suy ra số kỳ thủ đạt từ 24 điểm trở lên không vượt quá 780/24 = 32,5, tức là không vượt quá 32 kỳ thủ.
+Ta sẽ chứng minh không thể có 32 kỳ thủ đạt 24 điểm trở lên.
+Thật vậy, giả sử có 32 kỳ thủ đạt 24 điểm trở lên. Ta có 32 kỳ thủ này thi đấu với nhau sẽ đạt ít nhất 24 - 8 = 16 điểm (xảy ra khi 32 kỳ thủ cùng thắng 8 kỳ thủ còn lại).
+Mặt khác khi 32 kỳ thủ thi đấu với nhau thì số kỳ thủ đạt từ 16 điểm trở lên không vượt quá ((32 x 31)/2) : 16 = 31. Dẫn đến mâu thuẫn và chứng tỏ giả sử sai.
+Từ đó suy ra có tối đa 31 kỳ thủ đạt 24 điểm trở lên. Có thể chỉ ra kết quả này nếu 31 kỳ thủ đều hòa nhau và mỗi kỳ thủ cùng thắng tất cả 9 kỳ thủ còn lại. Khi đó 31 kỳ thủ cùng có 30 x 0,5 + 9 = 24 điểm.
+Kết luận: Có tối đa 31 kỳ thủ tham gia có thể đạt từ 24 điểm trở lên.
+Trần Phương

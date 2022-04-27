@@ -1,0 +1,12 @@
+Lỗ hổng nguy hiểm nhất trên iPhone lại bị khai thác
+Phần mềm Reign do công ty QuaDream (Israel) có cách thức khai thác lỗ hổng iPhone tương tự Pegasus của NSO Group trước đó.
+Trích dẫn 5 nguồn tin, Reuters cho biết Reign lợi dụng ForcedEntry - lỗ hổng trong iMessage có thể phá vỡ các biện pháp bảo mật của iOS, cài đặt phần mềm gián điệp bất hợp pháp và cấp cho hacker toàn quyền kiểm soát thiết bị. Đây là lỗ hổng nghiêm trọng, được các chuyên gia bảo mật thế giới xem là "một trong những cách khai thác kỹ thuật tinh vi nhất" trên thiết bị iOS từ trước đến nay.
+Các nguồn tin cho biết, cả QuaDream và NSO Group đều đã "đạt được khả năng giống nhau trong việc đột nhập iPhone từ xa và xâm phạm điện thoại mà không cần chủ sở hữu thiết bị phải mở link độc hại". Vấn đề đã xảy ra từ năm ngoái, nhưng chỉ công ty NSO Group bị phát hiện.
+Tương tự Pegasus của NSO Group, Reign có thể kiểm soát smartphone, thu thập tin nhắn theo thời gian thực từ các dịch vụ như WhatsApp, Telegram và Signal, cũng như email, ảnh, văn bản và danh bạ. Một tài liệu được thu thập cho thấy, công cụ có thể "ghi âm cuộc gọi thời gian thực", "kích hoạt camera và micro" mà nạn nhân không hề hay biết.
+Bill Marczak, chuyên gia bảo mật của Citizen Lab, đánh giá Reign có cách hack ngang bằng với Pegasus. Khi Apple cập nhật lỗ hổng vào tháng 9/2021, cả hai phần mềm đều không còn hoạt động hiệu quả.
+Cũng giống NSO Group, QuaDream bán Reign với giá 2,2 triệu USD nhưng không bao gồm phí bảo trì, khách hàng có thể sử dụng 50 lần, theo một tài liệu có từ 2019. Hai nguồn tin khác nói giá của Reign thường cao hơn.
+QuaDream được thành lập năm 2016 bởi Ilan Dabelstein và hai cựu nhân viên NSO là Guy Geva và Nimrod Reznik. Những người này ít khi xuất hiện trước truyền thông.
+Theo ba nguồn tin khác, nhiều năm qua, cả QuaDream và NSO Group đều tuyển nhân sự kỹ thuật theo cách giống nhau. Tuy nhiên, cả hai không hợp tác với nhau trong các vụ hack iPhone mà nghĩ ra cách riêng để tận dụng lỗ hổng ForcedEntry.
+QuaDream và Apple chưa đưa ra bình luận.
+Trước đó, hàng loạt vụ hack do công cụ Pegasus đứng sau đã bị phát hiện. Đầu 2021, Tổ chức Ân xá Quốc tế cho biết tìm thấy bằng chứng về việc iPhone 12 bị tấn công khiến 50.000 số điện thoại bị rò rỉ. Phần mềm của NSO Group cũng được dùng để theo dõi người thân của Jamal Khashoggi - nhà báo Washington Post bị ám sát. Hồi tháng 9 năm ngoái, Pegasus cũng được tìm thấy trên điện thoại của ít nhất 5 bộ trưởng Pháp. Apple đã nộp đơn kiện, yêu cầu lệnh cấm vĩnh viễn NSO Group sử dụng phần mềm, dịch vụ hoặc thiết bị của hãng.
+Bảo Lâm

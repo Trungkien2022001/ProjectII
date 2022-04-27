@@ -1,0 +1,9 @@
+Đối mặt án tù 10 năm vì bán 1.000 MacBook ăn cắp
+MỹPhilip James, sống tại Folsom, California có thể bị phạt tù 10 năm vì tiêu thụ hơn 1.000 MacBook bị đánh cắp, trị giá hơn 2,8 triệu USD.
+James, 35 tuổi, thu mua những chiếc MacBook bị đánh cắp từ tháng 10/2015 đến tháng 6/2020, với giá từ 1.600 đến 2.250 USD mỗi thiết bị.
+Theo hồ sơ tòa án, số thiết bị James mua gồm 100 máy đánh cắp từ Tesla, 100 chiếc lấy ở UC Berkeley và hơn 800 chiếc còn lại thuộc Đại học Stanford. Tất cả đều do nhân viên nội bộ tuồn ra ngoài.
+James sẽ được đưa ra xét xử vào tháng 7 tới. Với tội danh trên, người này có thể đối mặt án tù tối đa 10 năm và phải khắc phục hậu quả. James hiện đã đồng ý trả khoản bồi thường 2,765 triệu USD cho Tesla và các nơi mất thiết bị.
+Thông thường, MacBook dùng trong các doanh nghiệp, tổ chức sẽ được cài chương trình MDM (Mobile Device Management) để quản trị hệ thống. Khi doanh nghiệp thực hiện hợp đồng mua bán với Apple, dải serial của MacBook được ghi lại. Khi kích hoạt, các thông tin, trong đó quan trọng nhất là số serial, sẽ được kiểm tra và gửi về máy chủ để đối chiếu.
+Nếu thuộc diện quản lý của MDM, máy yêu cầu đăng nhập tài khoản tổ chức hoặc công ty rồi tự động tải và cài đặt phần mềm theo cấu hình định sẵn. Do đó, với loại thiết bị này, người dùng có thể không thể chỉnh sửa các thiết lập có sẵn trong máy.
+Gần đây, MacBook MDM xuất hiện tại Việt Nam dưới dạng hàng cũ với giá bán thấp hơn. Theo một chuyên gia, đa số máy MDM đều có nguồn gốc từ các công ty Mỹ như Amazon, Google, Facebook hay Tesla với cấu hình mạnh. Các máy dùng chip Intel cũ trước 2020 có thể dùng công cụ để thay số serial nên gần như loại bỏ được hoàn toàn thông báo MDM khiến người dùng khó phát hiện.
+Bảo Lâm (theo Apple Insider)

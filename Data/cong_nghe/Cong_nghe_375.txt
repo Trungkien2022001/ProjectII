@@ -1,0 +1,10 @@
+Hiệu năng Galaxy S22 Ultra thua iPhone 13 Pro Max
+Galaxy S22 là dòng sản phẩm mới và mạnh nhất của Samsung, nhưng vẫn thua iPhone 13 trong các bài đánh giá hiệu năng.
+Samsung hôm 9/2 ra mắt bộ ba Galaxy S22, nằm trong nhóm thiết bị Android nhanh nhất thị trường hiện nay. Trong đó, bản Ultra được chờ đón nhất vì là phiên bản đầu tiên thuộc dòng S được trang bị bút S Pen tương tự Note series. Đây cũng là model đi kèm bút cảm ứng với độ trễ đầu vào thấp kỷ lục của Samsung, từ 9 ms xuống còn 2,8 ms.
+PCMag tiến hành thử nghiệm chip Snapdragon 8 Sen 1 trên dòng Galaxy S22 và so sánh với các thiết bị Android, cũng như iPhone 13 Pro Max.
+S22 Ultra đạt 1.232 điểm trong bài kiểm tra đơn lõi của công cụ đo hiệu năng Geekbench, điểm đa lõi là 3.433, còn điểm học máy của sản phẩm là 448. Trong khi đó, chip A15 Bionic của iPhone 13 Pro Max đạt lần lượt là 1.735, 4.647 và 948.
+Thử nghiệm Geekbench cho thấy smartphone của Apple vẫn dẫn trước đối thủ với khoảng cách đáng kể. Sự ra mắt của chip A16 Bionic trong nửa cuối 2022 có thể giúp sản phẩm của Apple duy trì vị thế smartphone nhanh nhất thị trường trong thời gian tới.
+Các thiết bị Apple thường cho kết quả benchmark cao hơn sản phẩm Android có cấu hình tương đương, phần lớn bởi Apple có nhiều kinh nghiệm thiết kế chip bán dẫn, đồng thời duy trì quyền kiểm soát chặt chẽ với cả phần cứng và phần mềm.
+Galaxy S22 Ultra là smartphone có màn hình độ sáng cao nhất hiện nay với 1.750 nit, kích thước 6,8 inch Dynamic Amoled 2X tương tự S21 Ultra với thiết kế Infinity O. Độ phân giải màn hình đạt QHD+, tần số quét 120 Hz.
+Máy có cấu hình mạnh với RAM 8-12 GB, bộ nhớ trong từ 128 GB đến 1 TB. Chip xử lý là Snapdragon 8 Gen 1 hoặc Exynos 2200 tuỳ thị trường. Sản phẩm dự kiến ra mắt tại Việt Nam ngày 16/2 với giá cao nhất 38 triệu đồng.
+Điệp Anh (theo Apple Insider)

@@ -1,0 +1,21 @@
+Cách hạ thủy một con tàu
+Con tàu lớn trượt ngang rồi đáp mạnh xuống mặt nước, tạo cơn sóng lớn như ngoài biển khơi.
+Video trên ghi lại cảnh con tàu Greenland được hạ thủy vào tháng 10/2015 tại xưởng đóng tàu Ferus Smit ở Westerbroek, Hà Lan. Tàu có nhiệm vụ chuyên chở xi măng và là một trong những tàu chở hàng khô đầu tiên sử dụng hệ thống đẩy bằng khí tự nhiên hóa lỏng (LNG).
+Tàu Greenland được hạ thủy theo phương pháp phổ biến nhất trên thế giới: hạ thủy ngang. Những cách thức hạ thủy tàu còn lại gồm hạ thủy dọc, bằng túi khí, bằng âu (hay ụ nổi), và bằng cần cẩu.
+Hạ thủy ngang
+Giống như video trên, tàu được cố định trên những xe triền nằm ngang có hệ thống ray, phanh hãm, tời và bánh lăn, đường trượt nghiêng về phía mặt nước hay còn gọi là triền ngang hoặc các đà trượt, máng trượt.
+Toàn bộ quá trình cần được tính toán tỉ mỉ với nhiều yếu tố và thông số khác nhau như: kích thước tàu, góc nghiêng, sức gió, thủy triều; từ những thông số đơn giản như chiều dài, chiều rộng, vị trí hạ thủy, trọng tâm, góc nghiêng, lực ma sát, lực cản, lực nổi của nước, phản lực của nền hay lực hãm. Tất cả để nội suy tới những phép tính phức tạp như đường dọc tâm cân bằng tàu, độ ổn định của tàu khi trên triền khi di chuyển, khi tiếp xúc với mặt nước, nhằm mục đích đảm bảo cho tàu hạ thủy an toàn.
+Phương pháp hạ thủy ngang tiết kiệm được chiều rộng diện tích mặt nước phục vụ hạ thủy, có thể triển khai hạ thủy trong khu vực có độ sâu tương đương với chiều chìm của tàu, áp dụng phổ biến cho các nhà máy đóng tàu có vị trí trong sông.
+Hạ thủy dọc
+Video ghi lại quá trình hạ thủy của phà Liekut tại xưởng đóng tàu FSG tại Flensburg, Đức, vào tháng 10/2019. Phà được hạ thủy dọc. Phà nằm dọc trên triền nghiêng và cố định với máng trượt rồi được đưa xuống nước dưới tác dụng của hệ thống tời và trọng lượng tàu.
+Ưu điểm là hệ thống triền đà nhỏ gọn có thể hạ thủy trong không gian trên bờ hẹp. Nhược điểm là chiều rộng mặt nước phải đảm bảo đủ cho chiều dài của tàu khi hạ thủy chưa kịp quay trở, vùng nước phải có độ sâu đảm bảo (ít áp dụng phương án này cho các dạng tàu có mũi quả lê).
+Hạ thủy bằng túi khí
+Trong video là con tàu Eimskip được hạ thủy bằng túi khí tại Uy Hải, tỉnh Sơn Đông, Trung Quốc, vào năm 2013.
+Hạ thủy bằng túi khí là phương án hạ thủy tương tự như hạ thủy dọc nhưng không dùng hệ thống đà, triền hay máng mà thay bằng các túi khí. Những túi khí có dạng hình trụ lớn, làm bằng cao su gia cố có khả năng chịu tải cao.
+Phương pháp này giúp bảo quản bề mặt đáy tàu, chống biến dạng vỏ thân tàu, tiết kiệm chi phí. Tuy nhiên, các túi khí khi chịu tác dụng của trọng lực và ma sát không đảm bảo độ bền cao.
+Hạ thủy bằng âu chìm
+Tàu được đóng mới ngay trong âu (ụ nổi). Khi tàu hoàn thiện, nước được dẫn vào âu lợi dụng lực đẩy Acsimet để nâng tàu lên khỏi các ụ kê, sau đó sử dụng tàu kéo để kéo ra vị trí neo đậu.
+Phương pháp an toàn hơn so với những cách trên, lắp ráp toàn bộ thân tàu trong âu. Tuy nhiên, công trình thủy công phải đủ lớn để triển khai thi công và hạn chế kích thước của tàu phụ thuộc theo kích thước âu chìm.
+Hạ thủy bằng cần cẩu hay máy nâng
+Phương pháp này nhanh chóng, linh hoạt hơn nhiều so với những cách trên, nhưng chỉ có thể áp dụng cho các loại tàu cỡ nhỏ.
+Mỹ Anh
